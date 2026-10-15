@@ -1,0 +1,8205 @@
+{
+ "schema": "ethnos_custom/v1",
+ "app_name": "民族音乐-畲塔怒鄂版",
+ "generated_at": "2026-10-12 15:56:05",
+ "note": "由 mountainriverechoes 官方曲库过滤生成，仅含畲族/塔吉克族/怒族/鄂温克族四个民族。",
+ "groups": [
+  {
+   "key": "e20",
+   "group": "畲族",
+   "declared_count": 252,
+   "count": 252,
+   "built_at": 1791774572.018421,
+   "kws": [
+    "畲族民歌",
+    "畲族歌曲",
+    "畲族山歌"
+   ],
+   "source_file": "e20_畲族.json",
+   "tracks": [
+    {
+     "song_name": "国家非遗-畲族民歌《高皇歌》",
+     "singers": "青花咯",
+     "album": "BV1vVcfzkETK",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见福建 畲族民歌 - 英台十送 Farewell by Yingtai",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV1JAQvBfE1w",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见福建 畲族民歌 - 歌是山哈传家宝 Song Is the Treasure of the Shanha",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV1JAQvBfE1w",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见福建 畲族民歌 - 哭嫁歌 The Bridal Lament",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV1JAQvBfE1w",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见福建 畲族民歌 - 祖宗歌 Song of the Ancestors",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV1JAQvBfE1w",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见福建 畲族民歌 - 有缘歌 Song of Destiny",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV1JAQvBfE1w",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族民歌",
+     "singers": "陌生的熟面人",
+     "album": "BV14V4y1x7dK",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "淳安畲族民歌合集",
+     "singers": "艾马拉橡皮擦",
+     "album": "BV1YLqCYGEDh",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族山歌景宁调蓝圆聪演唱",
+     "singers": "畲乡仁韵",
+     "album": "BV1mB4y137GC",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族山歌遂昌调",
+     "singers": "畲乡仁韵",
+     "album": "BV1CD4y1v7uZ",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "福建省歌舞团女高音施爱华领唱畲族民歌作品《畲家歌颂毛主席》，这首歌也算是她去上海音乐学院进修前的代表作了。(1975) - studio_video_1761407202677.mp4",
+     "singers": "-王浩宇--",
+     "album": "BV1husZzfEuL",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "景宁畲族民歌《落郎垌里来看花》",
+     "singers": "艾马拉橡皮擦",
+     "album": "BV1Ym5NzdE2y",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "浙江景宁｜中国畲乡三月三｜畲族山歌、凤凰装、乌米饭，这座山城用一场狂欢，向世界大声介绍自己",
+     "singers": "陈诺读城记",
+     "album": "BV1N1doB5EEg",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族少女，现场表演畲族歌曲，好听但是没听懂丨奇妙的诗词",
+     "singers": "冬瓜视频114",
+     "album": "BV1fN4y1c7Ce",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "云和黄处｜我们一起沉浸式听一段畲族山歌吧～ - share_57492c42a5742a52316334618a6f3a1a1788845664880",
+     "singers": "畲韵黄处实践手记",
+     "album": "BV1jAYn6qEkT",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "阿妹你是哪到呢",
+     "singers": "林树豪",
+     "album": "再现五十三",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "对山歌-刘三姐",
+     "singers": "凯小晴、苏潇潇",
+     "album": "对山歌-刘三姐",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "在那东山顶上",
+     "singers": "索朗顿珠",
+     "album": "",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "花开中国",
+     "singers": "谭维维, 吴碧霞, 希林娜依高, 王丽达, 黄霄雲",
+     "album": "花开中国 (舒楠监制 官方正式版)",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "央金玛",
+     "singers": "朱哲琴",
+     "album": "央金玛",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "牧羊曲",
+     "singers": "郑绪岚",
+     "album": "隽永留声—歌坛辉煌系列 郑绪岚",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "亲爱的中国，我的爱",
+     "singers": "王晰",
+     "album": "《声动春城》演唱会1",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "难忘今宵",
+     "singers": "李谷一",
+     "album": "中国巨星纪念名盘集—李谷一",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "众人划桨开大船",
+     "singers": "付笛声",
+     "album": "百年辉煌百年歌（十）",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "滚滚长江东逝水",
+     "singers": "杨洪基",
+     "album": "白发·黄沙",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "咱当兵的人",
+     "singers": "刘斌",
+     "album": "一人一首成名曲2",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "山歌好比春江水",
+     "singers": "斯琴格日乐",
+     "album": "《唱给你听》 20180823 彼岸",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "月是故乡明",
+     "singers": "王二妮",
+     "album": "月是故乡明",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "黑暗中的舞者",
+     "singers": "HAYA乐团",
+     "album": "HAYA乐团北京现场音乐会",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "美丽的草原我的家",
+     "singers": "乌兰图雅",
+     "album": "",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "今生相爱",
+     "singers": "扎西措, 泽尔丹",
+     "album": "中国西部 百年宝典（6）",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "摇篮曲",
+     "singers": "于文华",
+     "album": "民谣盛宴—采红菱",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "乔家大院",
+     "singers": "谭晶",
+     "album": "晶音缭绕",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "喜乐年华",
+     "singers": "陈红",
+     "album": "常回家看看",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "十五的月亮",
+     "singers": "龚玥",
+     "album": "军歌红",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "山丹丹开花红艳艳",
+     "singers": "阿宝",
+     "album": "58毫米",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "@畲小仙（畲族）创作的原声",
+     "singers": "畲小仙（畲族）",
+     "album": "",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "清新的旋律",
+     "singers": "畲小仙（畲族）",
+     "album": "",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "让我们荡起双桨",
+     "singers": "畲小仙（畲族）",
+     "album": "",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "梦田 (Live畲族)",
+     "singers": "华语群星",
+     "album": "2017浙江卫视农民春晚（我们的村晚）",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族采茶曲 (伴奏)",
+     "singers": "程铁",
+     "album": "畲族茶歌",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "第227章 畲族",
+     "singers": "lh心心",
+     "album": "重回八零，从路边支了个摊做起（第一季）",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "《这就是畲族非遗之畲族双音》42",
+     "singers": "Vvicky23",
+     "album": "BV1SR4y1S7L2",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "无伴奏混声合唱《畲族情歌》浙江音乐学院“八秒”合唱团 阎宝林指挥 - 序列 01",
+     "singers": "kaladona",
+     "album": "BV1JB4y1U7DD",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族原生态歌言（景宁调）",
+     "singers": "bili_90589815137",
+     "album": "BV1af4y1b7ZG",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【华夏古乐团】《扊扅歌》 - 3.《扊扅歌》ok",
+     "singers": "河南博物院",
+     "album": "BV1iU4y1Z7Zz",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族双音《采茶歌》",
+     "singers": "艾马拉橡皮擦",
+     "album": "BV1BZcnemEhy",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族你可曾听说过一类讲“客家话”的游耕民族？ - B站-修改后",
+     "singers": "输打梭马",
+     "album": "BV16ibq65EAZ",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "民族的就是世界的！原创新畲族情歌《凤凰誓》MV来啦！",
+     "singers": "Frankie许方凯",
+     "album": "BV1TbJhzYEyV",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族传统体育运动展示 - 浙江省遂昌县三仁畲族乡中心小学民体展示",
+     "singers": "Q微尘",
+     "album": "BV1Yw411f7kv",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "三亚优贝艺术培训中心《畲山春》“美育圆梦”2023中小学美育成果展演",
+     "singers": "魅力校园",
+     "album": "BV1Du4y1q7f1",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族",
+     "singers": "孤独孤嘟嘟嘟嘟嘟",
+     "album": "BV1DKgkzyEm3",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "[民歌中国]湖北民歌《催咚催》_演唱-易文卉_",
+     "singers": "我家乖囡-二骑小操",
+     "album": "BV1ct421N7vC",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "为了“拯救”濒危的古畲语，我给我的民族写了首歌丨《凤凰谣·畲》 - lv_0_20260624120708",
+     "singers": "妙吾Aliuyin",
+     "album": "BV1kEjR6iET7",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "桃李杯 畲族女子独舞《三月春来》",
+     "singers": "茶煮一山月",
+     "album": "BV1tkXNYNE8v",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族自编民歌《盘歌郎》",
+     "singers": "艾马拉橡皮擦",
+     "album": "BV1CRY5zmECF",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族拳",
+     "singers": "泽明聊拳",
+     "album": "BV1LG411z74i",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "音乐疗法",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "音乐疗法",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "阴阳",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "阴阳",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "印度音景",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "印度音景",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "正念",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "正念",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "自然缓解",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "自然缓解",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "坦布拉背景音乐",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "坦布拉背景音乐",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "舒压按摩",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "舒压按摩",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "印度瑜伽",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "印度瑜伽",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "离过婚的女人",
+     "singers": "岩更",
+     "album": "",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "忠贞",
+     "singers": "吉克老鹰",
+     "album": "听见凉山 电视剧原声带",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "三月三上春山｜原创畲汉双语歌曲《采茶歌》MV",
+     "singers": "导演金辉",
+     "album": "BV1S1R9YVEVR",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "《畲族》",
+     "singers": "安慕东",
+     "album": "BV1wHi6YmEKT",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "好看的畲族舞蹈 - 20260515_183311",
+     "singers": "纯良の大叔",
+     "album": "BV1vp5i6PEr3",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族民间文化特色，采茶舞蹈，畲族欢哥，茶飘香，少儿群舞，简单易排，音乐好听。#集体舞蹈 #集体舞 #艺术节舞蹈 #畲族 #采茶 - lv_0_20250825004716",
+     "singers": "语言舞蹈剧目库YYWDJMK",
+     "album": "BV1Noepz3ELv",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族竹竿舞 歌颂美好生活 跳出快乐幸福 - 畲族竹竿舞 跳出幸福的快乐",
+     "singers": "吉安大视界",
+     "album": "BV1dX4y1N7Qn",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族小说歌#非遗#传统文化#畲族小说歌",
+     "singers": "北京非遗保护发展中心",
+     "album": "BV1du411s7YV",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族 罗源调 情歌对唱",
+     "singers": "艾马拉橡皮擦",
+     "album": "BV1H4BRYtEQA",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "雨过天晴的畲族村 ＃sunkiss ＃火凤凰 - TG-2026-09-19-194048395",
+     "singers": "YH汉堡",
+     "album": "BV1Tzaw6TEbd",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族文化分享：“小说歌” - 1789694875786",
+     "singers": "爱和平的山客",
+     "album": "BV1FKey62EKv",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲字怎么读 畲族 - 畲字怎么读",
+     "singers": "小茜说养生",
+     "album": "BV1oyfhBfEuT",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族人家 用山歌传唱百年民族记忆 - 畲族人家",
+     "singers": "木樨啊嘞",
+     "album": "BV1mz4y197X5",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "潮汕凤凰山畬歌族招兵节 - 7.（省级）潮州凤凰山畲族招兵节",
+     "singers": "新加坡潮州八邑会馆",
+     "album": "BV1eq4y1974g",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "珊瑚颂",
+     "singers": "卓依婷",
+     "album": "民歌小调",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "对歌（上）",
+     "singers": "傅锦华, 黄兴宁等",
+     "album": "刘三姐 对歌",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "朱大嫂送鸡蛋+刮地风",
+     "singers": "卓依婷",
+     "album": "民歌小调",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "牧羊归",
+     "singers": "姜嘉锵",
+     "album": "全球华人歌唱家系列—姜嘉蒋",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Choosh",
+     "singers": "Various Artists",
+     "album": "Earthbeat! Tribal Collection - 20Th Anniversary Special",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "仙子故恋山中客(云南山歌)",
+     "singers": "云南涛郎, 梅花仙子",
+     "album": "昙花一现在六月（云南山歌）",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "钱王之乡会泽城（云南山歌）",
+     "singers": "云南涛郎, 梅花仙子",
+     "album": "昙花一现在六月（云南山歌）",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "桃林情花为爱开（云南山歌）",
+     "singers": "云南涛郎, 吴其美",
+     "album": "爱你爱到骨髓里（云南山歌）",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "有名无实度余生 云南山歌",
+     "singers": "云南涛郎, 吴其美",
+     "album": "只因多看你一眼 云南山歌",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "十月怀胎",
+     "singers": "李彦丰",
+     "album": "李彦丰山歌合集",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "贵山贵水等贵人",
+     "singers": "娄欢",
+     "album": "贵山贵水等贵人",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "我们今晚相聚甚欢",
+     "singers": "吉祥谣组合",
+     "album": "藏族山歌会原声大碟",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "昔日的福马",
+     "singers": "尕藏尼玛",
+     "album": "藏族山歌会原声大碟",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "山遥水远难相通",
+     "singers": "张振坤",
+     "album": "《歌声飞过淡水河》",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "唱山歌(电影《豆腐西施》插曲)",
+     "singers": "林翠, 杨光",
+     "album": "林翠纪念专辑 - 剑舞",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "又唱新山歌",
+     "singers": "刘和刚",
+     "album": "《又唱新山歌-饶荣发客家山歌》",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "山路弯弯长又长",
+     "singers": "月璃",
+     "album": "",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "重逢歌 Reunion Song",
+     "singers": "龙军锋、龙香玉",
+     "album": "中国音乐地图之听见湖南 苗族民间歌曲集",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "山歌 (Live)",
+     "singers": "杨雨轩-苗族（8012)",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "贵州大洋芋",
+     "singers": "范樾",
+     "album": "洋芋哥唱山歌",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "2601来宾婆土博哥广西搞笑山歌，爬上树尾等白霜，特意邀妹出来玩1 #广西山歌 #广西山歌对唱 #广西山歌热 - 来宾婆土博哥广西搞笑山歌，爬上树尾等白霜，特意邀妹出来玩1 #广西山歌 #广西山",
+     "singers": "小明你的作业呢",
+     "album": "BV1QVeP6UEPF",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "2601来宾婆土博哥广西搞笑山歌，爬上树尾等白霜，特意邀妹出来玩1 #广西山歌 #广西山歌对唱 #广西山歌热 - 来宾婆土博哥广西搞笑山歌，自己铺床自己睡，妹讲孤寒不孤寒2 #广西山歌 #广西山",
+     "singers": "小明你的作业呢",
+     "album": "BV1QVeP6UEPF",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "2601来宾婆土博哥广西搞笑山歌，爬上树尾等白霜，特意邀妹出来玩1 #广西山歌 #广西山歌对唱 #广西山歌热 - 来宾婆土博哥广西搞笑山歌，男人上当女人亏，今天不得等下回3 #广西山歌 #广西山",
+     "singers": "小明你的作业呢",
+     "album": "BV1QVeP6UEPF",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "2601来宾婆土博哥广西搞笑山歌，爬上树尾等白霜，特意邀妹出来玩1 #广西山歌 #广西山歌对唱 #广西山歌热 - 来宾婆土博哥广西搞笑山歌，不信捞衣给妹看，排骨断了几多条4",
+     "singers": "小明你的作业呢",
+     "album": "BV1QVeP6UEPF",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "2601来宾婆土博哥广西搞笑山歌，爬上树尾等白霜，特意邀妹出来玩1 #广西山歌 #广西山歌对唱 #广西山歌热 - 来宾婆土博哥广西搞笑山歌，讲得几好都是假，不得陪伴等于零5 #广西山歌 #广西山",
+     "singers": "小明你的作业呢",
+     "album": "BV1QVeP6UEPF",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "2601来宾婆土博哥广西搞笑山歌，爬上树尾等白霜，特意邀妹出来玩1 #广西山歌 #广西山歌对唱 #广西山歌热 - 老二哥里雍婆搞笑山歌对唱，那天打鱼不进网，今天捞裤又下江1 #广西山歌 #广西山",
+     "singers": "小明你的作业呢",
+     "album": "BV1QVeP6UEPF",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "2601来宾婆土博哥广西搞笑山歌，爬上树尾等白霜，特意邀妹出来玩1 #广西山歌 #广西山歌对唱 #广西山歌热 - 老二哥里雍婆搞笑山歌对唱，买水送给我情人，肯定发财又添丁2 #广西山歌 #广西山",
+     "singers": "小明你的作业呢",
+     "album": "BV1QVeP6UEPF",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "2601来宾婆土博哥广西搞笑山歌，爬上树尾等白霜，特意邀妹出来玩1 #广西山歌 #广西山歌对唱 #广西山歌热 - 老二哥里雍婆搞笑山歌对唱，肚饿跑到田基睡，你讲着力不着力3 #广西山歌 #广西山",
+     "singers": "小明你的作业呢",
+     "album": "BV1QVeP6UEPF",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "2601来宾婆土博哥广西搞笑山歌，爬上树尾等白霜，特意邀妹出来玩1 #广西山歌 #广西山歌对唱 #广西山歌热 - 老二哥里雍婆搞笑山歌对唱，以后我俩慢逗连，今年攀肩进花园4 #广西山歌 #广西山",
+     "singers": "小明你的作业呢",
+     "album": "BV1QVeP6UEPF",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "2601来宾婆土博哥广西搞笑山歌，爬上树尾等白霜，特意邀妹出来玩1 #广西山歌 #广西山歌对唱 #广西山歌热 - 老二哥里雍婆搞笑山歌对唱，我喊老妹喝下去，得喝口水你才肥5 #广西山歌 #广西山",
+     "singers": "小明你的作业呢",
+     "album": "BV1QVeP6UEPF",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "1 长歌·送郎歌#赣南采茶戏@山歌万里 - 1 长歌·送郎歌#赣南采茶戏",
+     "singers": "时光漫步86408466",
+     "album": "BV1gpYo68E3w",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "《山歌万里》徐子尧演唱《打支山歌过横排》",
+     "singers": "酷尚音乐",
+     "album": "BV1KaYo6WEeP",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "在浙闽山区寻迹畲族的山野纪事",
+     "singers": "摄影师-陈海汶",
+     "album": "BV116hx6fEAx",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族女子群舞《山哈女》",
+     "singers": "小波国风摄影",
+     "album": "BV17NPWeaEQP",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "贵州女子唱民歌诽谤他人被告，法官请来民歌大师“对歌”调解，最终女子认识到错误，赔了一万多！ - studio_video_1767183974467",
+     "singers": "沧桑纪录片",
+     "album": "BV1onigBLEZA",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "《山哈女》 畲族舞蹈 - 山哈女 畲族舞蹈",
+     "singers": "悠然-见南山",
+     "album": "BV1CZ4y1Y7Ez",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族山歌唱起来",
+     "singers": "蓝永潇&雷丹丹",
+     "album": "情定畲乡",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族山歌",
+     "singers": "左焕兴",
+     "album": "民乐",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族山歌唱起来",
+     "singers": "朱兴章",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族山歌",
+     "singers": "杜亚雄",
+     "album": "听黑白键唱中国旋律——中国民歌钢琴作品欣赏50首",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "景宁畲族民歌、海宁耍牙、砀山唢呐，长三角非遗节一站共赏",
+     "singers": "DJ彼岸",
+     "album": "最热听",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "民间音乐冒险记《048畲族民歌》",
+     "singers": "开心熊和快乐虎",
+     "album": "中国非遗民间音乐冒险记-开心熊和快乐虎",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族歌言",
+     "singers": "叶筱希",
+     "album": "福建民歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族",
+     "singers": "深海的鱼",
+     "album": "中华民族一家亲（上）",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族十字歌",
+     "singers": "雷素禄",
+     "album": "畲族民歌",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "祖宗歌",
+     "singers": "雷美凤&钟金财&兰小燕&雷清梅&雷素禄",
+     "album": "中国音乐地图之听见福建 畲族民歌",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "歌是山哈传家宝",
+     "singers": "雷美凤&雷清梅&雷素禄&兰小燕",
+     "album": "中国音乐地图之听见福建 畲族民歌",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "哭嫁歌",
+     "singers": "兰小燕&雷清梅",
+     "album": "中国音乐地图之听见福建 畲族民歌",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "有缘歌",
+     "singers": "钟金财&雷美凤",
+     "album": "中国音乐地图之听见福建 畲族民歌",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "英台十送",
+     "singers": "钟金财&雷素禄",
+     "album": "中国音乐地图之听见福建 畲族民歌",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族",
+     "singers": "新时代乐团",
+     "album": "中华56朵花-第一束之三",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族",
+     "singers": "王文龙",
+     "album": "中华民族",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族",
+     "singers": "田禾",
+     "album": "五十六个民族I",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "歌唱畲族三月三",
+     "singers": "蓝永潇",
+     "album": "畲山情",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "盘瓠传说-畬族",
+     "singers": "群星",
+     "album": "星月传说 The Story of Moon and Stars",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "哭嫁歌",
+     "singers": "兰小燕、雷清梅",
+     "album": "中国音乐地图之听见福建 畲族民歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "歌是山哈传家宝",
+     "singers": "雷美凤、雷清梅、雷素禄、兰小燕",
+     "album": "中国音乐地图之听见福建 畲族民歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "有缘歌",
+     "singers": "钟金财、雷美凤",
+     "album": "中国音乐地图之听见福建 畲族民歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "英台十送",
+     "singers": "钟金财、雷素禄",
+     "album": "中国音乐地图之听见福建 畲族民歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "祖宗歌",
+     "singers": "雷美凤、钟金财、兰小燕、雷清梅、雷素禄",
+     "album": "中国音乐地图之听见福建 畲族民歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "畲家谣",
+     "singers": "广州交响乐团合唱团",
+     "album": "56个民族56首合唱 第四辑",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "初见如故皆是你",
+     "singers": "（畲族）东家仔",
+     "album": "初见如故皆是你",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族She Nationality",
+     "singers": "小海薇",
+     "album": "五十六族兄弟姐妹是一家",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "畲山四季歌",
+     "singers": "哆哆唱国学",
+     "album": "哆哆唱国学之“唱民族”",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "FLY-飞",
+     "singers": "ANU",
+     "album": "FLY-飞",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿衣莫",
+     "singers": "阿吉太组合",
+     "album": "阿衣莫",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "卓玛",
+     "singers": "亚东",
+     "album": "故乡·卓玛",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "大山",
+     "singers": "王睿卓",
+     "album": "大山",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "乌兰巴托的夜",
+     "singers": "丹正母子",
+     "album": "乌兰巴托的夜",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "姑娘我爱你",
+     "singers": "索朗扎西",
+     "album": "家乡的姑娘",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "彩云之南",
+     "singers": "徐千雅",
+     "album": "单曲-彩云之南",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "呼伦贝尔大草原",
+     "singers": "降央卓玛",
+     "album": "金色的呼唤",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "套马杆",
+     "singers": "乌兰托娅",
+     "album": "我要去西藏",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "青藏高原",
+     "singers": "韩红",
+     "album": "醒了",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "歌在飞",
+     "singers": "苏勒亚其其格",
+     "album": "歌在飞",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "月光下的凤尾竹",
+     "singers": "哏德全",
+     "album": "葫芦丝独奏Vo1.1",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "五彩湖",
+     "singers": "杉和",
+     "album": "五彩湖",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "寂静的天空",
+     "singers": "黛青塔娜、HAYA乐团",
+     "album": "寂静的天空",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "ꆀꃅꀉꐔ尼木阿其 (Single Version)",
+     "singers": "阿西阿支",
+     "album": "ꆀꃅꀉꐔ尼木阿其",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "黄土高坡",
+     "singers": "李娜",
+     "album": "信天游",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "1376",
+     "singers": "ANU",
+     "album": "1376",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "东山美人",
+     "singers": "奥杰阿格",
+     "album": "父亲",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "约定",
+     "singers": "舞彝阳光",
+     "album": "约定",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "祖先",
+     "singers": "海日乌芝",
+     "album": "山褶2",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "树涝河畔的恋人",
+     "singers": "约里、沙玛阿呷",
+     "album": "撵山队电影原声带",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "山风一样自由",
+     "singers": "阿鲁阿卓",
+     "album": "山风一样自由",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "梦的摇篮",
+     "singers": "阿幼朵",
+     "album": "梦的摇篮",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "走西口",
+     "singers": "王二妮",
+     "album": "爱陕北",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿莫莎",
+     "singers": "拉一阿加莫",
+     "album": "阿莫莎",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "木楼明月夜",
+     "singers": "陆东辉",
+     "album": "和我一起去肇兴",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "郎想妹来妹想郎",
+     "singers": "凯小晴、苏潇潇",
+     "album": "郎想妹来妹想郎",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "哥哥不要把我忘",
+     "singers": "凯小晴、苏潇潇",
+     "album": "哥哥不要把我忘",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "也想跟你有个家",
+     "singers": "阿美",
+     "album": "也想跟你有个家",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "你莫走",
+     "singers": "山水组合",
+     "album": "你莫走",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "十分爱情七分泪",
+     "singers": "凯小晴、苏潇潇",
+     "album": "十分爱情七分泪",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿哥阿妹",
+     "singers": "谢军",
+     "album": "",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "幺妹住在十三寨",
+     "singers": "覃诚芳",
+     "album": "土家迎客歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "我本是那天上仙",
+     "singers": "右右",
+     "album": "我本是那天上仙",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "山谷里的思念",
+     "singers": "谢军",
+     "album": "",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "山路十八弯",
+     "singers": "李琼",
+     "album": "山路十八弯",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "月亮里的阿妹",
+     "singers": "鲍岩块、李妮妮",
+     "album": "佤族情歌对唱（一）",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "情歌赛过春江水",
+     "singers": "云朵、韩冰",
+     "album": "情歌赛过春江水",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "山外青山楼外楼",
+     "singers": "毛家超、余乖妹",
+     "album": "水城山歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "三跺脚",
+     "singers": "濮曼乐队",
+     "album": "濮曼",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "妹比海水深三分",
+     "singers": "小能子",
+     "album": "妹比海水深三分",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "从此不再打扰你",
+     "singers": "唐三妹",
+     "album": "从此不再打扰你",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "妹似花朵哥似碟",
+     "singers": "软软、陈林",
+     "album": "妹似花朵哥似碟",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "我爱小妹一枝花",
+     "singers": "TiAmo",
+     "album": "我爱小妹一枝花",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "等我把你娶回家",
+     "singers": "凯小晴、苏潇潇",
+     "album": "等我把你娶回家",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "荷尔蒙在燃烧",
+     "singers": "云南十三妹",
+     "album": "十三妹云南山歌专辑",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "忘川河",
+     "singers": "刘坤",
+     "album": "忘川河",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "哥哥妹妹",
+     "singers": "门丽、胡小宝",
+     "album": "哥哥妹妹",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "拉手手亲口口",
+     "singers": "云飞、王二妮",
+     "album": "云飞传奇",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "不准哥哥耍流氓",
+     "singers": "雅儿、刘坤",
+     "album": "不准哥哥耍流氓",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "三跺脚云南十八怪",
+     "singers": "山、蔡湘湘",
+     "album": "流行山歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "爱上同村的她",
+     "singers": "吴家棋、刘兰",
+     "album": "云贵山歌合集",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "你错我错皆是错",
+     "singers": "凯小晴、苏潇潇",
+     "album": "你错我错皆是错",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "花桥流水",
+     "singers": "乌兰托娅",
+     "album": "花桥流水",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "情断缘散",
+     "singers": "农村幺哥",
+     "album": "情断缘散",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿妹的酒",
+     "singers": "海来阿木",
+     "album": "阿妹的酒",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "你是我的意难平",
+     "singers": "宝丫头、小四川",
+     "album": "你是我的意难平",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "祖宗歌",
+     "singers": "瑞鸣音乐, 雷美凤, 钟金财, 兰小燕, 雷清梅, 雷素禄",
+     "album": "中国音乐地图之听见福建 畲族民歌",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "哭嫁歌",
+     "singers": "瑞鸣音乐, 兰小燕, 雷清梅",
+     "album": "中国音乐地图之听见福建 畲族民歌",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "英台十送",
+     "singers": "瑞鸣音乐, 钟金财, 雷素禄",
+     "album": "中国音乐地图之听见福建 畲族民歌",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "有缘歌",
+     "singers": "瑞鸣音乐, 钟金财, 雷美凤",
+     "album": "中国音乐地图之听见福建 畲族民歌",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "歌是山哈传家宝",
+     "singers": "瑞鸣音乐, 雷美凤, 雷清梅, 雷素禄, 兰小燕",
+     "album": "中国音乐地图之听见福建 畲族民歌",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "青菜心白菜心(DJ版)",
+     "singers": "群星",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "盘瓠传说(畬族)",
+     "singers": "风潮音乐",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "祭祖（纯音乐）",
+     "singers": "单桐",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "凤凰飞进中国梦",
+     "singers": "蓝蓝",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "霞果",
+     "singers": "畲族",
+     "album": "",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "儿女情长",
+     "singers": "王宏伟",
+     "album": "新时代乐章--全国优秀战疫公益歌曲展播（二）",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "泪蛋蛋掉在酒杯杯里",
+     "singers": "马美如",
+     "album": "泪蛋蛋掉在酒杯杯里",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "青藏高原(电视剧《天路》片头曲)",
+     "singers": "李娜",
+     "album": "百年珍藏",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "美国兵是废货",
+     "singers": "李双江",
+     "album": "军歌如潮—李双江军旅歌曲60首(2)",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "知道不知道",
+     "singers": "邓丽君",
+     "album": "邓丽君金曲选09",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "微山湖",
+     "singers": "刘紫玲",
+     "album": "电影之歌2",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "当那一天来临",
+     "singers": "陈小涛",
+     "album": "新时代乐章--军歌嘹亮战旗红",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "在那遥远的地方",
+     "singers": "腾格尔",
+     "album": "《聆听时刻》 20200508",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "高原蓝",
+     "singers": "乌兰托娅",
+     "album": "我要去西藏",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "回娘家",
+     "singers": "朱明瑛",
+     "album": "纪念中国唱片100年—民歌经典·小河淌水(1978年—新世纪)",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "天上西藏",
+     "singers": "白玛多吉",
+     "album": "云上西藏",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "长鼓敲起来",
+     "singers": "吴碧霞",
+     "album": "《民歌中国》20190607",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "社员都是向阳花",
+     "singers": "郭兰英",
+     "album": "南泥湾",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "阿里郎(Live)",
+     "singers": "金润吉",
+     "album": "魔力歌先生 第八期",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族",
+     "singers": "上海乐团管弦乐队",
+     "album": "中华五十六朵花（一）",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "畬族",
+     "singers": "半卷",
+     "album": "畬族",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族：一个被凤凰宠爱的民族",
+     "singers": "圆柱文化",
+     "album": "了不起的56个民族6-15岁必听",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族：搭起篝火唱起山歌",
+     "singers": "浙江音乐台",
+     "album": "共唱祖国好，56个民族56首歌",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族",
+     "singers": "上海乐团",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "畬族",
+     "singers": "卷卷",
+     "album": "城市",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "畲族",
+     "singers": "陈文上",
+     "album": "畲族",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "中国民族",
+     "singers": "半卷",
+     "album": "畬族",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "吉祥如意 (畲族)",
+     "singers": "儿童歌曲",
+     "album": "民族民间舞蹈",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "22.畲族-刀耕火种的山地人家",
+     "singers": "环尼宝贝",
+     "album": "中国56个民族的起源历史启蒙儿童科普",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "唱起畲歌来等你",
+     "singers": "钟玉华",
+     "album": "畲族歌谣",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "妺妺你别哭",
+     "singers": "畲族（东家仔）",
+     "album": "妺妺你别哭",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "来生再赴这一场缘",
+     "singers": "畲族（东家仔）",
+     "album": "来生再赴这一场缘",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "民间音乐冒险记",
+     "singers": "开心熊和快乐虎",
+     "album": "中国非遗民间音乐冒险记-开心熊和快乐虎",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "非遗故事《打尺寸的传说》 (畲族)",
+     "singers": "兰馨~婉约之声",
+     "album": "适合宝贝听的《中国非遗故事》",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "非遗故事《三月三谷米生日的传说》 (畲族)",
+     "singers": "兰馨~婉约之声",
+     "album": "适合宝贝听的《中国非遗故事》",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "畲山茶歌",
+     "singers": "畲小仙（畲族）",
+     "album": "",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "你莫走",
+     "singers": "畲小仙（畲族）",
+     "album": "",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "春节",
+     "singers": "畲小仙（畲族）",
+     "album": "",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "凤凰与山客",
+     "singers": "蓝永潇",
+     "album": "凤凰与山客",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": "00:04:20"
+    },
+    {
+     "song_name": "新畲族情歌 凤凰誓",
+     "singers": "雷清梅-（畲小仙）,许方凯",
+     "album": "新畲族情歌 凤凰誓",
+     "source": "网易云",
+     "ext": "FLAC",
+     "duration": "00:04:28"
+    },
+    {
+     "song_name": "浙江丽水景宁畲族歌谣：《高皇歌》【转载】",
+     "singers": "艾马拉橡皮擦",
+     "album": "BV1ZA2dY3EWk",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:06:54"
+    },
+    {
+     "song_name": "景宁畲话民歌《高皇歌》 - 中国语言资源保护工程采录展示平台",
+     "singers": "海宝Agul",
+     "album": "BV1nagvzyEhy",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:06:54"
+    },
+    {
+     "song_name": "顺昌畲族歌《我是山哈人》",
+     "singers": "老师请您教我本领",
+     "album": "BV1dL411s7xS",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:03:37"
+    },
+    {
+     "song_name": "蓝永潇《凤凰与山客》钢琴版 简介附谱",
+     "singers": "VI钢琴社",
+     "album": "BV1euaN6WEqc",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:03:31"
+    },
+    {
+     "song_name": "原唱歌唱畲族三月三蓝永潇我要上热门DOU小助手",
+     "singers": "疯魔子晴",
+     "album": "BV1x14y1d77i",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:00:48"
+    },
+    {
+     "song_name": "畲响组合惊艳合唱，一首畲族民歌《乌乌的歌》，真是天籁之作",
+     "singers": "随音所动i",
+     "album": "BV1AoUqYgEK7",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:03:05"
+    },
+    {
+     "song_name": "歌曲MV《畲歌飞山河》",
+     "singers": "壹方纪实",
+     "album": "BV17w1LYoEeL",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:03:27"
+    }
+   ]
+  },
+  {
+   "key": "e39",
+   "group": "塔吉克族",
+   "declared_count": 243,
+   "count": 243,
+   "built_at": 1791774572.261751,
+   "kws": [
+    "塔吉克族民歌",
+    "塔吉克族歌曲",
+    "花儿为什么这样红"
+   ],
+   "source_file": "e39_塔吉克族.json",
+   "tracks": [
+    {
+     "song_name": "【雪山】塔吉克族民歌与乐器",
+     "singers": "Jiminature",
+     "album": "",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克族民歌片段（一）",
+     "singers": "王江江在新疆的365天",
+     "album": "BV1w3h86KE2f",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "帕米尔高原塔吉克族民歌文化 - copy_01E215D9-F8CF-408D-88E7-3A8E80AFDCA9",
+     "singers": "波斯文化坊",
+     "album": "BV1UHgv63Exr",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克族民歌《古丽碧塔》",
+     "singers": "小仙女Flora",
+     "album": "BV1Lx411y7AD",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【万岁毛主席，万岁共产党】塔吉克族歌曲",
+     "singers": "Comrade新團",
+     "album": "BV1wj421Q7zT",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "走西口",
+     "singers": "王二妮",
+     "album": "爱陕北",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "呼伦贝尔大草原",
+     "singers": "降央卓玛",
+     "album": "金色的呼唤",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "青藏高原",
+     "singers": "韩红",
+     "album": "醒了",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "山路十八弯",
+     "singers": "李琼",
+     "album": "山路十八弯",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "北京的金山上",
+     "singers": "索朗旺姆",
+     "album": "我们永远年轻",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "黄土高坡",
+     "singers": "李娜",
+     "album": "信天游",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "在那遥远的地方",
+     "singers": "王洛宾",
+     "album": "王洛宾歌曲精选集(演唱篇)",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "彩云之南",
+     "singers": "徐千雅",
+     "album": "彩云之南",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "等你",
+     "singers": "索日格哈",
+     "album": "ꆏꇁꉚ 等你",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "山风一样自由",
+     "singers": "阿鲁阿卓",
+     "album": "山风一样自由",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "酒徒",
+     "singers": "奥杰阿格",
+     "album": "歌王的母语",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿莫莎",
+     "singers": "拉一阿加莫",
+     "album": "阿莫莎",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "圪梁梁",
+     "singers": "王二妮",
+     "album": "爱陕北",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿依木呷",
+     "singers": "小青蛙组合",
+     "album": "阿依木呷",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "爱的太苦",
+     "singers": "古火传奇",
+     "album": "专辑爱的太苦",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "嘿萨妞妞",
+     "singers": "海日乌芝",
+     "album": "山褶2",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "人说山西好风光",
+     "singers": "郭兰英",
+     "album": "原唱经典名曲珍藏（9）",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "妈妈的歌谣",
+     "singers": "莫西子诗",
+     "album": "中国摇滚榜",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "天路",
+     "singers": "韩红",
+     "album": "2009流行发烧唱片·极品男声",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "你的万水千山",
+     "singers": "海来阿木",
+     "album": "你的万水千山",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "不过人间",
+     "singers": "海来阿木",
+     "album": "不过人间",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "点歌的人",
+     "singers": "海来阿木",
+     "album": "点歌的人",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "五十年以后",
+     "singers": "海来阿木",
+     "album": "五十年以后",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "来跳舞",
+     "singers": "海来阿木",
+     "album": "来跳舞",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "牧羊姑娘",
+     "singers": "季琳",
+     "album": "牧羊姑娘",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "紫竹调",
+     "singers": "纯音乐",
+     "album": "传统古曲珍藏版 纯乐古筝",
+     "source": "酷我",
+     "ext": "MGG",
+     "duration": ""
+    },
+    {
+     "song_name": "百灵鸟 (黑胶版)",
+     "singers": "松江儿童合唱团",
+     "album": "快乐儿童中国情1（黑胶版）",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "眼泪",
+     "singers": "彝品小米",
+     "album": "眼泪",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "坎坷",
+     "singers": "吉克永都",
+     "album": "漂泊",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "回娘家",
+     "singers": "朱明瑛",
+     "album": "中国名歌",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "民族团结一家亲～～（塔县文艺团）",
+     "singers": "帕米尔之声",
+     "album": "帕米尔塔吉克族",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Tajik dance music-5",
+     "singers": "Ohang.Tj",
+     "album": "tajik dance music",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Tajik dance music-6",
+     "singers": "Ohang.Tj",
+     "album": "tajik dance music",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "平时不好找的高原塔吉克（中国塔吉克族）经典民歌三首（有修音） 塔吉克舞跳起来~",
+     "singers": "账号已注销",
+     "album": "BV1Yx4y1R7t2",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【I Love Languages】中国塔吉克•色勒库尔语 - 1616238551534",
+     "singers": "ILL宝",
+     "album": "BV1tK4y1U7EY",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【地拉热·多里孔】塔吉克族组合 第十届桃李杯民族民间舞独舞 女子独舞 - 5塔吉克族组合",
+     "singers": "追yr",
+     "album": "BV1iW411S7cL",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "明明是白种人，为什么塔吉克族却认汉朝祖先？塔吉克族为什么“祖传爱国”？《阿冉西域记》新疆三部曲之3",
+     "singers": "嗑书的阿冉叔",
+     "album": "BV1fDqGB4EXF",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "我在祖国边境参加了一场嗨翻天的塔吉克族婚礼",
+     "singers": "YanGeographer",
+     "album": "BV1yBpae2E35",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "比利时博主探秘新疆边境小城，实拍帕米尔雄鹰塔吉克族真实生活。",
+     "singers": "小道必可观",
+     "album": "BV1s17sz6Eev",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "鹰和火的传人！帕米尔高原上最古老的塔吉克老人，我帮你们找到了！",
+     "singers": "抛掷荒野ZenBaggage",
+     "album": "BV1cZvPzXENy",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "别再冤枉中国塔吉克族了！塔吉克斯坦的塔吉克语不等于中国塔吉克族母语！！",
+     "singers": "帕米尔i",
+     "album": "BV1q8ea6rEXx",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国土生土长的白种人！塔吉克族姑娘亲述：我们是中国人，世代守在帕米尔。 - studio_video_1789801706434.mp4",
+     "singers": "肥鹰可汗呀",
+     "album": "BV1Efex6tERt",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "“汉日天种”：塔吉克族的千年回响！",
+     "singers": "梓若的素手史笺",
+     "album": "BV1YBDTBMEen",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "前往国内最偏远的乡镇，四国交界处的新疆瓦恰乡，高原塔吉克族世居的秘境！",
+     "singers": "阿树旅拍100个乡村",
+     "album": "BV17JCoYzEdS",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克族爱国是祖传的！——斯基泰人与中国（中） - 新视频",
+     "singers": "智慧的鹰嘴豆",
+     "album": "BV1GX4y137dF",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见新疆 塔吉克族民间歌曲集 - 01.忧伤的爱情 法拉克",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV1g54y1J7k4",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见新疆 塔吉克族民间歌曲集 - 02.玛尼古丽",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV1g54y1J7k4",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见新疆 塔吉克族民间歌曲集 - 03.情甘古丽",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV1g54y1J7k4",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见新疆 塔吉克族民间歌曲集 - 04.古丽巴尔格爱情歌曲联唱",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV1g54y1J7k4",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见新疆 塔吉克族民间歌曲集 - 05.一首古老的歌 萨热贡",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV1g54y1J7k4",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见新疆 塔吉克族民间歌曲集 - 06.曾经的爱 在那力马",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV1g54y1J7k4",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见新疆 塔吉克族民间歌曲集 - 07.库依那孜古丽",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV1g54y1J7k4",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见新疆 塔吉克族民间歌曲集 - 08.恰朴苏尔",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV1g54y1J7k4",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见新疆 塔吉克族民间歌曲集 - 09.思念故去的亲人 阿祖尔费克",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV1g54y1J7k4",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见新疆 塔吉克族民间歌曲集 - 10.巴拉马克",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV1g54y1J7k4",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克经典舞曲",
+     "singers": "Nosirshokh",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克歌曲",
+     "singers": "Reyimu",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克伴奏",
+     "singers": "sduke",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "原版 爱刺绣的姑娘们-----（塔吉克歌曲）",
+     "singers": "帕米尔之声",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Ajab berm to dli bar",
+     "singers": "TJ BOY",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "daf noy",
+     "singers": "皇冠音乐",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Tawalot muburak (生日之歌）",
+     "singers": "TJ-KING,Salim-Amsado",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Gulqator",
+     "singers": "Khushruzi Bakhtovarsho",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "wazza atyik lewam",
+     "singers": "Amixa",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Ulughjon-Ulughjon – 抖音背景纯音乐（TJ-KING remix）",
+     "singers": "TJ-KING,Ulughjon",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Dilshodi_ Oro mi Jonam 伴奏",
+     "singers": "TAJIK青年",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Ganjina-Duttarakoi Armi Remix （Ebrahim remix）",
+     "singers": "Ebrahim Rusitam",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Niyozahun_kasam",
+     "singers": "Aluk",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Gavlam sej magam",
+     "singers": "Omad Awazbayg",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "【Heux qiroy】",
+     "singers": "Aluk",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Masouma",
+     "singers": "Madina Aknazarova",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Nurdin Suoz",
+     "singers": "Amixa",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克小歌",
+     "singers": "塔吉克族",
+     "album": "少数民族音乐精选2",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Shuo Huang De Yan Jing(Kala)",
+     "singers": "Kenny Chiang",
+     "album": "歌",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "歌",
+     "singers": "陈朋",
+     "album": "歌",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "曲（车载版）",
+     "singers": "59小朋友",
+     "album": "",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "曲 (DJ纯享版)",
+     "singers": "易梦玲",
+     "album": "",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "曲 (Remix)-",
+     "singers": "美阳阳",
+     "album": "",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "《慕士塔格英雄》是歌颂拉齐尼精神的一首歌曲,塔吉克族演唱者热孜完古丽·巴拉提以及延卓导演致敬时代楷模拉齐尼",
+     "singers": "延卓看世界",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克族舞蹈歌曲",
+     "singers": "TAJIK青年&汗那比",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "忧伤的爱情 法拉克 Gloomy Love “Falake”",
+     "singers": "瑞鸣音乐&姑丽娜尔·阿洪江&艾孜木·胡西迪力",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "玛尼古丽 Mani Guli",
+     "singers": "瑞鸣音乐&姑丽娜尔·阿洪江&阿瓦力拜克·尼夏提",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "情甘古丽 Love to Guli",
+     "singers": "瑞鸣音乐&姑丽娜尔·阿洪江&阿瓦力拜克·尼夏提",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Nuwahtaftuyd.塔吉克歌曲",
+     "singers": "Ulughjon",
+     "album": "塔吉克歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克音乐",
+     "singers": "塔吉克歌曲",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "TJ轻音乐",
+     "singers": "Afu sus",
+     "album": "塔吉克歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Afu ka",
+     "singers": "Tj BOY",
+     "album": "塔吉克歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "一个人挺好",
+     "singers": "塔吉克歌曲",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "tujik usul 塔吉克歌曲",
+     "singers": "Ulughjon-塔吉克歌手",
+     "album": "Tujik usul 塔吉克歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "wazatayik lewam 塔吉克歌曲",
+     "singers": "Ulughjon-塔吉克歌手",
+     "album": "Wazatayik lewam 塔吉克歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "gulsurat . 塔吉克歌曲",
+     "singers": "Uluhgjon-塔吉克歌手",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "peywand .beyt（Qatma）塔吉克歌曲",
+     "singers": "Ulughjon-塔吉克歌手",
+     "album": "Peywand .beyt（Qatma）塔吉克歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Uluhgjon & Abdurasul--Peywand beyt 塔吉克歌曲",
+     "singers": "Ulughjon-塔吉克歌手",
+     "album": "Uluhgjon & Abdurasul--Peywand beyt 塔吉克歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "mayirjan 塔吉克歌曲",
+     "singers": "Ulughjon-塔吉克歌手",
+     "album": "Mayirjan 塔吉克歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "deykun 塔吉克歌曲",
+     "singers": "Ulughjon-塔吉克歌手",
+     "album": "农民",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "DIHTARI TUJIK 塔吉克歌曲",
+     "singers": "Uluhgjon-塔吉克歌手",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "DIL PARA 塔吉克歌曲",
+     "singers": "Ulughjon-塔吉克歌手",
+     "album": "DIL PARA 塔吉克歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "gulrana 塔吉克歌曲",
+     "singers": "Uluhgjon-塔吉克歌手",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "kuyu wada 塔吉克歌曲",
+     "singers": "Ulughjon-塔吉克歌手",
+     "album": "Kuyu wada 塔吉克歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "NAWAM . 塔吉克歌曲",
+     "singers": "Uluhgjon-塔吉克歌手",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "guftik sanamjan 塔吉克歌曲",
+     "singers": "Uluhgjon-塔吉克歌手",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克女孩-tujik razen-Eman Ali",
+     "singers": "皇冠音乐",
+     "album": "塔吉克歌曲集",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "花儿为什么这样鲜艳",
+     "singers": "顾孝光（艺名：叶尔羌河之歌）",
+     "album": "塔吉克原创歌曲专辑",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "永不离去的雪莲",
+     "singers": "顾孝光（艺名：叶尔羌河之歌）",
+     "album": "塔吉克原创歌曲专辑",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "阿依阿芝",
+     "singers": "海日乌芝",
+     "album": "阿依阿芝",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "古丽巴尔格爱情歌曲联唱 Gulibaerge is waiting for the quartet of four love songs",
+     "singers": "姑丽娜尔·阿洪江, 阿布都那苏·曼苏尔汗, 艾克拜尔·艾比力秀, 阿瓦力拜克·尼夏提, 克力木·阿尤甫, 艾孜木·胡西迪力",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "一首古老的歌 萨热贡 An ancient song Sare Gong",
+     "singers": "阿布都那苏·曼苏尔汗, 艾克拜尔·艾比力秀, 阿瓦力拜克·尼夏提, 克力木·阿尤甫, 艾孜木·胡西迪力",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "古丽碧塔 Guli Bita",
+     "singers": "姑丽娜尔·阿洪江, 艾克拜尔·艾比力秀, 阿瓦力拜克·尼夏提, 艾孜木·胡西迪力, 克力木·阿尤甫",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "吉格达古丽 Jigeda Guli",
+     "singers": "依加巴提汗·肉斯坦木汗, 阿布都那苏·曼苏尔汗, 艾孜木·胡西迪力, 艾克拜尔·艾比力秀",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "忧伤的爱情 法拉克 Gloomy love Falake",
+     "singers": "姑丽娜尔·阿洪江, 艾孜木·胡西迪力",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "恰朴苏尔 Girls in Qiapusuer",
+     "singers": "依加巴提汗·肉斯坦木汗, 艾克拜尔·艾比力秀, 阿瓦力拜克·尼夏提, 克力木·阿尤甫, 艾孜木·胡西迪力",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "玛尼古丽Mani Guli",
+     "singers": "姑丽娜尔·阿洪江, 阿瓦力拜克·尼夏提",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "【塔吉克】觉醒吧，族人们！ - Бихез, Хамватан!【中塔双语】",
+     "singers": "迪米特里_梅利尼科夫",
+     "album": "BV13baUecEu2",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克经典民歌—GULBITE",
+     "singers": "入迷文创",
+     "album": "BV1zg4y1m7ED",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "鹰之恋歌，她本就是翱翔天际的雄鹰。云棋舞蹈原创塔吉克剧目",
+     "singers": "云棋舞蹈",
+     "album": "BV13nG9zQEad",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克族经典歌曲《我的帕米尔》 - copy_73E2993E-D6FE-4B77-B15E-EFD621894274",
+     "singers": "波斯文化坊",
+     "album": "BV1DC3G6DEib",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "帕米尔少女",
+     "singers": "地球上的泰和",
+     "album": "BV1jBkBYSEd1",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克族剧目《云上的思念》第十四届桃李杯民族民间舞青年女子组",
+     "singers": "凌ll柒",
+     "album": "BV1MzbP6PELc",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "吉尔吉斯斯坦歌手Amirchik - КЫРГЫЗСТАН",
+     "singers": "Jahov_Lin",
+     "album": "BV1SXtb6qEf2",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "新疆舞蹈表演背景素材，塔吉克族舞蹈《帕米尔之恋》，#新疆舞",
+     "singers": "DJ凌语",
+     "album": "BV1hDkBYrE7o",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "[維吾爾音樂] Bilim ixkida(知相戀) -吾守尔.赛来阿斯亚木.赛排尔西尔艾力.赛来阿依西古丽.木合买提西瓜合唱团",
+     "singers": "chukchiman",
+     "album": "BV1Dnt26pEcg",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "超好听乌兹别克斯坦歌曲 Sevinch Mo minova - Ne bo ldi",
+     "singers": "陕北斯坦",
+     "album": "BV1Fg4y1h7BB",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "马头琴演凑《边境》 欣赏百万黑胶！ 经典歌曲最好听的版本 4K60P无损音质",
+     "singers": "造梦可汗",
+     "album": "BV13dDiBEEst",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "乌兹别克族女子独舞《莱孜格》",
+     "singers": "沁淋舞韵",
+     "album": "BV1V2Yt6HEHd",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "[美丽新疆亚克西]莱帕尔《美丽新疆亚克西》 领唱：麦麦提江·肉孜 阿依奇热·阿布力孜",
+     "singers": "-星空下被删除的记忆-",
+     "album": "BV1V8npz9E8u",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克族兄弟的译制腔直播 - studio_video_1782136632114.mp4",
+     "singers": "刁三顺",
+     "album": "BV1DJ7N61Ero",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【群舞】塔吉克族鹰舞组合【民族舞】",
+     "singers": "吴世燅",
+     "album": "BV1754y1c7kf",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "第13届“桃李杯“ 民族民间舞 女子 塔吉克族组合 表演：阿迪拉·吾买尔",
+     "singers": "为什么舞蹈",
+     "album": "BV1m94y167MQ",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "乌兹别克族舞蹈《塔什干少女》",
+     "singers": "买尔哈巴616",
+     "album": "BV1pNqZBdExL",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "Why Are The Fiowers So Red",
+     "singers": "Sofia Kallgren",
+     "album": "东方西方2 民歌新语",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "刀郎、云朵演唱经典红歌《十送红军》，越听越有味，忆烽火岁月 - 十送红军",
+     "singers": "巧音音乐",
+     "album": "BV1mX4y1u7VN",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中式红肚兜，东方美学的集大成者。",
+     "singers": "YY补残生",
+     "album": "BV1jSY16GE9f",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "花儿为什么这样红",
+     "singers": "吴颖、于淑荣",
+     "album": "记忆的符号-中国电影百年寻音集 CD16银色的月光",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克族民歌Heesh Meeri-(Suz)",
+     "singers": "皇冠音乐",
+     "album": "塔吉克歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "花儿为什么这样红",
+     "singers": "艾尔肯-Erkin Abdulla",
+     "album": "一千零一夜",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "花儿为什么这样红",
+     "singers": "巴哈尔古丽",
+     "album": "巴哈尔古丽",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "花儿为什么这样红 (Live)",
+     "singers": "帕尔哈提",
+     "album": "中国好声音第三季 总决赛",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克族民歌（串烧）",
+     "singers": "帕米尔之声",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "帕米尔婚礼（塔吉克族民歌）",
+     "singers": "帕米尔之声",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "骨笛 (新疆塔吉克族歌曲)",
+     "singers": "哈尼克·胡西地里,库尔班江·米曼江,新疆艺术学院音乐学院",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "DarMane - 塔吉克族民歌",
+     "singers": "TAJIK青年",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "现场版塔吉克族歌曲_____Ejabathan",
+     "singers": "帕米尔之声",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Eiwj 塔吉克族歌曲",
+     "singers": "帕米尔之声",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "花儿为什么这样红 (塔吉克语版)",
+     "singers": "热依玛,家园计划",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "花儿为什么这样红",
+     "singers": "Mamtimin Amat 麦麦提明",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "花儿为什么这样红(歌声的翅膀)",
+     "singers": "骄兰·阿里木江",
+     "album": "歌声的翅膀第五期",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "花儿为什么这样红",
+     "singers": "赛米",
+     "album": "聆听时刻--“五·四”特别节目——青春如歌",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "阎维文 - 强军战歌",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "汤灿 - 祝福祖国",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "央金拉姆 - 山歌追上云朵 (对唱版)",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "彭丽媛 - 珊瑚颂",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "何玉 - 大东北我的家乡",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "归来小易&铃小花&烟嗓兄弟&老K（铁汉唱柔情） - 目瑙纵歌 (正式合唱版)",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "降央卓玛 - 草原上升起不落的太阳",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "罗姣 - 我把故乡比苏杭",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "蒋大为 - 北国之春",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阎维文 - 母亲",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "马美如 - 泪蛋蛋掉在酒杯杯里",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "白兰的 - 渔舟唱晚 (烟嗓版)",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "白兰的 - 我的中国心 (烟嗓版)",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "迟重瑞 - 看我跃马扬鞭",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "蒋大为 - 敢问路在何方",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "陈小涛 - 当那一天来临",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "林响 - 热血颂（景炀版）",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "祝福祖国",
+     "singers": "汤灿",
+     "album": "祝福祖国",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "山歌追上云朵 (对唱版)",
+     "singers": "央金拉姆",
+     "album": "山歌追上云朵",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "大东北我的家乡",
+     "singers": "何玉",
+     "album": "大东北我的家乡",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "目瑙纵歌 (正式合唱版)",
+     "singers": "归来小易&铃小花&烟嗓兄弟&老K（铁汉唱柔情）",
+     "album": "目瑙纵歌（正式合唱版）",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "草原上升起不落的太阳",
+     "singers": "降央卓玛",
+     "album": "金色的辉煌",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "我把故乡比苏杭",
+     "singers": "罗姣",
+     "album": "我把故乡比苏杭",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "泪蛋蛋掉在酒杯杯里",
+     "singers": "马美如",
+     "album": "泪蛋蛋掉在酒杯杯里",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "渔舟唱晚 (烟嗓版)",
+     "singers": "白兰的",
+     "album": "渔舟唱晚(烟嗓版)",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "我的中国心 (烟嗓版)",
+     "singers": "白兰的",
+     "album": "经典老歌烟嗓翻唱集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "看我跃马扬鞭",
+     "singers": "迟重瑞",
+     "album": "西游记 电视剧原声带",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "当那一天来临",
+     "singers": "陈小涛",
+     "album": "人民军队忠于党",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "热血颂（景炀版）",
+     "singers": "林响",
+     "album": "热血颂（景炀版）",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "草原醉",
+     "singers": "乌兰图雅",
+     "album": "原香草",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "佛家静心曲",
+     "singers": "古筝",
+     "album": "传灯",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "雪山念",
+     "singers": "十二大美女",
+     "album": "DJ新歌",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "渔舟唱晚",
+     "singers": "中央民族乐团",
+     "album": "古筝传奇",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "父亲",
+     "singers": "崔京浩",
+     "album": "父亲",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "人间理想（梵文版）",
+     "singers": "王可可",
+     "album": "人间理想(原版)",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "库依那孜古丽 Kuyi Nazi Guli",
+     "singers": "瑞鸣音乐&依加巴提汗·肉斯坦木汗&艾克拜尔·艾比力秀&阿瓦力拜克·尼夏提&克力木·阿尤甫&艾孜木·胡西迪力",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "吉格达古丽 Jigeda Guli",
+     "singers": "瑞鸣音乐&依加巴提汗·肉斯坦木汗&阿布都那苏·曼苏尔汗&艾孜木·胡西迪力&艾克拜尔·艾比力秀",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "古丽碧塔 Guli Bita",
+     "singers": "瑞鸣音乐&姑丽娜尔·阿洪江&艾克拜尔·艾比力秀&阿瓦力拜克·尼夏提&艾孜木·胡西迪力&克力木·阿尤甫",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "曾经的爱 在那力马 Love is in the Past “Zaina Lima”",
+     "singers": "瑞鸣音乐&依加巴提汗·肉斯坦木汗&艾克拜尔·艾比力秀&阿瓦力拜克·尼夏提&克力木·阿尤甫&艾孜木·胡西迪力",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "恰朴苏尔 Qiapu Suer",
+     "singers": "瑞鸣音乐&依加巴提汗·肉斯坦木汗&艾克拜尔·艾比力秀&阿瓦力拜克·尼夏提&克力木·阿尤甫&艾孜木·胡西迪力",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "巴拉马克 Bala Make",
+     "singers": "瑞鸣音乐&阿布都那苏·曼苏尔汗&艾克拜尔·艾比力秀&阿瓦力拜克·尼夏提&克力木·阿尤甫&艾孜木·胡西迪力",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "古丽巴尔格爱情歌曲联唱 Gulibaerge is Waiting for the Quartet of Four Love Songs",
+     "singers": "瑞鸣音乐&姑丽娜尔·阿洪江&阿布都那苏·曼苏尔汗&艾克拜尔·艾比力秀&阿瓦力拜克·尼夏提&克力木·阿尤甫&艾孜木·胡西迪力",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "思念故去的亲人 阿祖尔费克 Missing My Departed Family “Azuer Feike”",
+     "singers": "瑞鸣音乐&姑丽娜尔·阿洪江&艾克拜尔·艾比力秀&阿瓦力拜克·尼夏提&克力木·阿尤甫&艾孜木·胡西迪力",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "一首古老的歌 萨热贡 An Ancient Song “Sare Gong”",
+     "singers": "瑞鸣音乐&阿布都那苏·曼苏尔汗&艾克拜尔·艾比力秀&阿瓦力拜克·尼夏提&克力木·阿尤甫&艾孜木·胡西迪力",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "塔依古尼 Tayi Guni",
+     "singers": "瑞鸣音乐&阿布都那苏·曼苏尔汗&艾克拜尔·艾比力秀&阿瓦力拜克·尼夏提&克力木·阿尤甫&艾孜木·胡西迪力",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "辛衮古丽Xingun Guli",
+     "singers": "瑞鸣音乐&阿布都那苏·曼苏尔汗&艾克拜尔·艾比力秀&阿瓦力拜克·尼夏提&克力木·阿尤甫&艾孜木·胡西迪力",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "iwji muzika",
+     "singers": "皇冠音乐",
+     "album": "塔吉克歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "叶尔羌河之歌",
+     "singers": "顾孝光（艺名：叶尔羌河之歌）",
+     "album": "塔吉克原创歌曲专辑",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿果吉曲",
+     "singers": "海来阿木",
+     "album": "阿果吉曲",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿衣莫",
+     "singers": "阿吉太组合",
+     "album": "阿衣莫",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "别知己",
+     "singers": "海来阿木、阿呷拉古、曲比阿且",
+     "album": "别知己",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "子莫格尼",
+     "singers": "杉和、小青蛙组合",
+     "album": "子莫格尼",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "弟弟的眼眸",
+     "singers": "阿的阿合",
+     "album": "时间装不下思念",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "五彩湖",
+     "singers": "杉和",
+     "album": "五彩湖",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "尼莫阿芝",
+     "singers": "井子尔夫、勒伍阿木、奥杰阿仇",
+     "album": "Easy弹唱的民谣故事",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿嫫(妈妈)",
+     "singers": "白里格",
+     "album": "阿嫫(妈妈)",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "催嫁",
+     "singers": "吉克老鹰",
+     "album": "催嫁 沙玛诗薇",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "大地之子",
+     "singers": "吉克老鹰",
+     "album": "听见凉山 电视剧原声带",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "金色的口弦",
+     "singers": "金古阿嘎",
+     "album": "金色的口弦",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "不要怕&啊杰咯",
+     "singers": "莫西子诗",
+     "album": "不要怕&啊杰咯",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "祖先",
+     "singers": "海日乌芝",
+     "album": "山褶2",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "再见&杰波 (Remix)",
+     "singers": "Gill·吉尔",
+     "album": "UNFILIAL ELDEST SON",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "树涝河畔的恋人",
+     "singers": "约里、沙玛阿呷",
+     "album": "撵山队电影原声带",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "凉山谣",
+     "singers": "沙玛诗薇",
+     "album": "凉山谣",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "月光下的眼泪",
+     "singers": "俄木木果",
+     "album": "梦里的爱人",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "妈妈",
+     "singers": "阿迪王军",
+     "album": "妈妈",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "诺苏阿依",
+     "singers": "说比阿达",
+     "album": "诺苏阿依",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "FLY-飞",
+     "singers": "ANU",
+     "album": "FLY-飞",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "老爸",
+     "singers": "彝人制造",
+     "album": "老爸",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "欢乐地跳吧",
+     "singers": "新疆美丽公主组合",
+     "album": "欢乐地跳吧",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "流淌的思念",
+     "singers": "瓦其依合",
+     "album": "黑鹰之梦",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿惹妞",
+     "singers": "哲子聪",
+     "album": "阿惹妞",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "晨曦",
+     "singers": "贾巴阿叁",
+     "album": "梦回南诏",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "归来吧妞妞",
+     "singers": "沙玛洋佳",
+     "album": "蜕变",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "春耕",
+     "singers": "阿诺文化",
+     "album": "春耕",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "绒花",
+     "singers": "李谷一",
+     "album": "花儿为什么这样红",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "新娃哈哈",
+     "singers": "李昕融",
+     "album": "新娃哈哈",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "西域情歌",
+     "singers": "冯一航",
+     "album": "西域情歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "kaisarali + Majnunhan 串烧（塔吉克民歌）",
+     "singers": "帕米尔之声",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Wahan diyarum Wendi",
+     "singers": "majnunhan,Shaniyozkhan Kurbanaili",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Dilakam",
+     "singers": "Madina Aknazarova",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "祖海 - 好运来",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "MFLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "塔吉克族",
+     "singers": "半卷",
+     "album": "畬族",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "一首塔吉克斯坦歌曲《Кадбаланди》",
+     "singers": "小道二成子new",
+     "album": "BV1n1CEYTEGd",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "恰甫苏孜 Qiafu Suzi",
+     "singers": "瑞鸣音乐&艾克拜尔·艾比力秀&沙热合曼·恰库尼&艾孜木·胡西迪力&姑丽娜尔·阿洪江",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间乐曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": "00:02:56"
+    },
+    {
+     "song_name": "恰甫苏孜",
+     "singers": "艾克拜尔·艾比力秀,沙热合曼·恰库尼,艾孜木·胡西迪力,姑丽娜尔·阿洪江",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间乐曲集",
+     "source": "网易云",
+     "ext": "FLAC",
+     "duration": "00:02:56"
+    },
+    {
+     "song_name": "石头城的传说",
+     "singers": "王永桦",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": "00:04:24"
+    },
+    {
+     "song_name": "塔吉克鹰笛 - 04_塔吉克鹰笛",
+     "singers": "滨海红树林",
+     "album": "BV11N411f7yz",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:06:12"
+    },
+    {
+     "song_name": "塔吉克族鹰笛声",
+     "singers": "地瓦那夏",
+     "album": "BV15o4y1C7Q2",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:01:12"
+    },
+    {
+     "song_name": "帕米尔塔吉克族优美旋律《鹰笛》 - 1761835239354",
+     "singers": "波斯文化坊",
+     "album": "BV1fHyaBYEcU",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:02:04"
+    },
+    {
+     "song_name": "【帕米尔之声】鹰笛与手鼓 & 星空",
+     "singers": "小艾HAMNAFAS",
+     "album": "BV1WK411Z76t",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:02:59"
+    }
+   ]
+  },
+  {
+   "key": "e40",
+   "group": "怒族",
+   "declared_count": 243,
+   "count": 243,
+   "built_at": 1791774572.13653,
+   "kws": [
+    "怒族民歌",
+    "怒族歌曲",
+    "怒族达比亚"
+   ],
+   "source_file": "e40_怒族.json",
+   "tracks": [
+    {
+     "song_name": "【歌声飞出心窝窝】怒族歌曲",
+     "singers": "Comrade新團",
+     "album": "BV1Er421s79C",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【云南少数民族音乐】怒族民歌",
+     "singers": "倒霉的K",
+     "album": "BV1Nx4y1C7TL",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族达比亚弹唱《亚勒甲勒哦得得》，“在记忆中抱紧”人口较少民族口头传统典藏计划之云南省试点工作成果展演（国图20240125）",
+     "singers": "啄木鸟9999",
+     "album": "BV1fe411E7N1",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "10.怒族达比亚弹唱《亚勒甲勒哦得得》。哦得得是怒族最具有代表性的传统音乐，是男女青年谈情说爱表达感情的曲调。演唱时用怒族特色四弦弹拨乐器达比亚伴奏，边弹边唱。 - 10.怒族达比亚",
+     "singers": "椰绿挖宝姬",
+     "album": "BV1Tw411779L",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【龚琳娜】采风怒族民歌【哦得得】 - 1663402788967.mp4",
+     "singers": "锺楽和鸣",
+     "album": "BV1B24y1d7fb",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族歌曲《歌声飞出心窝窝》 - 7.怒族：歌声飞出心窝窝",
+     "singers": "旭东狼哥哥",
+     "album": "BV1hS4y1N7ya",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族歌曲，怒族迎宾曲",
+     "singers": "黑暗亵渎",
+     "album": "BV1kfHoeLEmG",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族达比亚舞",
+     "singers": "亚户来了",
+     "album": "BV1L3411g7tw",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "国家级非物质文化遗产“怒族达比亚舞”（双人达比亚）#非物质文化遗产#少数民族风情 - 国家级非物质文化遗产“怒族达比亚雾”（双人达比亚）#非物质文化遗产#少数民族风情",
+     "singers": "冬阳竹一",
+     "album": "BV1yZ4y1v7Ao",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "最美的鲜花献给党",
+     "singers": "广州交响乐团合唱团",
+     "album": "56个民族56首合唱 第四辑",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "山外青山楼外楼",
+     "singers": "毛家超、余乖妹",
+     "album": "水城山歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族情歌2020",
+     "singers": "江小村、春丽晓慧",
+     "album": "老姆登之夜",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族酒歌 (新版)",
+     "singers": "木永心",
+     "album": "木声谣",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族六十四代家谱",
+     "singers": "木火乐团",
+     "album": "怒之器",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族少年叹",
+     "singers": "木火乐团",
+     "album": "怒之器",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族酒歌",
+     "singers": "木火乐团",
+     "album": "怒之器",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "酒徒",
+     "singers": "奥杰阿格",
+     "album": "歌王的母语",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "妈妈",
+     "singers": "阿迪王军",
+     "album": "妈妈",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族往事",
+     "singers": "李碧峰、杨文芳",
+     "album": "怒族往事",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "[云南民歌]《净地》（电视剧《木府风云》插曲）——黄颖星&和燕",
+     "singers": "卡哇伊的小琳子",
+     "album": "BV1CJ411Q7bd",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "科尔沁昭乌达民歌曲《奔布莱》 - SVID_20260609_164325_1",
+     "singers": "呼格吉勒图宝音图",
+     "album": "BV1UEEE6mEWM",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【可爱的中国·云南】怒族哦得得 - 怒族哦得得审V3",
+     "singers": "云南广播电视台",
+     "album": "BV1bJ41157mY",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "1970年代无名氏演唱《月子弯弯照几州》（宋代民歌；根据清代《梦园曲谱》所载昆曲 《虎囊弹·山亭》一折中的山歌曲调整理） - 哪位唱的《月子弯弯照几州》？（1970年代录音）",
+     "singers": "思的虔诚",
+     "album": "BV1gN4y1m7Jm",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【原版MV】怒族儿歌《我爱达比亚》阿爸教我弹古老的乐器云南怒江 - 1682874122492",
+     "singers": "安啾jio",
+     "album": "BV1zg4y1L7yw",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【I Love Languages】怒苏语 - 【I Love Languages】怒族语怒苏语",
+     "singers": "ILL宝",
+     "album": "BV1Ur4y1v7cz",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "花儿为什么这样红 王媛媛《民歌中国》 - video_260922_162030",
+     "singers": "湖南省常宁市肖文军",
+     "album": "BV1aNac66EdD",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族情歌 - DSC_8867",
+     "singers": "带肉的骨",
+     "album": "BV17T4y1w7de",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【民族舞乐】怒族《哦得得》云南省怒江福贡县老姆登古朴动听的歌声让人沉醉……",
+     "singers": "安啾jio",
+     "album": "BV1WY411R7az",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【云南山歌】系列《子拉勒 》",
+     "singers": "声声悦耳1",
+     "album": "BV1PP4y1U7hh",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "1965年经典红歌《阿瓦人民唱新歌》，云南省歌舞团演唱",
+     "singers": "芦花音乐汇",
+     "album": "BV18GeEe7Edt",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "Khandro&Yeshi 贡布民歌《这户人家》",
+     "singers": "侃童诺布",
+     "album": "BV1wm421L7MY",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "李峰演唱歌曲《怒族女孩》",
+     "singers": "丽江若杰",
+     "album": "BV1D5411q7ou",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "以怒江为名的民族——云南特有少数民族：怒族（完整版）《美丽云南》（第三季）",
+     "singers": "云南地方志",
+     "album": "BV1R3411Z7yQ",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族的民俗音乐 - 怒族的民俗音乐2",
+     "singers": "云南共青团",
+     "album": "BV1ht4y1e73u",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "江小村带你走进神秘七莲湖听怒族原创民谣 - 七莲湖11.4",
+     "singers": "云南淼木文化传媒",
+     "album": "BV1Ei4y1x7cv",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【强巴曲桑】才让罗布",
+     "singers": "暴暴牙Z",
+     "album": "BV1Ew4m1Q7h8",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【缅甸巴莱枝族民歌】ကညီမုၣ်（林间女孩）——Debary",
+     "singers": "Tsawra_Ai",
+     "album": "BV1ZHegeMEXc",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "Escape from Debbie",
+     "singers": "Marc Shaiman",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "SAME HANDS (Clean)",
+     "singers": "Bia, Lil Durk",
+     "album": "SAME HANDS",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "boy",
+     "singers": "Laye, Bia",
+     "album": "lonesome",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Suéltate(From Sing 2)",
+     "singers": "Sami, Jarina De Marco, Anitta, Bia",
+     "album": "Sing 2 (Original Motion Picture Soundtrack)",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "HARD WAY(Explicit)",
+     "singers": "Bia, Becky G",
+     "album": "BIANCA(Deluxe)(Explicit)",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "DADE(Explicit)",
+     "singers": "Bia, Key Glock",
+     "album": "BIANCA(Deluxe)(Explicit)",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "BAD GUY(Explicit)",
+     "singers": "Bia",
+     "album": "BIANCA(Extended)",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Blue Bank",
+     "singers": "Bia",
+     "album": "NICE GIRLS FINISH LAST CUIDADO",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Pinata",
+     "singers": "Bia, Justin Quiles, Vice, Kap G",
+     "album": "Pinata",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "SKATE(NHL Mix)",
+     "singers": "Bia",
+     "album": "SKATE(NHL Mix)",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "唱民族·怒族【最美鲜花节】 (会溜索的民族)",
+     "singers": "哆哆唱国学",
+     "album": "哆哆唱国学精品课合集",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "日记·挣扎和不挣扎哪个会比较痛",
+     "singers": "郭思达",
+     "album": "涉过愤怒的海 电影原声专辑",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "拉克木卡姆第三达斯坦间奏曲",
+     "singers": "瑞鸣音乐, 艾力亚尔·艾拜, 努尔依力江·斯拉木, 阿布都乃比江·阿布都艾海提, 刀然江·阿里木江, 伊力亚尔·阿友甫, 阿地力·阿不力孜",
+     "album": "中国音乐地图之听见新疆 维吾尔族木卡姆 歌曲乐曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "BEYOND THE TIME (メビウスの宇宙を越えて)",
+     "singers": "TM NETWORK",
+     "album": "機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "吉格达古丽 Jigeda Guli",
+     "singers": "依加巴提汗·肉斯坦木汗, 阿布都那苏·曼苏尔汗, 艾孜木·胡西迪力, 艾克拜尔·艾比力秀",
+     "album": "中国音乐地图之听见新疆 塔吉克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "山人的乐器教学 达比亚（其奔）",
+     "singers": "山人乐队的空间",
+     "album": "BV1gfzaB6EeX",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族仙女节民俗活动",
+     "singers": "黑胖胖222",
+     "album": "BV1kP411W7Kk",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "古巴：比亚达-小权杖。时间足够长，肯定会有更好表现。",
+     "singers": "抽刀断那啥",
+     "album": "BV18SWEeREDw",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "让我带你一起了解怒族仙女节！",
+     "singers": "过去的-未来的",
+     "album": "BV1xT411J7aH",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族 漆油茶 - 1652442353622.mp4",
+     "singers": "下一个达尔文是谁",
+     "album": "BV1p541197XY",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "制作并点评：哥伦比亚国家队的达尼尔·穆诺（Daniel Munoz）",
+     "singers": "纯贞信仰",
+     "album": "BV1HW4y1d7Rg",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族-老姆登",
+     "singers": "东木吧-",
+     "album": "BV1pT4y1F7bp",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国原始宗教资料丛编-纳西族卷 羌族卷 独龙族卷 傈僳族卷 怒族卷 (吕大吉)",
+     "singers": "一薪一亿亿亿亿",
+     "album": "BV1UzmjB2Exr",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "还有人没听过怒族仙女节的传说吧，走，了解一下！",
+     "singers": "过去的-未来的",
+     "album": "BV1UB4y1h74j",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "[TNO]新版本新格拉纳达赢得哥伦比亚内战 - SVID_20260821_092720_1",
+     "singers": "杂乱的暗区突围",
+     "album": "BV1XLhH68EwA",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "云南福贡：怒江·怒族乡",
+     "singers": "一木_一寸",
+     "album": "BV15M4m127x3",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "雪茄欣赏 JOSE L. PIEDRA 比亚达，古巴革命前品牌， PETIT - studio_video_1720314672822.mp4",
+     "singers": "小小茄ki",
+     "album": "BV1rWaVe2Esx",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族·仙女节",
+     "singers": "艺游记",
+     "album": "BV1J22LBFEfb",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "博茨瓦纳，萨乌提，反叛者联盟雄狮瓦兹巴已消失两周，希望总是急赤白脸的，可爱的他还会出现，否则，这就是道别",
+     "singers": "氣貭舆生俱來",
+     "album": "BV1ccDKByEVw",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "金发多兹，坏男孩联盟的老对手！",
+     "singers": "初心灬雄狮",
+     "album": "BV1PE41157yZ",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "知识星球 - 传统舞蹈文化传承之路冒险记《26怒族达比亚舞的原始韵味》",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统舞蹈文化传承之路冒险记《26怒族达比亚舞的原始韵味》",
+     "singers": "知识星球",
+     "album": "传统舞蹈文化传承之路冒险记-开心熊和快乐虎",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "祝福祖国",
+     "singers": "汤灿",
+     "album": "祝福祖国",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "山歌追上云朵 (对唱版)",
+     "singers": "央金拉姆",
+     "album": "山歌追上云朵",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "大东北我的家乡",
+     "singers": "何玉",
+     "album": "大东北我的家乡",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "目瑙纵歌 (正式合唱版)",
+     "singers": "归来小易&铃小花&烟嗓兄弟&老K（铁汉唱柔情）",
+     "album": "目瑙纵歌（正式合唱版）",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "草原上升起不落的太阳",
+     "singers": "降央卓玛",
+     "album": "金色的辉煌",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "我把故乡比苏杭",
+     "singers": "罗姣",
+     "album": "我把故乡比苏杭",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "泪蛋蛋掉在酒杯杯里",
+     "singers": "马美如",
+     "album": "泪蛋蛋掉在酒杯杯里",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "渔舟唱晚 (烟嗓版)",
+     "singers": "白兰的",
+     "album": "渔舟唱晚(烟嗓版)",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "我的中国心 (烟嗓版)",
+     "singers": "白兰的",
+     "album": "经典老歌烟嗓翻唱集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "看我跃马扬鞭",
+     "singers": "迟重瑞",
+     "album": "西游记 电视剧原声带",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "当那一天来临",
+     "singers": "陈小涛",
+     "album": "人民军队忠于党",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "热血颂（景炀版）",
+     "singers": "林响",
+     "album": "热血颂（景炀版）",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "草原醉",
+     "singers": "乌兰图雅",
+     "album": "原香草",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "佛家静心曲",
+     "singers": "古筝",
+     "album": "传灯",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "雪山念",
+     "singers": "十二大美女",
+     "album": "DJ新歌",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "渔舟唱晚",
+     "singers": "中央民族乐团",
+     "album": "古筝传奇",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "父亲",
+     "singers": "崔京浩",
+     "album": "父亲",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "人间理想（梵文版）",
+     "singers": "王可可",
+     "album": "人间理想(原版)",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "FLY-飞",
+     "singers": "ANU",
+     "album": "FLY-飞",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "走西口",
+     "singers": "王二妮",
+     "album": "爱陕北",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿果吉曲",
+     "singers": "海来阿木",
+     "album": "阿果吉曲",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿衣莫",
+     "singers": "阿吉太组合",
+     "album": "阿衣莫",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "呼伦贝尔大草原",
+     "singers": "降央卓玛",
+     "album": "金色的呼唤",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "青藏高原",
+     "singers": "韩红",
+     "album": "醒了",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "子莫格尼",
+     "singers": "杉和、小青蛙组合",
+     "album": "子莫格尼",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "高原红",
+     "singers": "容中尔甲",
+     "album": "歌声飘扬60年——向新中国成立六十周年献礼 (套装)",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "寂静的天空",
+     "singers": "黛青塔娜、HAYA乐团",
+     "album": "寂静的天空",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "黄土高坡",
+     "singers": "李娜",
+     "album": "信天游",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "1376",
+     "singers": "ANU",
+     "album": "1376",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "山风一样自由",
+     "singers": "阿鲁阿卓",
+     "album": "山风一样自由",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "山丹丹开花红艳艳",
+     "singers": "阿宝",
+     "album": "泪蛋蛋",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "圪梁梁",
+     "singers": "王二妮",
+     "album": "爱陕北",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "次仁拉索",
+     "singers": "曲甲、KidNam索南",
+     "album": "次仁拉索",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "小背篓",
+     "singers": "龚玥",
+     "album": "西部情歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "哦得得 (怒族童谣)",
+     "singers": "龚琳娜、江晓春",
+     "album": "喊太阳 龚琳娜娃娃国风童谣",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "安顺的风慢慢吹",
+     "singers": "怒族阿肆",
+     "album": "安顺的风慢慢吹",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族情歌",
+     "singers": "木火乐团",
+     "album": "怒之器",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "中华民族之怒族",
+     "singers": "弘扬",
+     "album": "中华民族2",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "达比亚弹唱",
+     "singers": "叶筱希",
+     "album": "云南民歌三",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族六十四代家谱",
+     "singers": "春丽晓慧、江晓春、家园计划",
+     "album": "怒族六十四代家谱",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "火把恋歌——罗婺艺术团",
+     "singers": "罗婺传奇",
+     "album": "彝族歌曲",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "喜欢你就来",
+     "singers": "李兴荣",
+     "album": "彝族歌曲",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "梦中的母亲",
+     "singers": "莫洛木依",
+     "album": "莫洛木依2018精选",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "别知己",
+     "singers": "海来阿木、阿呷拉古、曲比阿且",
+     "album": "别知己",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "金色的口弦",
+     "singers": "金古阿嘎",
+     "album": "金色的口弦",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "五彩湖",
+     "singers": "杉和",
+     "album": "五彩湖",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "约定",
+     "singers": "舞彝阳光",
+     "album": "约定",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "祖先",
+     "singers": "海日乌芝",
+     "album": "山褶2",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "春耕",
+     "singers": "阿诺文化",
+     "album": "春耕",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "ꆀꃅꀉꐔ尼木阿其 (Single Version)",
+     "singers": "阿西阿支",
+     "album": "ꆀꃅꀉꐔ尼木阿其",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿妹的酒",
+     "singers": "海来阿木",
+     "album": "阿妹的酒",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "5258",
+     "singers": "海来阿木、阿呷拉古",
+     "album": "5258",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "美丽姑娘",
+     "singers": "彝人制造",
+     "album": "回归",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "尼莫阿芝",
+     "singers": "井子尔夫、勒伍阿木、奥杰阿仇",
+     "album": "Easy弹唱的民谣故事",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿嫫(妈妈)",
+     "singers": "白里格",
+     "album": "阿嫫(妈妈)",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "妈妈的歌谣",
+     "singers": "莫西子诗",
+     "album": "原野",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "弟弟的眼眸",
+     "singers": "阿的阿合",
+     "album": "时间装不下思念",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "丽江三部曲",
+     "singers": "和文军",
+     "album": "丽江三部曲",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "重生",
+     "singers": "沙玛洋佳",
+     "album": "木子",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿伍",
+     "singers": "阿呷拉古",
+     "album": "阿伍",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "孩子 别害怕",
+     "singers": "Gill·吉尔",
+     "album": "Don't be afraid, kid",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "流淌的思念",
+     "singers": "瓦其依合",
+     "album": "黑鹰之梦",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "在路上",
+     "singers": "瓦其依合",
+     "album": "黑鹰之梦 在路上",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "等你",
+     "singers": "索日格哈",
+     "album": "ꆏꇁꉚ 等你",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "大地之子",
+     "singers": "吉克老鹰",
+     "album": "听见凉山 电视剧原声带",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "再见&杰波 (Remix)",
+     "singers": "Gill·吉尔",
+     "album": "UNFILIAL ELDEST SON",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "树涝河畔的恋人",
+     "singers": "约里、沙玛阿呷",
+     "album": "撵山队电影原声带",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "晨曦",
+     "singers": "贾巴阿叁",
+     "album": "梦回南诏",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "归来吧妞妞",
+     "singers": "沙玛洋佳",
+     "album": "蜕变",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "于文华 - 民族舞会",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "叶筱希 - 达比亚弹唱（怒族仙女节）",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "草根學人 歸一 - 怒江峡谷同心家",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "一清清清 - 老姆登茶（抒情版）",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "红土情gzs - 咧咧窝的的",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "江晓春&张晓慧&福永华&春常平 - 怒族酒歌 (Live)",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "江小村 - 怒族小夜曲",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "任可 - 阿妈的红火塘 (伴奏)",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "Anthony B - Conscious Entertainer",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "木火乐团 - 怒族情歌",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "龚琳娜&江晓春 - 哦得得 (怒族童谣)",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "民族舞会",
+     "singers": "于文华",
+     "album": "爱的相依",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "怒江峡谷同心家",
+     "singers": "草根學人 歸一",
+     "album": "怒江峡谷同心家",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "老姆登茶（抒情版）",
+     "singers": "一清清清",
+     "album": "老姆登茶",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "咧咧窝的的",
+     "singers": "红土情gzs",
+     "album": "打歌——古滇的情歌",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族酒歌 (Live)",
+     "singers": "江晓春&张晓慧&福永华&春常平",
+     "album": "我唱新歌给党听 第5期",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族小夜曲",
+     "singers": "江小村",
+     "album": "听见七莲湖",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿妈的红火塘 (伴奏)",
+     "singers": "任可",
+     "album": "阿妈的红火塘",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "Conscious Entertainer",
+     "singers": "Anthony B",
+     "album": "Seven Seals",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "哦得得 (怒族童谣)",
+     "singers": "龚琳娜&江晓春",
+     "album": "喊太阳 龚琳娜娃娃国风童谣",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "传统舞蹈文化传承之路冒险记",
+     "singers": "知识星球",
+     "album": "传统舞蹈文化传承之路冒险记-开心熊和快乐虎",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "紫竹调",
+     "singers": "纯音乐",
+     "album": "传统古曲珍藏版 纯乐古筝",
+     "source": "酷我",
+     "ext": "MGG",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族",
+     "singers": "陈文上",
+     "album": "怒族",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族",
+     "singers": "半卷",
+     "album": "珞巴族",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "六月怒江～怒族",
+     "singers": "群星",
+     "album": "夏夜篝火 Bonfire in Summer",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "回娘家",
+     "singers": "朱明瑛",
+     "album": "中国名歌",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族姑娘",
+     "singers": "李洪辉",
+     "album": "翰墨中国13",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "音乐疗法",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "音乐疗法",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "阴阳",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "阴阳",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "印度音景",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "印度音景",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "正念",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "正念",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "自然缓解",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "自然缓解",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "坦布拉背景音乐",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "坦布拉背景音乐",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "舒压按摩",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "舒压按摩",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "印度瑜伽",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "印度瑜伽",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "瑜伽",
+     "singers": "桂花之香, 民族歌曲",
+     "album": "瑜伽",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "共产党让我们过上好日子",
+     "singers": "怒苏康乐文艺队",
+     "album": "怒族歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "子莫格尼 (单曲阿吉日杰Remix)",
+     "singers": "阿吉日杰Remix",
+     "album": "彝族歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "海菜腔",
+     "singers": "彝族歌曲",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "欢乐酒歌",
+     "singers": "罗婺传奇",
+     "album": "彝族歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "阿苏喂",
+     "singers": "彝族歌曲",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "想家",
+     "singers": "马海小龙",
+     "album": "彝族歌曲",
+     "source": "酷我",
+     "ext": "MGG",
+     "duration": ""
+    },
+    {
+     "song_name": "子木尼扎 (cover 海来小凡)",
+     "singers": "布立木且",
+     "album": "彝族歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "三年的等待 (cover DJ李寻欢)",
+     "singers": "布立木且",
+     "album": "彝族歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "曾经是我不珍惜",
+     "singers": "马海小龙",
+     "album": "彝族歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "一千个伤心的理由 (cover 张学友)",
+     "singers": "布立木且",
+     "album": "彝族歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "心碎(粤语) (cover 易欣)",
+     "singers": "布立木且",
+     "album": "彝族歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "出卖 (cover 周传雄)",
+     "singers": "布立木且",
+     "album": "彝族歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "一千个分手的理由 (cover 孙子涵)",
+     "singers": "布立木且",
+     "album": "彝族歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "怎么会狠心伤害我 (cover 博瑜)",
+     "singers": "布立木且",
+     "album": "彝族歌曲",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "阿依妞妞",
+     "singers": "杨学良",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "忠贞",
+     "singers": "吉克老鹰",
+     "album": "听见凉山 电视剧原声带",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "坎坷",
+     "singers": "吉克永都",
+     "album": "漂泊",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "请你不要责备自己",
+     "singers": "火塘故事",
+     "album": "最后的守望者",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "眼泪",
+     "singers": "彝品小米",
+     "album": "眼泪",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "达比亚（Prod By LinY-ZhengQiao）",
+     "singers": "福贡娃,kong柒铭",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "滚圈都是小乐乐",
+     "singers": "杜比亚大蟑螂",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "bibiya 比比亚光之树",
+     "singers": "tanivu达馜舞",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "夜",
+     "singers": "萧亚轩",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "达比亚琴弦",
+     "singers": "Joeyii",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "旧事",
+     "singers": "萧亚轩",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "A Storm Of Cheers (1エリア) [怒号層圏]",
+     "singers": "亜蘭里",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "夏地亚拉",
+     "singers": "达吾特",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "天山青松根连根",
+     "singers": "热比亚买买提",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "つぼみ",
+     "singers": "達見恵",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "小怒MiCVol.83",
+     "singers": "努尔比亚·塔力甫",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "La Cumbia La Cumbia",
+     "singers": "Diego Marulanda & Pacande",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "巴达木花帽",
+     "singers": "加米拉·库尔班,热比亚·穆罕默德,阿依夏姆·克尤姆",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "ゲルド族の地下街",
+     "singers": "三好真亜沙",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "在床上惨叫的亚地卡尔",
+     "singers": "叶尔达那",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "不完美小孩",
+     "singers": "马嘉祺,宋亚轩,张真源,刘耀文,贺峻霖,丁程鑫,敖子逸,陈玺达,李天泽,陈泗旭",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "我が一族の宿命",
+     "singers": "三好真亜沙",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "スカルハート見参!",
+     "singers": "V.A",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "俺達は明日を撃つ！",
+     "singers": "怒髪天",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "且比亚特木卡姆第一达斯坦间奏曲",
+     "singers": "Mominjan Yusup募明江",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "草原最愤怒的花",
+     "singers": "亞點",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "心碎男孩伤心欲绝般在哥伦比亚无能狂怒",
+     "singers": "4LoR1dA",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "达尔文",
+     "singers": "小张不慌",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Yubita",
+     "singers": "Diego Marulanda & Pacande",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Sagrado",
+     "singers": "Dabi",
+     "album": "Sagrado",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "蝶（Grandmama）",
+     "singers": "Dabi",
+     "album": "Back 2 Me",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Savage",
+     "singers": "Bahari, Bia",
+     "album": "Forget You",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "Safari",
+     "singers": "J Balvin, Pharrell Williams, Bia, Sky",
+     "album": "Todo Reggaeton Clásico",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "半卷 - 怒族",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "怒族歌曲《爱与心愿》",
+     "singers": "傈僳傈瓦",
+     "album": "怒族歌曲—爱与心愿",
+     "source": "光音·微信",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "老虎与水塔",
+     "singers": "木火乐团",
+     "album": "怒之器",
+     "source": "Qq",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "创世纪",
+     "singers": "木火乐团",
+     "album": "怒之器",
+     "source": "Qq",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "亚妞",
+     "singers": "木火乐团",
+     "album": "怒之器",
+     "source": "Qq",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "怒江往事",
+     "singers": "木火乐团",
+     "album": "怒之器",
+     "source": "Qq",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "七莲湖 (第二季)",
+     "singers": "江小村",
+     "album": "听见七莲湖",
+     "source": "网易云",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "小村的歌谣",
+     "singers": "江小村",
+     "album": "听见七莲湖",
+     "source": "Qq",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "见或不见",
+     "singers": "江小村",
+     "album": "听见七莲湖",
+     "source": "Qq",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "四季",
+     "singers": "江小村",
+     "album": "听见七莲湖",
+     "source": "Qq",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "奈何自己",
+     "singers": "江小村",
+     "album": "听见七莲湖",
+     "source": "Qq",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "怒江往事",
+     "singers": "江小村",
+     "album": "听见七莲湖",
+     "source": "Qq",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "见或者不见",
+     "singers": "江小村",
+     "album": "小村的歌谣",
+     "source": "网易云",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "阿亚夫里哒哒律",
+     "singers": "江小村/春丽晓慧",
+     "album": "老姆登之夜",
+     "source": "网易云",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "老姆登之夜",
+     "singers": "江小村/春丽晓慧",
+     "album": "老姆登之夜",
+     "source": "网易云",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "傈僳小夜曲",
+     "singers": "江小村/春丽晓慧",
+     "album": "老姆登之夜",
+     "source": "网易云",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "玛兰",
+     "singers": "江小村/春丽晓慧",
+     "album": "老姆登之夜",
+     "source": "网易云",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "也以冉",
+     "singers": "江小村/春丽晓慧",
+     "album": "老姆登之夜",
+     "source": "网易云",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "独龙酒歌",
+     "singers": "江小村/春丽晓慧",
+     "album": "老姆登之夜",
+     "source": "网易云",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "傈僳花鸟历",
+     "singers": "江小村/春丽晓慧",
+     "album": "老姆登之夜",
+     "source": "网易云",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "怒江州贡山县 怒族《织麻衣》(完整版)",
+     "singers": "alpa5",
+     "album": "BV1MqKXz8EhZ",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:02:53"
+    },
+    {
+     "song_name": "江小村-老姆登之夜 - 老姆登之夜",
+     "singers": "云南淼木文化传媒",
+     "album": "BV1a5411t7Q8",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:03:10"
+    }
+   ]
+  },
+  {
+   "key": "e43",
+   "group": "鄂温克族",
+   "declared_count": 279,
+   "count": 279,
+   "built_at": 1791774571.892787,
+   "kws": [
+    "鄂温克族民歌",
+    "鄂温克族歌曲",
+    "敖鲁古雅"
+   ],
+   "source_file": "e43_鄂温克族.json",
+   "tracks": [
+    {
+     "song_name": "鄂温克族民歌 敖鲁古雅 喜欢很久了 央视草原歌会录屏的",
+     "singers": "放飞不久的小晨",
+     "album": "BV1q84y197xk",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "好听的鄂温克族歌曲 “东泉” ，“我常看到太阳在兴安岭上彩虹桥的末端渐渐隐没” #鄂温克族歌曲",
+     "singers": "苏都尔文祥",
+     "album": "BV1PW4y1U7BV",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "2008年鄂温克族女高音其其格玛演唱《东泉》（黑龙江鄂温克族民歌；乌日娜 改编）",
+     "singers": "思的虔诚",
+     "album": "BV1wZZ6YzE7J",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "鄂温克族歌曲 “彩虹”",
+     "singers": "苏都尔文祥",
+     "album": "BV1LA411D7RC",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "乌日娜演唱鄂温克族民歌《不为唱歌而唱歌》",
+     "singers": "伊勒嘎",
+     "album": "BV1wD4y1m7wu",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅鄂温克萨满舞#根河敖鲁古雅鄂温克族使鹿部落#南坡先生读书旅行记 - lv_0_20250817072233",
+     "singers": "南坡先生读书旅行记",
+     "album": "BV1tzYkzaEwR",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "琪琪格玛演唱鄂温克族民歌《东泉》",
+     "singers": "减肥新形势",
+     "album": "BV1th411i7rA",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "“额尔古纳河右岸的低吟”——鄂温克族民歌·东泉 - studio_video_1706241266450.mp4",
+     "singers": "襄平词客",
+     "album": "BV1Si4y1H77w",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅--鄂温克民歌 - studio_video_1719369479029.mp4",
+     "singers": "韶音阁",
+     "album": "BV15M4m1m7tc",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "每日一曲 鄂温克族民歌 大雁湖 很有名的一首歌",
+     "singers": "猪猪泽捏开心每一天",
+     "album": "BV13o4y1Q77h",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "真《晚安，敖鲁古雅》真睡升顶帐篷小米澎程。澎程N90 Max探索版穿越大兴安岭睡觉全体验。晚安敖鲁古雅 真实床车露营户外生活。 - 真《晚安，敖鲁古雅》我把升顶帐篷的小米澎程开去了睡觉",
+     "singers": "赛车星冰乐",
+     "album": "BV1LtbK6JE5V",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "《晚安，敖鲁古雅》 - studio_video_1785184242064.mp4",
+     "singers": "城南瓜已熟",
+     "album": "BV1Tf3N6tEbm",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "华为余承东：晚安，敖鲁古雅!小米徐洁云：晚安，海淀清河! - lv_7665760714535177497_20260728163811",
+     "singers": "老六音乐馆之熊出没2",
+     "album": "BV1hK3v6LE2Y",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "晚安敖鲁古雅！小米一招烟雾弹，友商直接扑了个空？",
+     "singers": "大彪车",
+     "album": "BV1LxGA6KE2P",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【东倾】《敖鲁古雅》：冷门宝藏纪录片！我不推荐，你根本不知道！",
+     "singers": "东倾电影",
+     "album": "BV1V5411Q7fm",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "《敖鲁古雅》：冷门宝藏纪录片！我不推荐，你根本不知道",
+     "singers": "盗琴音色",
+     "album": "BV1A84y1B7cz",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "美丽的家乡 (Live)",
+     "singers": "敖鲁古雅",
+     "album": "中国农民歌会第二季 第9期",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "舞动欢歌 (Live)",
+     "singers": "敖鲁古雅",
+     "album": "中国农民歌会第二季 第6期",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "鄂温克民歌《东泉》（字幕） - 东泉",
+     "singers": "petitesouris01",
+     "album": "BV1WL411H7Ea",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "鄂温克民歌《红花尔基樟松》（字幕） - 红花尔基樟松",
+     "singers": "petitesouris01",
+     "album": "BV1Yo4y197E1",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "男高音赵越 《乌苏里船歌》——民族音画 中国声乐作品专场音乐会",
+     "singers": "卡一卡一卡卡一",
+     "album": "BV1qZ421q7g3",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "鄂温克族传统舞蹈",
+     "singers": "梦想之旅4719",
+     "album": "BV1NQ4y1a7iF",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【鄂温克族音乐】东泉 - 0001-东泉 - 其其格玛",
+     "singers": "还未暴富的白先生",
+     "album": "BV1dt411X7N6",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "[鄂温克语歌谣]森林里的鄂温克 - 迪拉甘德哥金丨歌声的翅膀第二期",
+     "singers": "简迪丝",
+     "album": "BV1tj411z7AT",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "［鄂温克语］东泉(鄂汉意译) - 其其格玛",
+     "singers": "chukchiman",
+     "album": "BV1KQ4y1i7xC",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集 - 可爱的.古佳耶 The Lovely. Gujiaye",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV19prhYXE7B",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集 - 阿萨力沙丘 Asari Dunes",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV19prhYXE7B",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集 - 百灵鸟的故乡 The Hometown of the Lark",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV19prhYXE7B",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集 - 小天鹅.乌日切德给 Little Swans. Wuri Chedgay",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV19prhYXE7B",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集 - 森林里的故乡.额克丹宝阿 Hometown in the Forest. Eki Danbol",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV19prhYXE7B",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集 - 毛敖吉坎河 Mao’ao Jikan",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV19prhYXE7B",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集 - 尼呼兰 Ni Hulan",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV19prhYXE7B",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集 - 莫尔格勒河 Mori Gele River",
+     "singers": "瑞鸣中国音乐地图",
+     "album": "BV19prhYXE7B",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【放送文化】内蒙古呼伦贝尔鄂温克族自治旗电视台《鄂温克新闻》片段（20090625） - 【放送文化】内蒙古呼伦贝尔鄂温克族自治旗电视台《鄂温克新闻》OP+新闻片段+ED（20090625）",
+     "singers": "TV搬运工-BaWan",
+     "album": "BV1LA411c7SX",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "#鄂温克 #鄂伦春 #埃文基 跳舞Долганочка",
+     "singers": "简迪丝",
+     "album": "BV1CW4y157EA",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "鄂温克组合",
+     "singers": "五分甜的啵啵",
+     "album": "BV1Hg411176A",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【灵魂乐章】鄂温克族歌手敖丽娟与她演唱的经典歌曲《彩虹》",
+     "singers": "猎户人家",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "鄂温克族",
+     "singers": "半卷",
+     "album": "边城",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "鄂温克族：聆听森林深处的音乐",
+     "singers": "浙江音乐台",
+     "album": "共唱祖国好，56个民族56首歌",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "鄂温克族",
+     "singers": "陈文上",
+     "album": "鄂温克族",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "45.鄂温克族-住在大山林里的人",
+     "singers": "环尼宝贝",
+     "album": "中国56个民族的起源历史启蒙儿童科普",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "第19章 鄂温克族的火神节",
+     "singers": "环尼宝贝",
+     "album": "民间流传的儿童故事大全",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "驯鹿家乡 (鄂温克族)",
+     "singers": "风潮音乐",
+     "album": "当代音乐馆-少数民族印象之旅-踩歌行",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "唱民族·鄂温克族【美丽的鄂温克】(中国最后的狩猎部落)",
+     "singers": "哆哆唱国学",
+     "album": "哆哆唱国学之“唱民族”精品课",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "被妈妈遗弃的小鹿，遇到了森林深处的鄂温克族驯鹿人",
+     "singers": "凤凰FM",
+     "album": "每日听听",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "莫尔格勒河",
+     "singers": "瑞鸣音乐, 苏尤勒扎布",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "毛敖吉坎河",
+     "singers": "瑞鸣音乐, 古香莲",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "森林里的故乡.额克丹宝阿",
+     "singers": "瑞鸣音乐, 古香莲",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "可爱的.古佳耶",
+     "singers": "瑞鸣音乐, 古香莲",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "小天鹅.乌日切德给",
+     "singers": "瑞鸣音乐, 娜仁其其格",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "阿萨力沙丘",
+     "singers": "瑞鸣音乐, 娜仁其其格",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "尼呼兰",
+     "singers": "瑞鸣音乐, 娜仁其其格",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "百灵鸟的故乡",
+     "singers": "瑞鸣音乐, 苏尤勒扎布",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "音乐库",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "【陶妍芃】高清蒙古族舞蹈《鄂温克的拉玛湖》第十届桃李杯民族民间舞独舞 女子独舞 - 14《è-shī-kè-de-lā-mǎ-hú》",
+     "singers": "追yr",
+     "album": "BV1Gx411Z79w",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "《莫日格勒河（完整版）》科尔沁夫原唱",
+     "singers": "礼戎影音吧",
+     "album": "BV1me4y177qd",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "[KAZ] Қамажай 卡玛扎伊（哈玛斋） - Main",
+     "singers": "星汉如斯",
+     "album": "BV14Vuo6AEfi",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "这才是《乌苏里船歌》的原唱，透亮的嗓音太好听了，不愧为歌唱家",
+     "singers": "红星音乐馆",
+     "album": "BV1f64y1J7kZ",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "鄂轮春民间小调，全整版欢迎收听",
+     "singers": "张松去旅行记",
+     "album": "BV1qe41127nc",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "一首传唱70年的儿歌，你的童年一定唱过！",
+     "singers": "岁月点唱机",
+     "album": "BV1d8411f7DF",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【张爽】 鄂温克族组合 蒙古族马舞组合 第九届桃李杯民族民间舞独舞 女子独舞 - T927_06",
+     "singers": "追yr",
+     "album": "BV1Vt411n7Rs",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "东泉",
+     "singers": "其其格玛",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "风月",
+     "singers": "敖鲁古雅",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "幽思",
+     "singers": "敖鲁古雅",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "多布库尔 (伴奏)",
+     "singers": "红日·恩泽",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "致草原 (伴奏)",
+     "singers": "红日·恩泽",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "草原上的风 (伴奏)",
+     "singers": "红日·恩泽",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "在北方 (伴奏)",
+     "singers": "红日·恩泽",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "One More thing：晚安，海淀清河 - Screenrecorder-2026-09-07-21-02-15-329",
+     "singers": "粮厂TV",
+     "album": "BV1GubN6CEhr",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "雷军喊话熬鲁古雅男孩：澎程原生帐篷不用拆符合法规的，友商现抄肯定来不及 - 雷军回应熬鲁古雅男孩：澎程是原生符合法规的，不用拆就能过年检，立项之初不想摸着理想过河",
+     "singers": "小迪的狸花咪TwT",
+     "album": "BV1PshB6bEYp",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【不止考古·我与三星堆】竖版看点1：三星堆文物锦集，魔性整活！你绝对没见过！",
+     "singers": "i_纪录",
+     "album": "BV1D44y1f7tx",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "小米澎程N90Max开上和我预期的差距真挺大",
+     "singers": "聪明的刚子",
+     "album": "BV1qtYy6BExH",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "封封号了 - 封号了",
+     "singers": "沈城韩泫雅",
+     "album": "BV1MWhk61EMJ",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "7.0B 深渊11层满星攻略！100%通关方法，轻轻松松保护镇石！",
+     "singers": "Mo墨尘氏",
+     "album": "BV1XceF63EU8",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "《引路人》12，训诫救赎，崽子挨了一顿惨的。",
+     "singers": "小日出不学厨艺了",
+     "album": "BV1qeeF6UEE9",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【终末地基建活动】一键搞定龙泡泡，摆完挂机集成援助！ - 9月14日(3)",
+     "singers": "MR流星飞",
+     "album": "BV12deF6eED3",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "催眠！蚩姹和妲己（3D风格测试）",
+     "singers": "Ruiholy-AI",
+     "album": "BV1Dce86XEaW",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【三狼爆杀流】冷门偷分信息差内含狼人最强出装理解！阵容首创@金铲铲老叶『金铲铲之战』 - studio_video_1790072322563.mp4",
+     "singers": "金铲铲700",
+     "album": "BV1CthJ6CE9g",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "插进去之后，不到10下就忍不住想射。",
+     "singers": "是何婉呦",
+     "album": "BV1RoQABaE4m",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "【金铲铲】轮子＞艾希，版本最强阵容地狱火信息差",
+     "singers": "CB清风_信仰刀妹",
+     "album": "BV1YMeL6QEg9",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "摸鱼图 出门加班的大鲁（附带杂兵版） - 1788657839836",
+     "singers": "红鼻子黄犬",
+     "album": "BV1MubH6mEL9",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "你能坚持到第几关？",
+     "singers": "徐珺大哥",
+     "album": "BV11VVw6EECG",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "kk_ongju 꽁주 直播回放 260907 - v2",
+     "singers": "永远的朋友Q",
+     "album": "BV1GVbT6UEGb",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "Swimsuit Try-on Haul + Review! Under $15 Affordable AliExpress Bikinis",
+     "singers": "アヤナミ仮称",
+     "album": "BV1Ux411u7Vm",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "Swimsuit Try-on Haul + Review! Under $15 Affordable AliExpress Bikinis - 1",
+     "singers": "アヤナミ仮称",
+     "album": "BV1Ux411u7Vm",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "Swimsuit Try-on Haul + Review! Under $15 Affordable AliExpress Bikinis - ZAFUL BIKINI REVIEW Try-On Haul + Unboxing!",
+     "singers": "アヤナミ仮称",
+     "album": "BV1Ux411u7Vm",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "Swimsuit Try-on Haul + Review! Under $15 Affordable AliExpress Bikinis - Collective Haul- AA, F21, Sephora, Shein, Romwe, MakeMeChic + more",
+     "singers": "アヤナミ仮称",
+     "album": "BV1Ux411u7Vm",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "优雅大方的小鹿展示我们proudfox设计的新款服装 - videoplayback(3)",
+     "singers": "愿守候你到白骨",
+     "album": "BV1zL346TEdu",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "“那崽子摸了你的胸以后你就不会反抗一下？”“摸了胸以后，我就渐渐没力气了！”韩国翻拍的《许三观卖血记》拍的跟读书时想的样貌差不多，看哭了！",
+     "singers": "电影近距离",
+     "album": "BV1HSt86bEbH",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "豆宝贝儿歌 0-1岁中文中国儿童科普儿歌 传统音乐《鄂温克族民歌》",
+     "singers": "豆宝贝儿歌",
+     "album": "豆宝贝儿歌 0-1岁中文中国儿童科普儿歌",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "豆宝贝儿歌 0-3岁儿童最爱科普童谣系列 传统音乐《鄂温克族民歌》",
+     "singers": "豆宝贝儿歌",
+     "album": "豆宝贝儿歌 0-3岁儿童最爱科普童谣系列",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》",
+     "singers": "豆宝贝儿歌",
+     "album": "豆宝贝儿歌 幼儿中文科普儿童经典童谣",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "豆宝贝儿歌 0-1岁最爱哄睡儿童歌曲大全系列 传统音乐《鄂温克族民歌》",
+     "singers": "豆宝贝儿歌",
+     "album": "豆宝贝儿歌 0-1岁最爱哄睡儿童歌曲大全系列",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "豆宝贝儿歌 0-3岁磨耳朵儿歌 传统音乐《鄂温克族民歌》",
+     "singers": "豆宝贝儿歌",
+     "album": "豆宝贝儿歌 0-3岁磨耳朵儿歌",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅",
+     "singers": "暗杠",
+     "album": "敖鲁古雅",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅",
+     "singers": "布仁巴雅尔",
+     "album": "我的生命我的草原",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅",
+     "singers": "天童",
+     "album": "敖鲁古雅",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅",
+     "singers": "王喂马",
+     "album": "敖鲁古雅",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅",
+     "singers": "红日·恩泽",
+     "album": "红日·恩泽 (森林-草原篇)",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": ".敖鲁古雅",
+     "singers": "王梓-",
+     "album": "哭泣的鄂伦春",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅感恩有你 (伴奏)",
+     "singers": "张思琪",
+     "album": "敖鲁古雅感恩有你",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "豆宝贝儿歌 - 传统音乐《鄂温克族民歌》",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "豆宝贝儿歌 - 豆宝贝儿歌 0-3岁磨耳朵儿歌 传统音乐《鄂温克族民歌》",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "豆宝贝儿歌 - 豆宝贝儿歌 0-3岁儿童最爱科普童谣系列 传统音乐《鄂温克族民歌》",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "豆宝贝儿歌 - 豆宝贝儿歌 0-1岁中文中国儿童科普儿歌 传统音乐《鄂温克族民歌》",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "豆宝贝儿歌 - 豆宝贝儿歌 0-1岁最爱哄睡儿童歌曲大全系列 传统音乐《鄂温克族民歌》",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "嘻嘻娃娃 - 传统音乐《鄂温克族民歌》",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "嘻嘻娃娃儿歌 - 0-2岁百科童谣系列 传统音乐《鄂温克族民歌》",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "嘻嘻娃娃儿歌 - 0-1岁中文中国少儿启蒙磨耳朵 传统音乐《鄂温克族民歌》",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》幼儿百科儿歌",
+     "singers": "启蒙儿歌乐园",
+     "album": "托儿所乐知生活百科儿歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》启蒙学习儿歌",
+     "singers": "启蒙儿歌乐园",
+     "album": "娃娃幼知智启认知儿歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》",
+     "singers": "嘻嘻娃娃",
+     "album": "嘻嘻娃娃儿歌 0-5岁儿童科普童谣系列系列",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "0-2岁百科童谣系列 传统音乐《鄂温克族民歌》",
+     "singers": "嘻嘻娃娃儿歌",
+     "album": "嘻嘻娃娃儿歌 0-2岁百科童谣系列",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "0-1岁中文中国少儿启蒙磨耳朵 传统音乐《鄂温克族民歌》",
+     "singers": "嘻嘻娃娃儿歌",
+     "album": "嘻嘻娃娃儿歌 0-1岁中文中国少儿启蒙磨耳朵",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "0-4岁中文早教知识儿歌 传统音乐《鄂温克族民歌》",
+     "singers": "小企鹅儿歌",
+     "album": "小企鹅儿歌 0-4岁中文早教知识儿歌",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "学龄前儿童早教启蒙经典童谣系列 传统音乐《鄂温克族民歌》",
+     "singers": "小企鹅儿歌",
+     "album": "小企鹅儿歌 学龄前儿童早教启蒙经典童谣系列",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "0-3岁早教知识中文童谣系列 传统音乐《鄂温克族民歌》",
+     "singers": "小熊猫儿歌",
+     "album": "小熊猫儿歌 0-3岁早教知识中文童谣系列",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》少儿早教音乐",
+     "singers": "毛毛虫儿歌",
+     "album": "萌娃认知音乐",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "超级宝贝 0-3岁哄睡必备中国童谣经典集 传统音乐《鄂温克族民歌》",
+     "singers": "超级宝贝",
+     "album": "超级宝贝 0-3岁哄睡必备中国童谣经典集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "快乐宝贝儿歌 0-1岁中文中国儿童启蒙儿歌宝藏 传统音乐《鄂温克族民歌》",
+     "singers": "快乐宝贝儿歌",
+     "album": "快乐宝贝儿歌 0-1岁中文中国儿童启蒙儿歌宝藏",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "快乐宝贝儿歌 婴儿中文中国少儿磨耳朵 传统音乐《鄂温克族民歌》",
+     "singers": "快乐宝贝儿歌",
+     "album": "快乐宝贝儿歌 婴儿中文中国少儿磨耳朵",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》少年百科音乐",
+     "singers": "糖果兔儿歌",
+     "album": "幼儿园成长唱儿歌",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》幼儿园童谣",
+     "singers": "云宝宝儿歌",
+     "album": "教育孩童歌谣",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "小公主儿歌 - 0-1岁中文最爱哄睡儿童歌曲精选 传统音乐《鄂温克族民歌》",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "0-1岁中文最爱哄睡儿童歌曲精选 传统音乐《鄂温克族民歌》",
+     "singers": "小公主儿歌",
+     "album": "小公主儿歌 0-1岁中文最爱哄睡儿童歌曲精选",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "布仁巴雅尔 - 敖鲁古雅",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅 - 敖鲁古雅 (Live)",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "乌兰娜 - 敖鲁古雅",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "王喂马 - 敖鲁古雅",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "红日·恩泽 - 敖鲁古雅",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "王梓- - .敖鲁古雅",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "天童 - 敖鲁古雅",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅 - 美丽的家乡 (Live)",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅 - 舞动欢歌 (Live)",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "高山 - 我们的敖鲁古雅",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "小酷说书 - 第264集 敖鲁古雅",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅 (Live)",
+     "singers": "敖鲁古雅",
+     "album": "中国农民歌会第二季 第1期",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅",
+     "singers": "乌兰娜",
+     "album": "敖鲁古雅",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "我们的敖鲁古雅",
+     "singers": "高山",
+     "album": "火神之舞",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅太阳花 (伴奏)",
+     "singers": "徐景龙",
+     "album": "敖鲁古雅太阳花",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "西阿雅 我在敖鲁古雅等着你",
+     "singers": "徐景龙",
+     "album": "西阿雅 我在敖鲁古雅等着你",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "我们的儿敖鲁古雅 (伴奏)",
+     "singers": "高山",
+     "album": "火神之舞",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》",
+     "singers": "嘻嘻娃娃儿歌",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》少儿认知音乐",
+     "singers": "儿童歌曲",
+     "album": "儿童歌曲：《国学知识 学前教育儿歌》",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》学前班摇篮曲",
+     "singers": "儿童歌曲",
+     "album": "儿童歌曲：《知识科普 少年成长歌谣》",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅",
+     "singers": "吉祥三宝",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "我的敖鲁古雅.wav",
+     "singers": "邪修",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅",
+     "singers": "尽情摇摆",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅舞曲",
+     "singers": "贺西格",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "我们的敖鲁古雅",
+     "singers": "查森娜",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "贺西格-敖鲁古雅舞曲 (拾壹TENO-LEE Remix)",
+     "singers": "拾壹TENO-LEE",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "2 敖鲁古雅",
+     "singers": "红日·恩泽",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅河",
+     "singers": "欧阳兆赫",
+     "album": "",
+     "source": "MyFreeMP3",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》青少年摇篮曲",
+     "singers": "儿童歌曲",
+     "album": "儿童歌曲：《知识科普 常识幼儿园歌谣》",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》幼儿园益智音乐",
+     "singers": "儿童歌曲",
+     "album": "儿童歌曲：《百科知识 认知音乐》",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》少年教育儿歌",
+     "singers": "儿童歌曲",
+     "album": "儿童歌曲：《百科教育 少年学习亲子音乐》",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》百科萌娃摇篮曲",
+     "singers": "儿童歌曲",
+     "album": "儿童歌曲：《百科教育 学前班早教音乐》",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》宝宝学习音乐",
+     "singers": "儿童歌曲",
+     "album": "儿童歌曲：《百科教育 常识少儿童谣》",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》教育幼儿音乐",
+     "singers": "儿童歌曲",
+     "album": "儿童歌曲：《百科教育 少年音乐》",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》幼儿园童谣",
+     "singers": "儿童歌曲",
+     "album": "儿童歌曲：《百科教育 百科婴儿唱儿歌》",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "歌海李征 - 大雁湖（鄂温克族民歌）",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "启蒙儿歌乐园 - 传统音乐《鄂温克族民歌》幼儿百科儿歌",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "启蒙儿歌乐园 - 传统音乐《鄂温克族民歌》百科知识儿歌",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "OGG",
+     "duration": ""
+    },
+    {
+     "song_name": "启蒙儿歌乐园 - 传统音乐《鄂温克族民歌》启蒙学习儿歌",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "OGG",
+     "duration": ""
+    },
+    {
+     "song_name": "启蒙儿歌乐园 - 传统音乐《鄂温克族民歌》科普早教儿歌",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "OGG",
+     "duration": ""
+    },
+    {
+     "song_name": "豆宝贝儿歌 - 豆宝贝儿歌 0-3岁早教启蒙磨耳朵童谣系列 传统音乐《鄂温克族民歌》",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "OGG",
+     "duration": ""
+    },
+    {
+     "song_name": "向日葵儿歌 - 传统音乐《鄂温克族民歌》认知启蒙儿歌",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "向日葵儿歌 - 传统音乐《鄂温克族民歌》早教认知儿歌",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "向日葵儿歌 - 传统音乐《鄂温克族民歌》早教益智儿歌",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "大雁湖（鄂温克族民歌）",
+     "singers": "歌海李征",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》百科知识儿歌",
+     "singers": "启蒙儿歌乐园",
+     "album": "托儿所启蒙幼知百科儿歌",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》科普早教儿歌",
+     "singers": "启蒙儿歌乐园",
+     "album": "宝贝萌知自然早教儿歌",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "豆宝贝儿歌 0-3岁早教启蒙磨耳朵童谣系列 传统音乐《鄂温克族民歌》",
+     "singers": "豆宝贝儿歌",
+     "album": "豆宝贝儿歌 0-3岁早教启蒙磨耳朵童谣系列",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》认知启蒙儿歌",
+     "singers": "向日葵儿歌",
+     "album": "幼儿园趣知通识启蒙儿歌",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》早教认知儿歌",
+     "singers": "向日葵儿歌",
+     "album": "托儿所童知通识启蒙儿歌",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》早教益智儿歌",
+     "singers": "向日葵儿歌",
+     "album": "托儿所幼知智启认知儿歌",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》儿童百科儿歌",
+     "singers": "向日葵儿歌",
+     "album": "托儿所幼启自然童趣儿歌",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》科普启蒙儿歌",
+     "singers": "向日葵儿歌",
+     "album": "幼儿园趣知百科童趣儿歌",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》启蒙益智儿歌",
+     "singers": "向日葵儿歌",
+     "album": "幼儿园乐知通识启蒙儿歌",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》启蒙教育儿歌",
+     "singers": "开心熊和快乐虎",
+     "album": "幼稚园萌知生活认知儿歌",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》宝宝早教儿歌",
+     "singers": "开心熊和快乐虎",
+     "album": "幼稚园趣知启蒙认知儿歌",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐《鄂温克族民歌》成长孩童儿歌",
+     "singers": "开心熊和快乐虎",
+     "album": "学前班认知音乐",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅",
+     "singers": "内蒙古鄂温克族小鹿艺术团",
+     "album": "《歌从草原来 》内蒙古采风原创歌曲演唱会（下）",
+     "source": "咪咕",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "布仁巴雅尔&乌日娜&英格玛 - 敖鲁古雅",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "五彩呼伦贝尔儿童合唱团 - 敖鲁古雅",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "OGG",
+     "duration": ""
+    },
+    {
+     "song_name": "吉祥三宝 - 敖鲁古雅",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "OGG",
+     "duration": ""
+    },
+    {
+     "song_name": "欢欢延陵人 - 敖鲁古雅",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "OGG",
+     "duration": ""
+    },
+    {
+     "song_name": "翰墨刀锋 - 敖鲁古雅",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "杭州墨刀文化传播有限公司 - 播客：关于诗人徐晔先生的诗歌《敖鲁古雅》",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "贺西格 - 敖鲁古雅舞曲",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "AAC",
+     "duration": ""
+    },
+    {
+     "song_name": "霓裳 - 千年的敖鲁古雅",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "查森娜 - 我们的敖鲁古雅",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "OGG",
+     "duration": ""
+    },
+    {
+     "song_name": "布仁巴雅尔 - 敖鲁古雅 草原音画 121221",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "高晗 - 我们的敖鲁古雅 (cover 查森娜)",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "OGG",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅",
+     "singers": "布仁巴雅尔&乌日娜&英格玛",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅",
+     "singers": "五彩呼伦贝尔儿童合唱团",
+     "album": "天天向上 20160115",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅",
+     "singers": "欢欢延陵人",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅",
+     "singers": "翰墨刀锋",
+     "album": "59秒微音乐",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "播客：关于诗人徐晔先生的诗歌《敖鲁古雅》",
+     "singers": "杭州墨刀文化传播有限公司",
+     "album": "播客",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "千年的敖鲁古雅",
+     "singers": "霓裳",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅 草原音画 121221",
+     "singers": "布仁巴雅尔",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "我们的敖鲁古雅 (cover 查森娜)",
+     "singers": "高晗",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "敖鲁古雅的夜",
+     "singers": "秋来凉意渐渐浓",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "顾桃，知名纪录片导演，代表作有《犴达罕》《敖鲁古雅，敖鲁古雅…》等#大咖对话",
+     "singers": "腹有诗书气自华",
+     "album": "凉子访谈录",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "独家对话顾桃，知名纪录片导演，代表作有《犴达罕》《敖鲁古雅，敖鲁古雅…》等。#大咖对话",
+     "singers": "腹有诗书气自华",
+     "album": "凉子访谈录",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "千年的敖鲁古雅 (中三)",
+     "singers": "叶舞霓裳",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "中三 千年的敖鲁古雅 (舞者舞曲)",
+     "singers": "舞者－原创舞曲",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "梦中的敖鲁古雅",
+     "singers": "郭建忠",
+     "album": "梦中的敖鲁古雅",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "千年的敖鲁古雅",
+     "singers": "惠 子",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "千年的敖鲁古雅",
+     "singers": "青天夏凡",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "鄂伦春没有驯鹿大家不要搞错了！鄂温克才是饲养驯鹿的民族！欢迎大家来到敖鲁古雅鄂温克民族乡做客！",
+     "singers": "敖拉釗榮",
+     "album": "",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "demo-敖鲁古雅 敖鲁古雅 250822 (Demo)",
+     "singers": "脏小坏",
+     "album": "声音日记",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "千年不息的敖鲁古雅",
+     "singers": "思雨",
+     "album": "",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "《敖鲁古雅》暗杠：今日好歌已送达 (长音频)",
+     "singers": "遛狗天才",
+     "album": "",
+     "source": "酷狗",
+     "ext": "MP3",
+     "duration": ""
+    },
+    {
+     "song_name": "雷佳 - 大雁湖",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "山路十八弯",
+     "singers": "李琼",
+     "album": "山路十八弯",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "黄土高坡",
+     "singers": "李娜",
+     "album": "信天游",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "向往神鹰",
+     "singers": "亚东",
+     "album": "向往神鹰",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "卓玛",
+     "singers": "亚东",
+     "album": "故乡·卓玛",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "信天游",
+     "singers": "李娜",
+     "album": "影视歌曲集（中国首张DTS）珍藏版",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "呼伦贝尔大草原",
+     "singers": "降央卓玛",
+     "album": "金色的呼唤",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "坐上火车去拉萨",
+     "singers": "徐千雅",
+     "album": "彩云之南",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "青藏高原",
+     "singers": "韩红",
+     "album": "醒了",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "神奇的九寨",
+     "singers": "容中尔甲",
+     "album": "神奇的九寨",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "我爱你，中国",
+     "singers": "殷秀梅",
+     "album": "你好，春天",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "请到草原来",
+     "singers": "呼斯楞",
+     "album": "极度情深",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "走西口",
+     "singers": "王二妮",
+     "album": "爱陕北",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "一壶老酒",
+     "singers": "陆树铭",
+     "album": "一 壶老酒",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "歌在飞",
+     "singers": "苏勒亚其其格",
+     "album": "歌在飞",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "火红的萨日朗",
+     "singers": "乌兰托娅",
+     "album": "火红的萨日朗",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "卓玛",
+     "singers": "降央卓玛",
+     "album": "金色的呼唤",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "我的中国心",
+     "singers": "张明敏",
+     "album": "流金岁月——献给共和国的同龄人",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "祝福祖国",
+     "singers": "汤灿",
+     "album": "祝福祖国",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "祝你平安",
+     "singers": "孙悦",
+     "album": "原唱流行经典名曲（5）",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "瑞鸣音乐&娜仁其其格 - 阿萨力沙丘",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "瑞鸣音乐&古香莲 - 森林里的故乡.额克丹宝阿",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "瑞鸣音乐&古香莲 - 可爱的.古佳耶",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "瑞鸣音乐&娜仁其其格 - 小天鹅.乌日切德给",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "瑞鸣音乐&古香莲 - 毛敖吉坎河",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "瑞鸣音乐&苏尤勒扎布 - 莫尔格勒河",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "瑞鸣音乐&娜仁其其格 - 尼呼兰",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "瑞鸣音乐&苏尤勒扎布 - 百灵鸟的故乡",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "王文龙 - 鄂温克族",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "田禾 - 鄂温克族",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "深海的鱼 - 鄂温克族",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "中唱群星 - 鄂温克族人民无限怀念",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "弘扬 - 中华民族之鄂温克族",
+     "singers": "未知歌手",
+     "album": "",
+     "source": "TwoT58",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "阿萨力沙丘",
+     "singers": "瑞鸣音乐&娜仁其其格",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "森林里的故乡.额克丹宝阿",
+     "singers": "瑞鸣音乐&古香莲",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "可爱的.古佳耶",
+     "singers": "瑞鸣音乐&古香莲",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "小天鹅.乌日切德给",
+     "singers": "瑞鸣音乐&娜仁其其格",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "毛敖吉坎河",
+     "singers": "瑞鸣音乐&古香莲",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "莫尔格勒河",
+     "singers": "瑞鸣音乐&苏尤勒扎布",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "尼呼兰",
+     "singers": "瑞鸣音乐&娜仁其其格",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "百灵鸟的故乡",
+     "singers": "瑞鸣音乐&苏尤勒扎布",
+     "album": "中国音乐地图之听见内蒙古呼伦贝尔 鄂温克族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "鄂温克族",
+     "singers": "王文龙",
+     "album": "中华民族",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "鄂温克族",
+     "singers": "田禾",
+     "album": "五十六个民族I",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "鄂温克族",
+     "singers": "深海的鱼",
+     "album": "中华民族一家亲（上）",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "鄂温克族人民无限怀念",
+     "singers": "中唱群星",
+     "album": "",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "中华民族之鄂温克族",
+     "singers": "弘扬",
+     "album": "中华民族",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "FLY-飞",
+     "singers": "ANU",
+     "album": "FLY-飞",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐",
+     "singers": "嘻嘻娃娃",
+     "album": "嘻嘻娃娃儿歌 0-5岁儿童最爱中文儿歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "传统音乐",
+     "singers": "豆宝贝儿歌",
+     "album": "豆宝贝儿歌 幼儿中文奇妙儿歌大全",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "0-1岁中文中国少儿启蒙磨耳朵 传统音乐",
+     "singers": "嘻嘻娃娃",
+     "album": "嘻嘻娃娃儿歌 0-1岁中文中国少儿启蒙磨耳朵",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "0-3岁早教知识中文童谣系列 传统音乐",
+     "singers": "小熊猫儿歌",
+     "album": "小熊猫儿歌 0-3岁早教知识中文童谣系列",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "学龄前儿童早教启蒙经典童谣系列 传统音乐",
+     "singers": "小企鹅儿歌",
+     "album": "小企鹅儿歌 学龄前儿童早教启蒙经典童谣系列",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "快乐宝贝儿歌 婴儿中文中国少儿磨耳朵 传统音乐",
+     "singers": "快乐宝贝儿歌",
+     "album": "快乐宝贝儿歌 婴儿中文中国少儿磨耳朵",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "0-4岁中文早教知识儿歌 传统音乐",
+     "singers": "小企鹅儿歌",
+     "album": "小企鹅儿歌 0-4岁中文早教知识儿歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "快乐宝贝儿歌 0-1岁中文中国儿童启蒙儿歌宝藏 传统音乐",
+     "singers": "快乐宝贝儿歌",
+     "album": "快乐宝贝儿歌 0-1岁中文中国儿童启蒙儿歌宝藏",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "超级宝贝 0-3岁哄睡必备中国童谣经典集 传统音乐",
+     "singers": "超级宝贝",
+     "album": "超级宝贝 0-3岁哄睡必备中国童谣经典集",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "豆宝贝儿歌 0-3岁磨耳朵儿歌 传统音乐",
+     "singers": "豆宝贝儿歌",
+     "album": "豆宝贝儿歌 0-3岁磨耳朵儿歌",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "豆宝贝儿歌 0-3岁早教启蒙磨耳朵童谣系列 传统音乐",
+     "singers": "豆宝贝儿歌",
+     "album": "豆宝贝儿歌 0-3岁早教启蒙磨耳朵童谣系列",
+     "source": "酷狗",
+     "ext": "FLAC",
+     "duration": ""
+    },
+    {
+     "song_name": "自制字幕 斯琴格日乐 《织谣》 （更新至第二张~） - 喃达汗（鄂温克族）",
+     "singers": "淑芬drama",
+     "album": "BV1yV411s7Pv",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "中国各民族生产生活情况老纪录片节选（中国社会科学院民族学与人类学研究所人类学影片） - 额尔古纳河畔的鄂温克人（早期游猎生活）",
+     "singers": "Zhuīkāng",
+     "album": "BV1ys411C7D9",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": ""
+    },
+    {
+     "song_name": "我们是森林里的人",
+     "singers": "热妮娅",
+     "album": "森林中的故乡",
+     "source": "酷我",
+     "ext": "MP3",
+     "duration": "00:03:07"
+    },
+    {
+     "song_name": "【鄂温克语】摇篮曲 - 格列 敖鲁古雅鄂温克音乐",
+     "singers": "Morgen",
+     "album": "BV1jBpu6mEQz",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:01:50"
+    },
+    {
+     "song_name": "母鹿之歌.小鹿与鹿妈妈",
+     "singers": "瑞鸣音乐&关金芳",
+     "album": "中国音乐地图之听见黑龙江 鄂伦春族民间歌曲集",
+     "source": "酷我",
+     "ext": "FLAC",
+     "duration": "00:21:28"
+    },
+    {
+     "song_name": "鄂温克族民歌 其其格玛：东泉",
+     "singers": "Suddha",
+     "album": "BV1mj411L7FZ",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:03:10"
+    },
+    {
+     "song_name": "[鄂温克语] 敖鲁古雅 - 乌日娜 - [鄂溫克(埃文基)族音樂] Aoluguya - 烏日娜",
+     "singers": "chukchiman",
+     "album": "BV1MC4y1b7jV",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:01:51"
+    },
+    {
+     "song_name": "【吉祥三宝】乌日娜领唱鄂温克传统叙述民歌《敖鲁古雅》",
+     "singers": "磨瀬榛名",
+     "album": "BV1yK411z7Pd",
+     "source": "B站",
+     "ext": "M4A",
+     "duration": "00:02:37"
+    }
+   ]
+  }
+ ],
+ "total_songs": 1017
+}

@@ -1,0 +1,18 @@
+# Python 虚拟环境（体积大，不入库）
+_venv/
+__pycache__/
+*.pyc
+
+# 本地项目数据（按规约保留但不入库）
+.workbuddy/
+
+# 生成物 / 临时输出
+downloads/
+musicdl_outputs/
+err.txt
+.DS_Store
+
+# PyInstaller 构建中间产物（_build 下的 dist/work 缓存）
+_build/_dist_*/
+_build/_work_*/
+_build/_picache/

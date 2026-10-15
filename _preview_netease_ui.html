@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>预览 · 山河回响 网易云风格 + 歌手归类删除</title>
+<style>
+  :root{
+    --nc-red:#C20C0C;          /* 网易云标志红 */
+    --nc-red-soft:#E60026;
+    --side-bg:#1f1f22;         /* 深色左侧栏 */
+    --side-bg2:#18181b;
+    --side-txt:#b6b6bd;
+    --side-txt-on:#ffffff;
+    --bg:#f6f6f8;              /* 主区浅灰白 */
+    --card:#ffffff;
+    --line:#ececf0;
+    --txt:#222226;
+    --txt2:#6b6b73;
+    --txt3:#9a9aa2;
+    --accent:var(--nc-red);
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;height:100%;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--txt);}
+  .app{display:grid;grid-template-columns:220px 1fr;height:100vh;}
+  /* 左侧深色导航（网易云经典） */
+  .side{background:linear-gradient(180deg,var(--side-bg),var(--side-bg2));color:var(--side-txt);padding:20px 0;display:flex;flex-direction:column;}
+  .logo{display:flex;align-items:center;gap:10px;padding:0 22px 18px;font-weight:800;font-size:18px;color:#fff;}
+  .logo .dot{width:26px;height:26px;border-radius:7px;background:var(--nc-red);display:flex;align-items:center;justify-content:center;color:#fff;font-size:14px;}
+  .nav{padding:6px 12px;}
+  .nav .item{display:flex;align-items:center;gap:12px;padding:11px 14px;border-radius:9px;font-size:14.5px;cursor:pointer;color:var(--side-txt);}
+  .nav .item.on{background:rgba(194,12,12,.16);color:var(--side-txt-on);box-shadow:inset 3px 0 0 var(--nc-red);}
+  .nav .item:hover{color:#fff;}
+  .side .foot{margin-top:auto;padding:14px 22px;font-size:12px;color:#6c6c74;}
+  /* 主区 */
+  .main{display:flex;flex-direction:column;overflow:hidden;}
+  .topbar{height:58px;display:flex;align-items:center;gap:14px;padding:0 26px;background:var(--card);border-bottom:1px solid var(--line);}
+  .search{flex:0 0 320px;display:flex;align-items:center;gap:8px;background:var(--bg);border:1px solid var(--line);border-radius:20px;padding:8px 14px;color:var(--txt3);}
+  .eth-pill{margin-left:auto;display:flex;gap:8px;}
+  .eth-pill .p{font-size:12.5px;padding:5px 12px;border-radius:14px;background:var(--bg);border:1px solid var(--line);color:var(--txt2);}
+  .eth-pill .p.on{background:var(--nc-red);color:#fff;border-color:var(--nc-red);}
+  .content{padding:24px 26px;overflow:auto;}
+  .sec-title{display:flex;align-items:center;gap:10px;font-size:18px;font-weight:800;margin:4px 0 16px;}
+  .sec-title .bar{width:4px;height:18px;border-radius:3px;background:var(--nc-red);}
+  /* 歌手归类：左歌手列表 + 右歌曲表 */
+  .split{display:grid;grid-template-columns:240px 1fr;gap:22px;align-items:start;}
+  .sg-list{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:10px;}
+  .sg-list .sg{display:flex;align-items:center;gap:11px;padding:9px 11px;border-radius:10px;cursor:pointer;}
+  .sg-list .sg.on{background:rgba(194,12,12,.08);}
+  .sg .av{width:36px;height:36px;border-radius:50%;background:linear-gradient(135deg,#ff7a7a,#C20C0C);color:#fff;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:700;}
+  .sg .nm{font-size:14px;}
+  .sg .ct{margin-left:auto;font-size:12px;color:var(--txt3);}
+  /* 歌曲表（网易云 song-table 风格） */
+  .tbl{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+  .tbl .row{display:grid;grid-template-columns:46px 1fr 1fr 70px 44px;align-items:center;padding:0 16px;height:46px;border-bottom:1px solid var(--line);font-size:13.5px;}
+  .tbl .row.head{background:#fafafa;color:var(--txt3);font-size:12.5px;border-bottom:1px solid var(--line);}
+  .tbl .row:hover{background:#fbf3f3;}
+  .tbl .row .idx{color:var(--txt3);}
+  .tbl .row .ttl{display:flex;flex-direction:column;}
+  .tbl .row .ttl b{font-weight:600;}
+  .tbl .row .ttl small{color:var(--txt3);font-size:12px;}
+  .tbl .row .ar{color:var(--txt2);}
+  .tbl .row .del{justify-self:center;opacity:0;color:var(--txt3);cursor:pointer;border:none;background:none;font-size:16px;}
+  .tbl .row:hover .del{opacity:1;}
+  .tbl .row .del:hover{color:var(--nc-red);}
+  .delbadge{display:inline-flex;align-items:center;gap:5px;font-size:11px;color:var(--nc-red);background:rgba(194,12,12,.1);padding:2px 8px;border-radius:10px;}
+  /* 对话框（参考 山河回响 dlg） */
+  .mask{position:fixed;inset:0;background:rgba(0,0,0,.45);display:none;align-items:center;justify-content:center;}
+  .mask.show{display:flex;}
+  .dlg{width:380px;background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 18px 50px rgba(0,0,0,.3);}
+  .dlg .dlg-head{padding:18px 20px 6px;font-size:16px;font-weight:800;}
+  .dlg .dlg-body{padding:6px 20px 18px;color:var(--txt2);font-size:13.5px;line-height:1.6;}
+  .dlg .dlg-foot{display:flex;gap:10px;justify-content:flex-end;padding:14px 20px;border-top:1px solid var(--line);}
+  .btn{border:none;border-radius:18px;padding:8px 18px;font-size:13.5px;cursor:pointer;}
+  .btn.ghost{background:var(--bg);color:var(--txt2);}
+  .btn.danger{background:var(--nc-red);color:#fff;}
+  .note{margin-top:18px;font-size:12.5px;color:var(--txt3);line-height:1.7;background:#fff;border:1px dashed var(--line);border-radius:12px;padding:12px 14px;}
+</style>
+</head>
+<body>
+<div class="app">
+  <aside class="side">
+    <div class="logo"><span class="dot">山</span>山河回响</div>
+    <nav class="nav">
+      <div class="item on">♪ 发现音乐</div>
+      <div class="item">🗺 声音地图</div>
+      <div class="item">♥ 我的收藏</div>
+      <div class="item">👤 我的</div>
+    </nav>
+    <div class="foot">网易云风格预览 · 仅示意<br>（四族点缀色保留为小面积强调）</div>
+  </aside>
+
+  <section class="main">
+    <div class="topbar">
+      <div class="search">🔍 搜索歌曲 / 歌手 / 专辑</div>
+      <div class="eth-pill">
+        <span class="p">畲族</span><span class="p on">塔吉克族</span><span class="p">怒族</span><span class="p">鄂温克族</span>
+      </div>
+    </div>
+
+    <div class="content">
+      <div class="sec-title"><span class="bar"></span>歌者归类 · 塔吉克族</div>
+      <div class="split">
+        <!-- 左：歌手列表（带曲目数，即用户截图里的逻辑） -->
+        <div class="sg-list" id="sgList">
+          <div class="sg on"><span class="av">阿</span><span class="nm">阿力甫·托合提</span><span class="ct">37</span></div>
+          <div class="sg"><span class="av">古</span><span class="nm">古丽巴哈尔</span><span class="ct">28</span></div>
+          <div class="sg"><span class="av">买</span><span class="nm">买买提江</span><span class="ct">21</span></div>
+          <div class="sg"><span class="av">热</span><span class="nm">热依汗古丽</span><span class="ct">15</span></div>
+        </div>
+        <!-- 右：选中歌手的歌曲表，每行带删除 -->
+        <div class="tbl">
+          <div class="row head"><div>♪</div><div>歌曲</div><div>歌手</div><div>时长</div><div></div></div>
+          <div class="row"><div class="idx">1</div><div class="ttl"><b>帕米尔的月亮</b><small>塔吉克族民间</small></div><div class="ar">阿力甫·托合提</div><div>04:12</div><button class="del" title="从曲库删除">🗑</button></div>
+          <div class="row"><div class="idx">2</div><div class="ttl"><b>冰山上的雪莲</b><small>塔吉克族民间</small></div><div class="ar">阿力甫·托合提</div><div>03:48</div><button class="del" title="从曲库删除">🗑</button></div>
+          <div class="row"><div class="idx">3</div><div class="ttl"><b>雄鹰之歌</b><small>塔吉克族民间</small></div><div class="ar">古丽巴哈尔</div><div>05:03</div><button class="del" title="从曲库删除">🗑</button></div>
+          <div class="row"><div class="idx">4</div><div class="ttl"><b>慕士塔格</b><small>塔吉克族民间</small></div><div class="ar">买买提江</div><div>04:31</div><button class="del" title="从曲库删除">🗑</button></div>
+        </div>
+      </div>
+
+      <div class="note">
+        预览说明（待你确认后我才改真实文件并重新打包）：<br>
+        ① <b>整体换网易云/山河回响风格</b>：深色左侧栏 + 网易云标志红(#C20C0C) + 浅灰白主区 + 歌曲表格布局；四族点缀色仅在民族切换小标签等处小幅保留，不喧宾夺主。<br>
+        ② <b>歌手归类页</b>：左侧歌手列表（显示每位歌手曲目数，即你给截图的逻辑），右侧为该歌手歌曲表，每行 hover 出现 🗑 删除按钮。<br>
+        ③ <b>删除功能（仅歌手归类版 DMG）</b>：点 🗑 → 弹确认框「确定从曲库删除《歌名》？此操作不可恢复」→ 确认后从本民族曲库 JSON 移除（写入前自动备份）。<br>
+        ④ 删除接口为新增后端能力，通过 <code>app_config.json</code> 里的开关 <code>allow_delete</code> 控制，<b>仅「歌手归类版」4 个 DMG 开启</b>，原 4 个 DMG 不启用，互不影响。
+      </div>
+    </div>
+  </section>
+</div>
+
+<div class="mask" id="mask">
+  <div class="dlg">
+    <div class="dlg-head">从曲库删除歌曲</div>
+    <div class="dlg-body">确定从「塔吉克族」曲库删除 <b>《帕米尔的月亮》</b> 吗？<br>此操作不可恢复，删除前会自动备份当前曲库。</div>
+    <div class="dlg-foot">
+      <button class="btn ghost" onclick="document.getElementById('mask').classList.remove('show')">取消</button>
+      <button class="btn danger" onclick="document.getElementById('mask').classList.remove('show')">删除</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  // 预览交互：删除按钮弹确认框
+  document.querySelectorAll('.tbl .del').forEach(b=>b.onclick=()=>document.getElementById('mask').classList.add('show'));
+  // 歌手切换高亮（示意）
+  document.querySelectorAll('#sgList .sg').forEach(s=>s.onclick=()=>{
+    document.querySelectorAll('#sgList .sg').forEach(x=>x.classList.remove('on'));s.classList.add('on');
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>民族音乐 · 四大民族歌单插画封面设计稿</title>
+<style>
+:root{
+  --pg:#f4f5f7; --card:#fff; --ink:#1c1f26; --ink2:#5c6270; --ink3:#8d94a1;
+  --line:#e6e8ee; --line2:#eef0f5;
+  --sans:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  --serif:"Songti SC","STSong","Noto Serif CJK SC",Georgia,serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--pg);color:var(--ink);font-family:var(--sans);font-size:13.5px;line-height:1.7;-webkit-font-smoothing:antialiased;padding:34px 30px 90px}
+
+.pagehead{max-width:1180px;margin:0 auto 28px}
+.pagehead .eyebrow{font-size:11.5px;letter-spacing:2.4px;color:var(--ink3);margin-bottom:9px}
+.pagehead h1{font-family:var(--serif);font-size:31px;font-weight:700;letter-spacing:.5px}
+.pagehead h1 em{font-style:normal;color:#b03434}
+.pagehead p{color:var(--ink2);margin-top:11px;max-width:880px}
+.pagehead .note{margin-top:15px;background:#eef4fb;border:1px solid #d3e2f4;border-left:3px solid #3b6ea5;border-radius:8px;padding:11px 14px;font-size:12.5px;color:#33506f}
+
+/* 新旧对比 */
+.vs{max-width:1180px;margin:0 auto 30px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px 26px}
+.vs h3{font-family:var(--serif);font-size:16px;margin-bottom:16px}
+.vs .grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.vs .col h4{font-size:12px;letter-spacing:1.2px;color:var(--ink3);margin-bottom:10px;display:flex;align-items:center;gap:7px}
+.vs .col h4 i{font-style:normal;font-size:10.5px;padding:1.5px 7px;border-radius:5px;background:#eef1f6;color:#5c6270}
+.vs .col.new h4 i{background:#eaf5ec;color:#2f7a44}
+.vs .demo{display:flex;gap:14px;align-items:flex-start}
+.vs .cov{width:112px;flex:none}
+.vs .cov .art{width:112px;height:112px;border-radius:9px;overflow:hidden;box-shadow:0 3px 12px rgba(20,24,40,.16)}
+.vs .cov .art svg{width:100%;height:100%;display:block}
+.vs .cov .nm{font-size:11px;margin-top:7px;color:var(--ink2)}
+.vs .cov .ct{font-size:10px;color:var(--ink3)}
+.vs ul{list-style:none;font-size:12.5px;color:var(--ink2)}
+.vs li{padding:3px 0 3px 15px;position:relative}
+.vs li:before{content:"";position:absolute;left:2px;top:11px;width:5px;height:5px;border-radius:50%;background:var(--ink3);opacity:.55}
+
+/* 版块 */
+.board{max-width:1180px;margin:0 auto 42px;background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 1px 3px rgba(20,24,40,.05),0 10px 34px rgba(20,24,40,.05)}
+
+/* 卡片网格实景 */
+.gridview{padding:24px 26px 26px}
+.gridview .cap{font-size:11.5px;letter-spacing:1.4px;color:var(--ink3);margin-bottom:18px;display:flex;align-items:center;gap:9px}
+.gridview .cap:after{content:"";flex:1;height:1px;background:var(--line)}
+.pcards{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.pcard{background:#fff;border:1px solid var(--line2);border-radius:12px;overflow:hidden;transition:transform .16s,box-shadow .16s;box-shadow:0 1px 3px rgba(20,24,40,.05)}
+.pcard:hover{transform:translateY(-3px);box-shadow:0 10px 28px rgba(20,24,40,.13)}
+.pcard .art{position:relative;aspect-ratio:1/1;overflow:hidden}
+.pcard .art svg{width:100%;height:100%;display:block}
+.pcard .art .seal{position:absolute;left:9px;bottom:9px;width:42px;height:42px;filter:drop-shadow(0 2px 5px rgba(0,0,0,.4))}
+.pcard .art .seal svg{width:100%;height:100%}
+.pcard .art .play{position:absolute;right:10px;bottom:10px;width:36px;height:36px;border-radius:50%;background:rgba(255,255,255,.92);display:grid;place-items:center;opacity:0;transform:translateY(6px);transition:.18s;box-shadow:0 3px 12px rgba(0,0,0,.28)}
+.pcard:hover .art .play{opacity:1;transform:none}
+.pcard .art .play svg{width:15px;height:15px;color:#1c1f26}
+.pcard .info{padding:12px 13px 13px}
+.pcard .info .nm{font-size:13.5px;font-weight:600;display:flex;align-items:center;gap:6px}
+.pcard .info .nm .zhu{font-size:10px;padding:1px 6px;border-radius:5px;background:#f0f2f6;color:var(--ink3);font-weight:500;flex:none}
+.pcard .info .tag{font-size:11.5px;color:var(--ink2);margin-top:3px}
+.pcard .info .ct{font-size:10.5px;color:var(--ink3);margin-top:7px;display:flex;justify-content:space-between;align-items:center}
+.pcard .info .ct b{color:var(--ink2);font-weight:600}
+
+/* 封面拆解 */
+.breakdown{padding:24px 28px 26px}
+.breakdown .cap{font-size:11.5px;letter-spacing:1.4px;color:var(--ink3);margin-bottom:20px;display:flex;align-items:center;gap:9px}
+.breakdown .cap:after{content:"";flex:1;height:1px;background:var(--line)}
+.bd-item{display:grid;grid-template-columns:300px 1fr;gap:26px;padding:22px 0;border-bottom:1px solid var(--line2)}
+.bd-item:last-child{border-bottom:none;padding-bottom:4px}
+.bd-item .big{position:relative}
+.bd-item .big .art{border-radius:12px;overflow:hidden;box-shadow:0 8px 26px rgba(20,24,40,.18);aspect-ratio:1/1}
+.bd-item .big .art svg{width:100%;height:100%;display:block}
+.bd-item .big .seal{position:absolute;left:12px;bottom:12px;width:52px;height:52px;filter:drop-shadow(0 2px 6px rgba(0,0,0,.45))}
+.bd-item .big .seal svg{width:100%;height:100%}
+.bd-item .big .lb{margin-top:11px;font-size:11px;color:var(--ink3);letter-spacing:.5px}
+.bd-item .txt h3{font-family:var(--serif);font-size:19px;letter-spacing:1px;display:flex;align-items:center;gap:10px}
+.bd-item .txt h3 .zh{font-size:12px;font-family:var(--sans);color:var(--ink3);letter-spacing:0;font-weight:400}
+.bd-item .txt .pos{font-size:12px;color:var(--ink3);margin:4px 0 13px}
+.bd-item .txt .blk{margin-bottom:14px}
+.bd-item .txt .blk h4{font-size:11.5px;letter-spacing:1.3px;color:var(--ink3);margin-bottom:7px;display:flex;align-items:center;gap:7px}
+.bd-item .txt .blk h4:before{content:"";width:13px;height:2px;background:currentColor;opacity:.45;border-radius:2px}
+.bd-item .txt .el{display:flex;flex-wrap:wrap;gap:6px}
+.bd-item .txt .el span{font-size:11.5px;padding:3px 9px;border-radius:6px;background:#f3f5f8;color:var(--ink2);border:1px solid #e9ecf1}
+.bd-item .txt .uniq{background:#fffaf0;border:1px solid #f0e2c0;border-radius:9px;padding:11px 13px;font-size:12.5px;color:#6b5320}
+.bd-item .txt .uniq b{color:#8a4a12}
+.bd-item .txt .pal{display:flex;gap:7px;margin-top:4px}
+.bd-item .txt .pal i{width:30px;height:30px;border-radius:8px;box-shadow:inset 0 0 0 1px rgba(0,0,0,.1);display:block}
+
+/* 详情页头图 */
+.detailview{padding:24px 26px 26px}
+.detailview .cap{font-size:11.5px;letter-spacing:1.4px;color:var(--ink3);margin-bottom:18px;display:flex;align-items:center;gap:9px}
+.detailview .cap:after{content:"";flex:1;height:1px;background:var(--line)}
+.dhead{border-radius:12px;overflow:hidden;box-shadow:0 8px 28px rgba(20,24,40,.16)}
+.dhead .banner{position:relative;height:238px}
+.dhead .banner svg.art{width:100%;height:100%;display:block}
+.dhead .banner .veil{position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.62) 0%,rgba(0,0,0,.28) 52%,rgba(0,0,0,.05) 100%)}
+.dhead .banner .ov{position:absolute;left:28px;bottom:24px;right:28px;color:#fff}
+.dhead .banner .ov h2{font-family:var(--serif);font-size:26px;letter-spacing:2.5px;text-shadow:0 2px 14px rgba(0,0,0,.5)}
+.dhead .banner .ov .sub{font-size:12.5px;opacity:.94;margin-top:6px;text-shadow:0 1px 8px rgba(0,0,0,.5)}
+.dhead .banner .ov .acts{display:flex;gap:9px;margin-top:14px}
+.dhead .banner .ov .acts i{font-style:normal;font-size:12px;padding:6px 17px;border-radius:18px;border:1px solid rgba(255,255,255,.65);background:rgba(255,255,255,.16);backdrop-filter:blur(2px)}
+.dhead .banner .ov .acts i.solid{background:#fff;color:#1c1f26;border-color:#fff;font-weight:600}
+.dhead .rows{background:#fff;padding:6px 0 12px}
+.dhead .rw{display:grid;grid-template-columns:34px 1fr 150px 70px 46px;align-items:center;padding:8px 24px;font-size:12px;border-bottom:1px solid var(--line2)}
+.dhead .rw.hd{font-size:10px;color:var(--ink3);padding-top:9px;border-bottom:1px solid var(--line)}
+.dhead .rw .ix{color:var(--ink3);font-size:10.5px}
+.dhead .rw .nm{font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding-right:8px}
+.dhead .rw .sg{color:var(--ink2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding-right:8px;font-size:11.5px}
+.dhead .rw .ab{color:var(--ink3);font-size:11px}
+.dhead .rw .du{color:var(--ink3);font-size:10.5px;text-align:right;font-variant-numeric:tabular-nums}
+.dhead .rw.on{background:#fdf3f3}
+.dhead .rw.on .nm,.dhead .rw.on .ix{color:#b03434;font-weight:600}
+
+/* 落地 */
+.impl{padding:20px 28px 24px;background:#fbfcfd;border-top:1px solid var(--line2)}
+.impl h4{font-size:11.5px;letter-spacing:1.4px;color:var(--ink3);margin-bottom:11px}
+.impl p{font-size:12.5px;color:var(--ink2);margin-bottom:9px}
+.impl code{font-family:ui-monospace,"SF Mono",Menlo,monospace;font-size:11px;background:#eef1f6;border:1px solid #e1e6ee;border-radius:5px;padding:1px 5px;color:#33405c}
+.impl pre{font-family:ui-monospace,"SF Mono",Menlo,monospace;font-size:11px;background:#f2f5f9;border:1px solid #e3e8f0;border-radius:8px;padding:12px 14px;overflow-x:auto;color:#33405c;line-height:1.65;margin:8px 0 4px}
+.impl ol{margin:6px 0 0 18px;font-size:12.5px;color:var(--ink2)}
+.impl ol li{padding:2.5px 0}
+</style>
+</head>
+<body>
+
+<!-- ============ 共享 SVG：图腾 + 纹样 ============ -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+<defs>
+  <symbol id="t-phoenix" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="37" cy="23" r="3.1" fill="currentColor" stroke="none"/>
+    <path d="M37 19.2c.8-3.6 2.8-6 5.8-7.2"/>
+    <path d="M39.5 20.6c3-1.8 6.2-2 8.6-.9"/>
+    <path d="M34.4 25.2c-4.6 1-7.8 4.4-8.6 9.2"/>
+    <path d="M31 36c-5.8-1.4-10.6 1-13.6 6.6 5-1.4 9.4-.6 13.2 2"/>
+    <path d="M34 40c2.2 6.4 7 10.8 14 13.2"/>
+    <path d="M31.6 42.6c1 6.4 4.4 11 9.8 13.8"/>
+    <path d="M28.6 43.4c-1 6.6-.6 11.8 1.6 15.6"/>
+  </symbol>
+  <symbol id="t-eagle" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="32" cy="15.5" r="4.6"/>
+    <circle cx="32" cy="15.5" r="2.1" fill="currentColor" stroke="none"/>
+    <path d="M28.6 19.6 27 30.5M35.4 19.6 37 30.5"/>
+    <path d="M27.4 24.4C20.4 20 12.6 19.4 4 23.4c7.2 1.2 12.4 4.4 15.6 9"/>
+    <path d="M36.6 24.4C43.6 20 51.4 19.4 60 23.4c-7.2 1.2-12.4 4.4-15.6 9"/>
+    <path d="M19.6 32.4c3.4-.8 6.6-.2 9.6 1.8" opacity=".6"/>
+    <path d="M44.4 32.4c-3.4-.8-6.6-.2-9.6 1.8" opacity=".6"/>
+    <path d="M29.4 31.6 26 47.5l6-3.4 6 3.4-3.4-15.9"/>
+    <path d="M29.6 47.4 27 57M34.4 47.4 37 57"/>
+  </symbol>
+  <symbol id="t-dabiya" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26.5 17.5V7.5h11v10"/>
+    <path d="M22.6 30.5 26 17.5h12l3.4 13c1.3 5.6-2.9 11-9.4 11s-10.7-5.4-9.4-11z"/>
+    <path d="M26.4 17.5V41M29.5 17.5V44M32.5 17.5V44M35.6 17.5V41"/>
+    <path d="M23.4 31.5h15.2"/>
+    <path d="M18 33.5c-2.6 1.6-4 4-4.2 7.2M46 33.5c2.6 1.6 4 4 4.2 7.2" opacity=".6"/>
+  </symbol>
+  <symbol id="t-reindeer" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 27v-7"/>
+    <path d="M32 22.5c-3.8-1.8-6.6-5.6-7.8-10.6M32 22.5c3.8-1.8 6.6-5.6 7.8-10.6"/>
+    <path d="M24.2 11.9c-1.4-3.6-4.2-5.7-8-6.3M39.8 11.9c1.4-3.6 4.2-5.7 8-6.3"/>
+    <path d="M16.2 5.6c-.3-2.6-1.4-4.4-3.4-5.4M47.8 5.6c.3-2.6 1.4-4.4 3.4-5.4"/>
+    <path d="M23.4 27.6 18 23.4l1.8 6.2M40.6 27.6 46 23.4l-1.8 6.2"/>
+    <ellipse cx="32" cy="42" rx="8.6" ry="11.6"/>
+    <circle cx="28.6" cy="40" r="1.5" fill="currentColor" stroke="none"/>
+    <circle cx="35.4" cy="40" r="1.5" fill="currentColor" stroke="none"/>
+    <path d="M32 46.5v3.4"/>
+    <path d="M30 52.5h4"/>
+  </symbol>
+  <symbol id="i-play" viewBox="0 0 24 24" fill="currentColor"><path d="M7 4.8v14.4c0 .9 1 1.5 1.8 1L20 13c.8-.5.8-1.6 0-2L8.8 3.8C8 3.3 7 3.9 7 4.8z"/></symbol>
+
+  <!-- 塔吉克太阳花刺绣带 -->
+  <pattern id="pt-sun" width="24" height="22" patternUnits="userSpaceOnUse">
+    <rect width="24" height="22" fill="#2a0c10"/>
+    <g transform="translate(12,11)" stroke="#d9a52a" stroke-width="1.2" fill="none">
+      <path d="M0 -5.4V5.4M-5.4 0H5.4M-3.8 -3.8L3.8 3.8M3.8 -3.8L-3.8 3.8"/>
+      <circle r="1.7" fill="#d9a52a"/>
+    </g>
+  </pattern>
+</defs>
+</svg>
+
+<div class="pagehead">
+  <div class="eyebrow">PLAYLIST COVER · DESIGN SPEC v2</div>
+  <h1>四大民族歌单 <em>插画封面</em> 设计稿</h1>
+  <p>上一版的封面是「两色渐变 + 族名文字」，四个民族只有色相差别。这一版把封面升级成**完整的场景插画**：每个民族一张画，有远、中、近景层次，有该民族独有的图腾与器物，不看字也能认出来是哪个民族。</p>
+  <div class="note"><b>全部为纯内联 SVG，不依赖网络、不增加二进制资源</b>——这对冻结打包的 .app 很关键：图片随模板一起进包，离线可用、任意尺寸不失真、体积只有几 KB。<b>尚未修改 dmg。</b></div>
+</div>
+
+<!-- ============ 新旧对比 ============ -->
+<div class="vs">
+  <h3>改动前后</h3>
+  <div class="grid">
+    <div class="col old">
+      <h4>旧做法 <i>渐变 + 文字</i></h4>
+      <div class="demo">
+        <div class="cov">
+          <div class="art" style="background:linear-gradient(135deg,#d9c9c0,#f0d8b8)"><svg viewBox="0 0 320 320"><rect width="320" height="320" fill="#e8d8c4"/><text x="160" y="168" font-size="34" text-anchor="middle" fill="#8a6a52" font-family="Songti SC,serif">畲族</text><text x="160" y="204" font-size="18" text-anchor="middle" fill="#a08a72" font-family="Songti SC,serif">凤凰装</text></svg></div>
+          <div class="nm">畲族</div><div class="ct">252 首</div>
+        </div>
+        <div class="cov">
+          <div class="art" style="background:linear-gradient(135deg,#c9a8a8,#e0b888)"><svg viewBox="0 0 320 320"><rect width="320" height="320" fill="#d8b090"/><text x="160" y="168" font-size="34" text-anchor="middle" fill="#7a4a3a" font-family="Songti SC,serif">塔吉克族</text><text x="160" y="204" font-size="18" text-anchor="middle" fill="#9a6a52" font-family="Songti SC,serif">雄鹰</text></svg></div>
+          <div class="nm">塔吉克族</div><div class="ct">243 首</div>
+        </div>
+      </div>
+      <ul>
+        <li>封面 = <code>linear-gradient(135deg,c1,c2)</code> + 族名文字</li>
+        <li>四个民族的差别只有色相，缩略图下几乎分不清</li>
+        <li>没有图腾、没有场景、没有民族符号</li>
+        <li>与"民族音乐"这个产品气质不符</li>
+      </ul>
+    </div>
+    <div class="col new">
+      <h4>新做法 <i>插画封面 + 图腾徽章</i></h4>
+      <div class="demo">
+        <div class="cov">
+          <div class="art"><svg viewBox="0 0 320 320"><use href="#art-she"/></svg></div>
+          <div class="nm">畲族</div><div class="ct">252 首</div>
+        </div>
+        <div class="cov">
+          <div class="art"><svg viewBox="0 0 320 320"><use href="#art-tj"/></svg></div>
+          <div class="nm">塔吉克族</div><div class="ct">243 首</div>
+        </div>
+      </div>
+      <ul>
+        <li>封面 = 完整场景插画（远山 / 天空 / 主体 / 前景）</li>
+        <li>每族一个**独有构图母题**：凤凰+飘带 / 雪山+鹰 / 峡谷+溜索 / 桦林+驯鹿</li>
+        <li>左下角加**图腾徽章**（圆形小章），强化民族标识</li>
+        <li>歌单详情页头图复用同一张插画，视觉连贯</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ============ 四张封面插画（定义） ============ -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+<defs>
+
+<!-- ★★★★★ 畲族：凤凰与山 ★★★★★ -->
+<symbol id="art-she" viewBox="0 0 320 320">
+  <defs>
+    <linearGradient id="g-she" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1526"/><stop offset=".52" stop-color="#152c4c"/><stop offset="1" stop-color="#26456a"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" fill="url(#g-she)"/>
+  <g fill="#e6c976">
+    <circle cx="40" cy="38" r="1.7" opacity=".9"/><circle cx="82" cy="66" r="1.1" opacity=".7"/>
+    <circle cx="128" cy="30" r="1.5" opacity=".85"/><circle cx="196" cy="52" r="1.2" opacity=".7"/>
+    <circle cx="272" cy="36" r="1.6" opacity=".9"/><circle cx="300" cy="80" r="1" opacity=".6"/>
+    <circle cx="152" cy="56" r="1" opacity=".65"/><circle cx="66" cy="94" r="1.1" opacity=".7"/>
+  </g>
+  <circle cx="248" cy="62" r="21" fill="#f2e0ad" opacity=".9"/>
+  <circle cx="241" cy="56" r="19" fill="#152c4c" opacity=".5"/>
+  <path d="M0 208 L54 164 L100 196 L156 150 L214 198 L266 168 L320 212 V320 H0Z" fill="#0d1e33"/>
+  <path d="M0 238 L62 206 L120 234 L180 202 L242 238 L302 214 V320 H0Z" fill="#132740"/>
+  <g fill="#08111f">
+    <path d="M28 272 L56 246 L84 272Z"/><path d="M92 276 L124 246 L156 276Z"/><path d="M204 274 L232 250 L260 274Z"/>
+  </g>
+  <!-- 凤凰 -->
+  <g transform="translate(160,124)">
+    <g stroke="#e8a33d" stroke-width="3" fill="none" opacity=".8" stroke-linecap="round">
+      <path d="M-3 16 C-13 40,-21 62,-33 84"/><path d="M3 16 C13 40,21 62,33 84"/>
+    </g>
+    <path d="M0 18 C2 44,4 66,7 90" stroke="#f0c65c" stroke-width="3.6" fill="none" stroke-linecap="round"/>
+    <path d="M-4 -2 C-19 -7,-35 0,-48 15 C-35 8,-25 11,-17 17 C-28 17,-36 22,-42 29 C-29 24,-16 23,-8 18 Z" fill="#e8b53c" stroke="#f8de9c" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M4 -2 C19 -7,35 0,48 15 C35 8,25 11,17 17 C28 17,36 22,42 29 C29 24,16 23,8 18 Z" fill="#e8b53c" stroke="#f8de9c" stroke-width="1.5" stroke-linejoin="round"/>
+    <ellipse cx="0" cy="8" rx="6.5" ry="15" fill="#f0c65c" stroke="#f8de9c" stroke-width="1.4"/>
+    <circle cx="0" cy="-9" r="5.2" fill="#f0c65c" stroke="#f8de9c" stroke-width="1.4"/>
+    <path d="M2.4 -10 l4.6 2.7 -4.6 2.7z" fill="#f8de9c"/>
+    <path d="M-1.5 -13 C-4 -19,-2 -23,2 -24" stroke="#f8de9c" stroke-width="1.9" fill="none" stroke-linecap="round"/>
+  </g>
+  <!-- 彩带 -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M-12 226 C60 212,120 240,200 228 C250 220,290 236,332 226" stroke="#b8121f" stroke-width="11" opacity=".92"/>
+    <path d="M-12 219 C60 205,120 233,200 221 C250 213,290 229,332 219" stroke="#e8a33d" stroke-width="2.6" opacity=".95"/>
+    <path d="M-12 233 C60 219,120 247,200 235 C250 227,290 243,332 233" stroke="#d94f70" stroke-width="2.6" opacity=".9"/>
+    <path d="M-12 217 C60 203,120 231,200 219 C250 211,290 227,332 217" stroke="#2e7d6f" stroke-width="2.2" opacity=".85"/>
+  </g>
+</symbol>
+
+<!-- ★★★★★ 塔吉克族：鹰与慕士塔格 ★★★★★ -->
+<symbol id="art-tj" viewBox="0 0 320 320">
+  <defs>
+    <linearGradient id="g-tj" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5a0e1a"/><stop offset=".45" stop-color="#9c1f2d"/>
+      <stop offset=".8" stop-color="#c07a1e"/><stop offset="1" stop-color="#d9a52a"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" fill="url(#g-tj)"/>
+  <circle cx="160" cy="112" r="44" fill="#f0cf6a" opacity=".95"/>
+  <circle cx="160" cy="112" r="58" fill="none" stroke="#f6e0a0" stroke-width="1.6" opacity=".5"/>
+  <circle cx="160" cy="112" r="71" fill="none" stroke="#f6e0a0" stroke-width="1" opacity=".28"/>
+  <!-- 盘旋的鹰 -->
+  <g transform="translate(160,84)" fill="#3a1016" opacity=".93">
+    <path d="M0 -6 C-6 -4,-9 0,-14 4 C-22 -2,-34 -6,-48 -4 C-36 0,-26 4,-16 8 C-10 10,-4 10,0 8 C4 10,10 10,16 8 C26 4,36 0,48 -4 C34 -6,22 -2,14 4 C9 0,6 -4,0 -6Z"/>
+    <ellipse cx="0" cy="8" rx="3.4" ry="9"/>
+    <path d="M-3 16 L0 30 L3 16Z"/>
+  </g>
+  <!-- 慕士塔格峰 -->
+  <path d="M40 252 L148 62 L256 252 Z" fill="#f4f1e8"/>
+  <path d="M148 62 L256 252 L214 252 Z" fill="#d6cfc0"/>
+  <path d="M148 62 L116 126 L148 108 L180 126 Z" fill="#ffffff" opacity=".85"/>
+  <path d="M148 62 L128 112 L168 112 Z" fill="#ffffff" opacity=".55"/>
+  <!-- 前景山脊 -->
+  <path d="M0 252 L60 214 L110 244 L180 206 L240 240 L300 216 L320 234 V320 H0Z" fill="#4a1418"/>
+  <!-- 石头城 -->
+  <g fill="#2a0c10">
+    <rect x="28" y="232" width="26" height="16"/><rect x="58" y="238" width="18" height="10"/>
+    <rect x="252" y="230" width="24" height="18"/><rect x="280" y="238" width="16" height="10"/>
+  </g>
+  <!-- 毡房 -->
+  <path d="M104 254 C104 236,124 236,124 254Z" fill="#2a0c10"/>
+  <path d="M192 256 C192 238,212 238,212 256Z" fill="#2a0c10"/>
+  <!-- 太阳花刺绣带 -->
+  <rect y="298" width="320" height="22" fill="url(#pt-sun)"/>
+</symbol>
+
+<!-- ★★★★★ 怒族：怒江峡谷 ★★★★★ -->
+<symbol id="art-nu" viewBox="0 0 320 320">
+  <defs>
+    <linearGradient id="g-nu-water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4d8299"/><stop offset="1" stop-color="#22485c"/>
+    </linearGradient>
+  </defs>
+  <path d="M150 0 L172 0 L196 152 L124 152 Z" fill="#a89568" opacity=".42"/>
+  <rect width="320" height="320" fill="#232321"/>
+  <path d="M0 0 H118 L86 158 L104 320 H0Z" fill="#2e2d28"/>
+  <path d="M320 0 H202 L234 158 L216 320 H320Z" fill="#2e2d28"/>
+  <!-- 岩壁怒毯彩条 -->
+  <g opacity=".85">
+    <rect x="0" y="52" width="118" height="5" fill="#a83226"/>
+    <rect x="0" y="60" width="118" height="2.5" fill="#232320"/>
+    <rect x="0" y="66" width="118" height="5" fill="#d99b2b"/>
+    <rect x="0" y="74" width="118" height="2" fill="#232320"/>
+    <rect x="0" y="80" width="118" height="4.5" fill="#6b7f3a"/>
+    <rect x="0" y="88" width="118" height="2" fill="#232320"/>
+    <rect x="0" y="94" width="118" height="4" fill="#2f5d7c"/>
+    <rect x="202" y="122" width="118" height="5" fill="#a83226"/>
+    <rect x="202" y="130" width="118" height="2.5" fill="#232320"/>
+    <rect x="202" y="136" width="118" height="5" fill="#d99b2b"/>
+    <rect x="202" y="144" width="118" height="2" fill="#232320"/>
+    <rect x="202" y="150" width="118" height="4.5" fill="#6b7f3a"/>
+    <rect x="202" y="158" width="118" height="2" fill="#232320"/>
+    <rect x="202" y="164" width="118" height="4" fill="#2f5d7c"/>
+  </g>
+  <!-- 怒江 -->
+  <path d="M118 152 H202 L238 320 H82 Z" fill="url(#g-nu-water)"/>
+  <g stroke="#cfe4ea" stroke-width="1.4" fill="none" opacity=".5">
+    <path d="M132 178 C142 186,136 198,148 206"/>
+    <path d="M172 198 C182 206,176 218,188 226"/>
+    <path d="M148 246 C158 254,152 266,164 274"/>
+  </g>
+  <!-- 溜索 -->
+  <path d="M4 92 Q160 152 316 84" stroke="#c9b48a" stroke-width="2.2" fill="none"/>
+  <path d="M4 97 Q160 157 316 89" stroke="#8a7a5c" stroke-width="1" fill="none" opacity=".7"/>
+  <g transform="translate(160,126)">
+    <rect x="-1.4" y="-8" width="2.8" height="8" fill="#c9b48a"/>
+    <circle cx="0" cy="-11" r="2.6" fill="#c9b48a"/>
+    <path d="M-4.4 -2 L4.4 -2 L2.2 8 L-2.2 8Z" fill="#a83226"/>
+  </g>
+  <!-- 千脚落地房 -->
+  <g transform="translate(50,166)" fill="#1a1916">
+    <path d="M0 34 L18 12 L36 34Z"/>
+    <rect x="4" y="34" width="28" height="18"/>
+    <g stroke="#1a1916" stroke-width="2.4"><path d="M8 52v12M16 52v14M24 52v12"/></g>
+  </g>
+  <!-- 达比亚琴 -->
+  <g transform="translate(246,236) rotate(-14)">
+    <path d="M-13 34 L-8 4 H8 L13 34 C14 46,2 54,-13 34Z" fill="#241f1c" stroke="#c9b48a" stroke-width="1.5"/>
+    <path d="M-8 4 V-14 H8 V4" fill="none" stroke="#c9b48a" stroke-width="2"/>
+    <g stroke="#c9b48a" stroke-width="1">
+      <path d="M-5 4V42M-1.6 4V45M1.6 4V45M5 4V42"/>
+    </g>
+  </g>
+  <!-- 怒毯底带 -->
+  <rect y="288" width="320" height="32" fill="#efe7d8" opacity=".94"/>
+  <g>
+    <rect y="288" width="320" height="3" fill="#a83226"/>
+    <rect y="293" width="320" height="2" fill="#232320"/>
+    <rect y="297" width="320" height="5" fill="#d99b2b"/>
+    <rect y="304" width="320" height="2" fill="#232320"/>
+    <rect y="308" width="320" height="5" fill="#6b7f3a"/>
+    <rect y="315" width="320" height="2" fill="#232320"/>
+    <rect y="319" width="320" height="4" fill="#2f5d7c"/>
+  </g>
+</symbol>
+
+<!-- ★★★★★ 鄂温克族：白桦林驯鹿 ★★★★★ -->
+<symbol id="art-ew" viewBox="0 0 320 320">
+  <defs>
+    <linearGradient id="g-ew" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#16261f"/><stop offset=".55" stop-color="#2a4235"/><stop offset="1" stop-color="#3f5a44"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" fill="url(#g-ew)"/>
+  <path d="M300 0 L320 0 L320 130 L252 210 Z" fill="#f0d9a8" opacity=".13"/>
+  <path d="M60 0 L104 0 L60 190 L20 120 Z" fill="#f0d9a8" opacity=".08"/>
+  <g fill="#1b2f26">
+    <path d="M0 236 L18 196 L36 236Z"/><path d="M30 240 L52 190 L74 240Z"/>
+    <path d="M66 234 L84 200 L102 234Z"/><path d="M96 240 L118 192 L140 240Z"/>
+    <path d="M180 238 L202 194 L224 238Z"/><path d="M214 242 L236 190 L258 242Z"/>
+    <path d="M250 236 L272 198 L294 236Z"/><path d="M286 240 L306 192 L326 240Z"/>
+  </g>
+  <path d="M0 250 Q160 226 320 250 V320 H0Z" fill="#445f4a"/>
+  <g fill="#e8e2d4" opacity=".55">
+    <ellipse cx="40" cy="272" rx="26" ry="7"/><ellipse cx="120" cy="292" rx="20" ry="6"/>
+    <ellipse cx="250" cy="278" rx="24" ry="6"/><ellipse cx="196" cy="304" rx="16" ry="5"/>
+  </g>
+  <!-- 撮罗子 -->
+  <g transform="translate(252,246)">
+    <path d="M-30 4 L30 4 L0 -44 Z" fill="#8b6b4a"/>
+    <path d="M0 -44 L30 4 L12 4 Z" fill="#6d5138"/>
+    <path d="M-8 -18 L8 -18 L8 -14 L-8 -14Z" fill="#2a2018"/>
+  </g>
+  <!-- 白桦树 -->
+  <rect x="42" y="16" width="13" height="250" rx="2" fill="#efe8dc"/>
+  <g fill="#241f1c" opacity=".85">
+    <ellipse cx="48.5" cy="52" rx="5.5" ry="2.2"/><ellipse cx="46" cy="86" rx="3.6" ry="1.6"/>
+    <ellipse cx="51" cy="118" rx="5" ry="2"/><ellipse cx="46" cy="152" rx="3.2" ry="1.4"/>
+    <ellipse cx="50" cy="188" rx="4.6" ry="1.8"/>
+  </g>
+  <rect x="150" y="30" width="10" height="236" rx="2" fill="#e8e0d0"/>
+  <g fill="#241f1c" opacity=".8">
+    <ellipse cx="155" cy="72" rx="4.2" ry="1.8"/><ellipse cx="153" cy="104" rx="3" ry="1.3"/>
+    <ellipse cx="156" cy="140" rx="4" ry="1.6"/>
+  </g>
+  <rect x="282" y="24" width="11" height="242" rx="2" fill="#e4dccb"/>
+  <g fill="#241f1c" opacity=".8">
+    <ellipse cx="287.5" cy="64" rx="4.4" ry="1.8"/><ellipse cx="286" cy="100" rx="3.2" ry="1.4"/>
+    <ellipse cx="289" cy="136" rx="4" ry="1.6"/>
+  </g>
+  <!-- 驯鹿 -->
+  <g transform="translate(112,238)">
+    <g stroke="#6d5138" stroke-width="2.6" fill="none" stroke-linecap="round">
+      <path d="M-6 -18 C-10 -30,-16 -38,-26 -42"/>
+      <path d="M-13 -30 C-18 -34,-22 -40,-24 -46"/>
+      <path d="M6 -18 C10 -30,16 -38,26 -42"/>
+      <path d="M13 -30 C18 -34,22 -40,24 -46"/>
+    </g>
+    <ellipse cx="0" cy="6" rx="20" ry="13" fill="#7d5c3e"/>
+    <path d="M-6 -4 L4 -4 L6 -20 L-4 -20Z" fill="#7d5c3e"/>
+    <ellipse cx="1" cy="-24" rx="8" ry="9" fill="#8b6b4a"/>
+    <ellipse cx="-2" cy="-22" rx="5" ry="6" fill="#a5896a"/>
+    <path d="M-7 -30 L-13 -34 L-8 -26Z" fill="#7d5c3e"/>
+    <path d="M9 -30 L15 -34 L10 -26Z" fill="#7d5c3e"/>
+    <g stroke="#5d432c" stroke-width="3" stroke-linecap="round">
+      <path d="M-13 16 L-15 34"/><path d="M-6 18 L-7 36"/>
+      <path d="M9 18 L11 36"/><path d="M14 16 L17 34"/>
+    </g>
+    <path d="M19 4 L24 8" stroke="#5d432c" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M-5 -14 Q1 -10 7 -14" stroke="#a5332b" stroke-width="2.4" fill="none"/>
+  </g>
+</symbol>
+</defs>
+</svg>
+
+<!-- ============ 卡片网格实景 ============ -->
+<div class="board">
+  <div class="gridview">
+    <div class="cap">歌单卡片网格 · 实际效果（缩略图下即可分辨）</div>
+    <div class="pcards">
+
+      <div class="pcard">
+        <div class="art">
+          <svg viewBox="0 0 320 320"><use href="#art-she"/></svg>
+          <span class="seal"><svg viewBox="0 0 40 40"><circle cx="20" cy="20" r="19" fill="#101d31"/><circle cx="20" cy="20" r="16.4" fill="none" stroke="#e6c976" stroke-width="1" opacity=".75"/><g transform="translate(20,20) scale(.46) translate(-32,-32)" color="#f0d9a8"><use href="#t-phoenix"/></g></svg></span>
+          <span class="play"><svg><use href="#i-play"/></svg></span>
+        </div>
+        <div class="info">
+          <div class="nm">畲族 <span class="zhu">凤凰装</span></div>
+          <div class="tag">凤凰图腾 · 闽东浙南 · 高皇歌 / 畲歌对唱</div>
+          <div class="ct"><span><b>252</b> 首</span><span>山歌 · 彩带</span></div>
+        </div>
+      </div>
+
+      <div class="pcard">
+        <div class="art">
+          <svg viewBox="0 0 320 320"><use href="#art-tj"/></svg>
+          <span class="seal"><svg viewBox="0 0 40 40"><circle cx="20" cy="20" r="19" fill="#4a0d14"/><circle cx="20" cy="20" r="16.4" fill="none" stroke="#d9a52a" stroke-width="1" opacity=".8"/><g transform="translate(20,20) scale(.46) translate(-32,-32)" color="#f0c46a"><use href="#t-eagle"/></g></svg></span>
+          <span class="play"><svg><use href="#i-play"/></svg></span>
+        </div>
+        <div class="info">
+          <div class="nm">塔吉克族 <span class="zhu">雄鹰</span></div>
+          <div class="tag">鹰图腾 · 帕米尔高原 · 鹰笛 / 鹰舞 / 恰甫苏孜</div>
+          <div class="ct"><span><b>243</b> 首</span><span>鹰笛 · 雪山</span></div>
+        </div>
+      </div>
+
+      <div class="pcard">
+        <div class="art">
+          <svg viewBox="0 0 320 320"><use href="#art-nu"/></svg>
+          <span class="seal"><svg viewBox="0 0 40 40"><circle cx="20" cy="20" r="19" fill="#1c1c1a"/><circle cx="20" cy="20" r="16.4" fill="none" stroke="#d99b2b" stroke-width="1" opacity=".8"/><g transform="translate(20,20) scale(.46) translate(-32,-32)" color="#e8c46a"><use href="#t-dabiya"/></g></svg></span>
+          <span class="play"><svg><use href="#i-play"/></svg></span>
+        </div>
+        <div class="info">
+          <div class="nm">怒族 <span class="zhu">怒毯</span></div>
+          <div class="tag">怒江大峡谷 · 达比亚 / 哦得得 / 仙女节</div>
+          <div class="ct"><span><b>243</b> 首</span><span>达比亚 · 峡谷</span></div>
+        </div>
+      </div>
+
+      <div class="pcard">
+        <div class="art">
+          <svg viewBox="0 0 320 320"><use href="#art-ew"/></svg>
+          <span class="seal"><svg viewBox="0 0 40 40"><circle cx="20" cy="20" r="19" fill="#152318"/><circle cx="20" cy="20" r="16.4" fill="none" stroke="#efe8dc" stroke-width="1" opacity=".75"/><g transform="translate(20,20) scale(.46) translate(-32,-32)" color="#e8d3a5"><use href="#t-reindeer"/></g></svg></span>
+          <span class="play"><svg><use href="#i-play"/></svg></span>
+        </div>
+        <div class="info">
+          <div class="nm">鄂温克族 <span class="zhu">驯鹿森林</span></div>
+          <div class="tag">住在大山中的人 · 使鹿部落 · 扎恩达勒 / 萨满调</div>
+          <div class="ct"><span><b>279</b> 首</span><span>驯鹿 · 桦皮</span></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- ============ 封面拆解 ============ -->
+<div class="board">
+  <div class="breakdown">
+    <div class="cap">封面拆解 · 画面构成与独有母题</div>
+
+    <!-- 畲族 -->
+    <div class="bd-item">
+      <div class="big">
+        <div class="art"><svg viewBox="0 0 320 320"><use href="#art-she"/></svg></div>
+        <span class="seal"><svg viewBox="0 0 40 40"><circle cx="20" cy="20" r="19" fill="#101d31"/><circle cx="20" cy="20" r="16.4" fill="none" stroke="#e6c976" stroke-width="1" opacity=".75"/><g transform="translate(20,20) scale(.46) translate(-32,-32)" color="#f0d9a8"><use href="#t-phoenix"/></g></svg></span>
+        <div class="lb">畲族 · 凤凰与山 · 320×320 纯 SVG</div>
+      </div>
+      <div class="txt">
+        <h3>凤凰与山 <span class="zh">畲族 · 崇凤民族</span></h3>
+        <div class="pos">构图逻辑：竖向上的三层山峦 + 横向飘过的一条彩带 + 居中展翅的凤凰 —— 「山」是畲族的居住环境，「带」是定情的彩带，「凤」是图腾。</div>
+        <div class="blk">
+          <h4>画面构成</h4>
+          <div class="el"><span>暮色天幕（藏青渐变）</span><span>星点与月</span><span>三层山峦剪影</span><span>畲寨坡屋顶</span><span>金色展翅凤凰（主体）</span><span>红黄桃粉绿彩带（前景）</span><span>金色凤冠</span></div>
+        </div>
+        <div class="blk">
+          <h4>为什么只能是畲族</h4>
+          <div class="uniq"><b>彩带（合手巾带）</b>是畲族特有的定情信物——宽约四厘米、长一米余、自织，纹样为柳条与几何织纹。画面中那条横穿的彩带是<b>唯一以"织物"作为前景装饰</b>的民族母题，与塔吉克的刺绣带、怒毯的竖条、桦皮的横纹都不同。</div>
+        </div>
+        <div class="blk">
+          <h4>主色板</h4>
+          <div class="pal"><i style="background:#0a1526"></i><i style="background:#152c4c"></i><i style="background:#b8121f"></i><i style="background:#e8a33d"></i><i style="background:#d94f70"></i><i style="background:#2e7d6f"></i><i style="background:#e6c976"></i></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 塔吉克族 -->
+    <div class="bd-item">
+      <div class="big">
+        <div class="art"><svg viewBox="0 0 320 320"><use href="#art-tj"/></svg></div>
+        <span class="seal"><svg viewBox="0 0 40 40"><circle cx="20" cy="20" r="19" fill="#4a0d14"/><circle cx="20" cy="20" r="16.4" fill="none" stroke="#d9a52a" stroke-width="1" opacity=".8"/><g transform="translate(20,20) scale(.46) translate(-32,-32)" color="#f0c46a"><use href="#t-eagle"/></g></svg></span>
+        <div class="lb">塔吉克族 · 鹰与慕士塔格 · 320×320 纯 SVG</div>
+      </div>
+      <div class="txt">
+        <h3>鹰与慕士塔格 <span class="zh">塔吉克族 · 鹰之族</span></h3>
+        <div class="pos">构图逻辑：金字塔形雪峰立于正中 + 峰后一轮金色太阳 + 高空一只盘旋的鹰 + 山脚石头城与毡房 + 底部太阳花刺绣带。四张封面里唯一「对称式山体构图」。</div>
+        <div class="blk">
+          <h4>画面构成</h4>
+          <div class="el"><span>高原日出天空（红→金）</span><span>三重太阳光环</span><span>盘旋的鹰（剪影）</span><span>慕士塔格峰（白雪 + 阴影面）</span><span>石头城残墙</span><span>毡房</span><span>底部太阳花刺绣带</span></div>
+        </div>
+        <div class="blk">
+          <h4>为什么只能是塔吉克族</h4>
+          <div class="uniq"><b>慕士塔格峰（冰山之父）+ 石头城</b>是塔什库尔干独有的地标组合；底部的<b>太阳花刺绣带</b>来自塔吉克女性库勒塔帽的刺绣纹样。且整套配色为<b>红 / 金 / 白 / 黑绒</b>——刻意<b>不出现大面积蓝绿</b>，因为天蓝与绿在该族习俗中表示不吉利。</div>
+        </div>
+        <div class="blk">
+          <h4>主色板</h4>
+          <div class="pal"><i style="background:#5a0e1a"></i><i style="background:#9c1f2d"></i><i style="background:#f0cf6a"></i><i style="background:#d9a52a"></i><i style="background:#f4f1e8"></i><i style="background:#4a1418"></i><i style="background:#2a0c10"></i></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 怒族 -->
+    <div class="bd-item">
+      <div class="big">
+        <div class="art"><svg viewBox="0 0 320 320"><use href="#art-nu"/></svg></div>
+        <span class="seal"><svg viewBox="0 0 40 40"><circle cx="20" cy="20" r="19" fill="#1c1c1a"/><circle cx="20" cy="20" r="16.4" fill="none" stroke="#d99b2b" stroke-width="1" opacity=".8"/><g transform="translate(20,20) scale(.46) translate(-32,-32)" color="#e8c46a"><use href="#t-dabiya"/></g></svg></span>
+        <div class="lb">怒族 · 怒江峡谷 · 320×320 纯 SVG</div>
+      </div>
+      <div class="txt">
+        <h3>怒江峡谷 <span class="zh">怒族 · 峡谷与怒毯</span></h3>
+        <div class="pos">构图逻辑：V 形峡谷夹一条怒江 + 顶部一线天光 + 一根横跨峡谷的溜索 + 山腰千脚落地房 + 岩壁上露出怒毯竖条彩纹。四张封面里唯一「垂直纵深构图」。</div>
+        <div class="blk">
+          <h4>画面构成</h4>
+          <div class="el"><span>一线天光</span><span>左右 V 形岩壁</span><span>岩壁上的怒毯竖条彩纹</span><span>怒江水流</span><span>横跨峡谷的溜索（带行人）</span><span>山腰千脚落地房</span><span>前景达比亚四弦琴</span><span>底部怒毯彩带</span></div>
+        </div>
+        <div class="blk">
+          <h4>为什么只能是怒族</h4>
+          <div class="uniq"><b>怒毯（约多）的竖条彩纹</b>被直接画在两侧岩壁上——这是四套里唯一把<b>织物纹样当地貌纹理</b>用的设计。加上<b>溜索</b>（怒江峡谷标志性交通工具）与<b>千脚落地房</b>（干栏式双层木竹结构），任何一张缩略图都能锁定这是怒族。</div>
+        </div>
+        <div class="blk">
+          <h4>主色板</h4>
+          <div class="pal"><i style="background:#232321"></i><i style="background:#2e2d28"></i><i style="background:#a83226"></i><i style="background:#d99b2b"></i><i style="background:#6b7f3a"></i><i style="background:#2f5d7c"></i><i style="background:#efe7d8"></i></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 鄂温克族 -->
+    <div class="bd-item">
+      <div class="big">
+        <div class="art"><svg viewBox="0 0 320 320"><use href="#art-ew"/></svg></div>
+        <span class="seal"><svg viewBox="0 0 40 40"><circle cx="20" cy="20" r="19" fill="#152318"/><circle cx="20" cy="20" r="16.4" fill="none" stroke="#efe8dc" stroke-width="1" opacity=".75"/><g transform="translate(20,20) scale(.46) translate(-32,-32)" color="#e8d3a5"><use href="#t-reindeer"/></g></svg></span>
+        <div class="lb">鄂温克族 · 白桦林驯鹿 · 320×320 纯 SVG</div>
+      </div>
+      <div class="txt">
+        <h3>白桦林驯鹿 <span class="zh">鄂温克族 · 住在大山中的人</span></h3>
+        <div class="pos">构图逻辑：竖直的白桦树干作为视觉框架 + 苔藓雪地 + 林间一头带大角的驯鹿 + 远处针叶林 + 圆锥撮罗子。四张封面里唯一「垂直树干框架构图」。</div>
+        <div class="blk">
+          <h4>画面构成</h4>
+          <div class="el"><span>森林天光（深绿渐变）</span><span>斜射阳光束</span><span>远处针叶林剪影</span><span>三棵白桦树（白干黑斑）</span><span>苔藓雪地</span><span>林间驯鹿（大鹿角 + 红缨项圈）</span><span>圆锥撮罗子</span></div>
+        </div>
+        <div class="blk">
+          <h4>为什么只能是鄂温克族</h4>
+          <div class="uniq"><b>白桦树皮的黑斑纹理</b>是鄂温克族桦树皮制作技艺（国家级非遗）的视觉指纹——该族用<b>烧红的铁线在桦皮上烫出黑纹</b>，再以红、蓝点缀。画面中的树干黑斑正是这一工艺的转译；加上<b>带大鹿角的驯鹿</b>与<b>圆锥撮罗子</b>，民族识别度最高。</div>
+        </div>
+        <div class="blk">
+          <h4>主色板</h4>
+          <div class="pal"><i style="background:#16261f"></i><i style="background:#2a4235"></i><i style="background:#efe8dc"></i><i style="background:#241f1c"></i><i style="background:#8b6b4a"></i><i style="background:#7d5c3e"></i><i style="background:#a5332b"></i></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ============ 详情页头图 ============ -->
+<div class="board">
+  <div class="detailview">
+    <div class="cap">歌单详情页头图 · 插画复用为横幅（四族示例）</div>
+
+    <div class="dhead" style="margin-bottom:22px">
+      <div class="banner">
+        <svg class="art" viewBox="0 0 320 320" preserveAspectRatio="xMidYMid slice"><use href="#art-she"/></svg>
+        <div class="veil"></div>
+        <div class="ov">
+          <h2>畲族歌单</h2>
+          <div class="sub">凤凰图腾 · 崇凤民族 · 高皇歌 / 畲歌对唱 · 252 首</div>
+          <div class="acts"><i class="solid">▶ 播放全部</i><i>＋ 收藏</i><i>下载</i></div>
+        </div>
+      </div>
+      <div class="rows">
+        <div class="rw hd"><span class="ix">#</span><span>歌曲</span><span>歌手</span><span>音源</span><span style="text-align:right">时长</span></div>
+        <div class="rw on"><span class="ix">♪</span><span class="nm">景宁畲话民歌《高皇歌》</span><span class="sg">海宝Agul</span><span class="ab">B站</span><span class="du">05:12</span></div>
+        <div class="rw"><span class="ix">2</span><span class="nm">凤凰与山客（钢琴版）</span><span class="sg">蓝永潇</span><span class="ab">B站</span><span class="du">04:08</span></div>
+      </div>
+    </div>
+
+    <div class="dhead" style="margin-bottom:22px">
+      <div class="banner">
+        <svg class="art" viewBox="0 0 320 320" preserveAspectRatio="xMidYMid slice"><use href="#art-tj"/></svg>
+        <div class="veil"></div>
+        <div class="ov">
+          <h2>塔吉克族歌单</h2>
+          <div class="sub">鹰图腾 · 帕米尔高原 · 鹰笛 / 鹰舞 / 恰甫苏孜 · 243 首</div>
+          <div class="acts"><i class="solid">▶ 播放全部</i><i>＋ 收藏</i><i>下载</i></div>
+        </div>
+      </div>
+      <div class="rows">
+        <div class="rw hd"><span class="ix">#</span><span>歌曲</span><span>歌手</span><span>音源</span><span style="text-align:right">时长</span></div>
+        <div class="rw on"><span class="ix">♪</span><span class="nm">恰甫苏孜 Qiafu Suzi</span><span class="sg">瑞鸣音乐</span><span class="ab">酷我</span><span class="du">05:44</span></div>
+        <div class="rw"><span class="ix">2</span><span class="nm">帕米尔塔吉克族优美旋律《鹰笛》</span><span class="sg">民间录音</span><span class="ab">B站</span><span class="du">03:21</span></div>
+      </div>
+    </div>
+
+    <div class="dhead" style="margin-bottom:22px">
+      <div class="banner">
+        <svg class="art" viewBox="0 0 320 320" preserveAspectRatio="xMidYMid slice"><use href="#art-nu"/></svg>
+        <div class="veil"></div>
+        <div class="ov">
+          <h2>怒族歌单</h2>
+          <div class="sub">怒江大峡谷 · 达比亚 / 哦得得 · 243 首</div>
+          <div class="acts"><i class="solid">▶ 播放全部</i><i>＋ 收藏</i><i>下载</i></div>
+        </div>
+      </div>
+      <div class="rows">
+        <div class="rw hd"><span class="ix">#</span><span>歌曲</span><span>歌手</span><span>音源</span><span style="text-align:right">时长</span></div>
+        <div class="rw on"><span class="ix">♪</span><span class="nm">怒族达比亚弹唱《亚勒甲勒哦得得》</span><span class="sg">啄木鸟9999</span><span class="ab">B站</span><span class="du">06:04</span></div>
+        <div class="rw"><span class="ix">2</span><span class="nm">老姆登之夜</span><span class="sg">江小村</span><span class="ab">酷我</span><span class="du">04:27</span></div>
+      </div>
+    </div>
+
+    <div class="dhead">
+      <div class="banner">
+        <svg class="art" viewBox="0 0 320 320" preserveAspectRatio="xMidYMid slice"><use href="#art-ew"/></svg>
+        <div class="veil"></div>
+        <div class="ov">
+          <h2>鄂温克族歌单</h2>
+          <div class="sub">住在大山中的人 · 使鹿部落 · 扎恩达勒 / 萨满调 · 279 首</div>
+          <div class="acts"><i class="solid">▶ 播放全部</i><i>＋ 收藏</i><i>下载</i></div>
+        </div>
+      </div>
+      <div class="rows">
+        <div class="rw hd"><span class="ix">#</span><span>歌曲</span><span>歌手</span><span>音源</span><span style="text-align:right">时长</span></div>
+        <div class="rw on"><span class="ix">♪</span><span class="nm">母鹿之歌 · 小鹿与鹿妈妈</span><span class="sg">瑞鸣音乐&关金芳</span><span class="ab">B站</span><span class="du">21:28</span></div>
+        <div class="rw"><span class="ix">2</span><span class="nm">鄂温克族民歌《东泉》</span><span class="sg">其其格玛</span><span class="ab">B站</span><span class="du">04:11</span></div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ============ 落地说明 ============ -->
+<div class="board">
+  <div class="impl">
+    <h4>落地方式（确认设计后执行）</h4>
+    <p>改一个函数即可：模板第 <code>2314</code> 行的 <code>ethCardHTML(g)</code>。现在封面 div 是渐变：</p>
+    <pre>const grad = ETH_COLORS[g.ci % ETH_COLORS.length];
+const gs = [mixWhite(grad[0], .68), mixWhite(grad[1], .68)];
+return `&lt;div class="pl-card eth-card" data-k="${g.key}" data-nm="${esc(g.name)}"&gt;
+  &lt;div class="cov" style="background:linear-gradient(135deg,${gs[0]},${gs[1]});color:${grad[0]}"&gt;${esc(g.name)}...&lt;/div&gt;
+  ...`;</pre>
+    <p>改成按 <code>g.key</code> 取对应的插画 <code>&lt;symbol&gt;</code>，其余民族回落到现有渐变：</p>
+    <pre>const ETH_ART = { e20:'#art-she', e39:'#art-tj', e40:'#art-nu', e43:'#art-ew' };
+const artId = ETH_ART[g.key];
+const cov = artId
+  ? `&lt;svg viewBox="0 0 320 320" style="width:100%;height:100%;display:block"&gt;&lt;use href="${artId}"/&gt;&lt;/svg&gt;`
+  : `&lt;span style="...">${esc(g.name)}${st}&lt;/span&gt;`;   // 其他民族保持原渐变</pre>
+    <ol>
+      <li>把本稿的四张 <code>&lt;symbol id="art-*"&gt;</code> 与图腾 <code>&lt;symbol id="t-*"&gt;</code> 整段搬进 <code>mountainriverechoes.html</code> 顶部已有的 SVG <code>&lt;defs&gt;</code> 区（那里已有 30 个图标 symbol）</li>
+      <li>改 <code>ethCardHTML()</code>，四个民族 key 走插画，其余走渐变</li>
+      <li>歌单详情页头图（<code>.pl-head .cov</code>）复用同一张插画，加 <code>preserveAspectRatio="xMidYMid slice"</code> 裁成横幅</li>
+      <li>侧栏 <code>.logo-icon</code> 与播放条封面图形，按当前民族切换图腾</li>
+      <li>其余民族（汉族民间小调等）保持原有金色／红色渐变默认皮肤，<b>完全不受影响</b></li>
+    </ol>
+    <p style="margin-top:12px;color:#8d94a1;font-size:12px">插画为纯矢量 SVG，四张合计约 12 KB，随模板进包；无网络请求、无位图资源、任意分辨率清晰。</p>
+  </div>
+</div>
+
+</body>
+</html>
