@@ -86,9 +86,8 @@ input{font-family:inherit;outline:none}
 #sidebar .nav-item .ic{color:var(--side-txt3)}
 .nav-ethnos:hover{background:var(--side-hover)}
 .nav-indexhl:hover{background:var(--side-hover)}
-/* 删除按钮：行 hover 才显形（网易云风格） */
-#pld-tbody tr .a-rm{opacity:0;transition:opacity .12s;color:var(--side-txt3)}
-#pld-tbody tr:hover .a-rm{opacity:1}
+/* 删除按钮：常显（用户要求每首歌右侧可见），hover 变红 */
+#pld-tbody tr .a-rm{opacity:1;transition:opacity .12s;color:var(--side-txt3)}
 #pld-tbody tr .a-rm:hover{color:var(--red)}
 /* ================= 顶栏 ================= */
 #main{grid-row:1;display:flex;flex-direction:column;min-width:0;min-height:0;background:#fff}
@@ -136,12 +135,16 @@ tr:hover .td-index .pbtn{display:block}
 .td-singer,.td-album{max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--txt2);cursor:pointer}
 .td-singer:hover,.td-album:hover{color:var(--txt)}
 .td-time{color:var(--txt3);font-variant-numeric:tabular-nums;white-space:nowrap}
-.td-act{width:132px;white-space:nowrap;text-align:right;opacity:0;transition:opacity .1s}
+.td-act{width:132px;white-space:nowrap;text-align:right;opacity:1;transition:opacity .1s}
 tr:hover .td-act{opacity:1}
+/* 默认仅"删除"按钮常显（红色辨识），其余操作图标维持 hover 出现，保持界面整洁 */
+.td-act button:not(.a-rm):not(.a-gdel):not(.a-libdel){opacity:0;transition:opacity .12s}
+tr:hover .td-act button:not(.a-rm):not(.a-gdel):not(.a-libdel){opacity:1}
 .td-act button{color:var(--txt3);padding:4px;border-radius:6px;margin-left:2px}
 .td-act button:hover{color:var(--red);background:#ffe3e3}
 .td-act button.faved{color:var(--red)}
-.td-act button.a-rm:hover{color:#e04b4b;background:#fde9e9}
+.td-act .a-rm, .td-act .a-gdel, .td-act .a-libdel{opacity:1 !important;color:#e04b4b}
+.td-act .a-rm:hover, .td-act .a-gdel:hover, .td-act .a-libdel:hover{color:#e04b4b;background:#fde9e9}
 .td-singer,.td-album{text-decoration:underline dotted transparent;text-underline-offset:3px}
 .td-singer:hover,.td-album:hover{text-decoration-color:var(--red)}
 .td-act button.faved{color:var(--red)}
@@ -152,7 +155,7 @@ tr:hover .td-act{opacity:1}
 .srctag{display:inline-flex;align-items:center;padding:1px 8px;border-radius:6px;font-size:11px;color:#fff;white-space:nowrap}
 .grptag{display:inline-flex;align-items:center;padding:1px 8px;border-radius:6px;font-size:11px;color:#8a5a00;background:linear-gradient(135deg,#fdeebc,#f7dfa0);white-space:nowrap;cursor:pointer}
 .grptag:hover{text-decoration:underline}
-.td-act .a-gdel{opacity:.35;transition:opacity .12s;color:var(--txt2)}
+.td-act .a-gdel{opacity:1;transition:opacity .12s;color:var(--txt2)}
 .td-act .a-gdel:hover{opacity:1;color:#e04b4b}
 .eth-adel{display:none;margin-left:8px;color:#c94f4f;cursor:pointer;font-size:12px;padding:2px 6px;border-radius:6px;flex:none}
 .eth-adel:hover{background:#fdeaea;color:#e04b4b}
@@ -650,6 +653,14 @@ tr:hover .td-act{opacity:1}
 .home-title{font-family:var(--serif);font-size:40px;line-height:1.15;margin:0 0 12px;font-weight:700}
 .home-sub{font-size:15px;opacity:.92;margin:0 0 22px;line-height:1.65}
 .home-acts{display:flex;gap:12px;flex-wrap:wrap}
+/* 曲库概览统计卡（新增）：显示本曲库曲目总数 */
+.lib-stats{display:flex;align-items:center;gap:24px;background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:22px 28px;margin-bottom:26px;box-shadow:var(--sh-1)}
+.lib-stats .ls-num{font-family:var(--serif);font-size:48px;line-height:1;font-weight:700;color:var(--eth)}
+.lib-stats .ls-label{font-size:13px;color:var(--txt2);margin-top:8px}
+.lib-stats .ls-div{width:1px;height:48px;background:var(--line)}
+.lib-stats .ls-ethnic{font-family:var(--serif);font-size:18px;font-weight:600;color:var(--txt)}
+.lib-stats .ls-sub{font-size:12.5px;color:var(--txt3);margin-top:6px}
+.lib-stats .ls-tag{display:inline-block;margin-top:9px;font-size:11px;color:var(--eth);border:1px solid var(--eth);border-radius:12px;padding:3px 11px;opacity:.85}
 .btn-lg{padding:12px 26px;font-size:15px}
 .home-section{margin-bottom:30px}
 .home-sec-head{display:flex;align-items:baseline;gap:12px;margin-bottom:14px}
@@ -1159,6 +1170,37 @@ body.skin-ewenki{--eth:#2F4538;--eth2:#8B6A3E}
             </div>
           </div>
         </div>
+
+        <!-- 曲库概览：本曲库曲目总数 -->
+        <div class="lib-stats">
+          <div>
+            <div class="ls-num"><span id="lib-count">{{ count }}</span></div>
+            <div class="ls-label">首曲目</div>
+          </div>
+          <div class="ls-div"></div>
+          <div>
+            <div class="ls-ethnic">{{ ethnic }} · 民族音乐档案</div>
+            <div class="ls-sub">民歌 · 特色曲种 · 民族语言歌曲</div>
+            <span class="ls-tag">本曲库收录总量</span>
+          </div>
+        </div>
+        <script>
+        /* 曲库概览：真实曲目数 = 磁盘计数优先（/api/index 的 group_songs，按民族名直接读盘），
+           内存态 groups[].count 仅作快速补充；两端都不可得时回落到 /api/ethnos。
+           兼容冻结二进制：不依赖后端注入 count，也不受内存态未载入导致的 0 值影响。
+           用原生 fetch（不依赖主脚本的 api()/state），确保统计卡内联脚本在 body 中先于主脚本执行也能工作。 */
+        async function refreshLibCount(){
+          var el = document.getElementById('lib-count');
+          if (!el) return;
+          var nm = (document.getElementById('home-ethnic') || {}).textContent || '';
+          function set(n){ if (typeof n === 'number' && n > 0){ el.textContent = n; return true; } return false; }
+          /* 内存态 groups[].count（构建/载入后为准） */
+          try { var e = await (await fetch('/api/ethnos')).json(); var g = (e.groups || [])[0]; if (g && g.count != null) if (set(g.count)) return; } catch(_){}
+          /* 磁盘真实曲目数兜底（/api/index 的 group_songs，按民族名直接读盘，最可靠） */
+          try { var idx = await (await fetch('/api/index')).json(); var gs = (idx.group_songs) || {}; if (nm && gs[nm] != null) set(gs[nm]); } catch(_){}
+        }
+        (function () { refreshLibCount(); })();
+        </script>
 
         <div class="home-section">
           <div class="home-sec-head"><h3>探索</h3><span class="home-sec-sub">按声音类型、乐器与歌者漫游</span></div>
@@ -2010,6 +2052,8 @@ function songRow(it, i, ctx){
   const showGroup = ctx && ctx.showGroup;
   const gCell = showGroup ? `<td class="td-group"><span class="grptag" data-g="${esc(it.group || '')}">${esc(it.group || '—')}</span></td>` : '';
   const delBtn = showGroup ? `<button class="a-gdel" title="从「${esc(it.group || '')}」库删除该曲"><svg class="ic sm"><use href="#i-trash"/></svg></button>` : '';
+  /* 普通列表(搜索/历史等, 未预置 group): 提供"从曲库删除(若该曲在库中)"按钮 */
+  const libDelBtn = (ctx && !ctx.removable && !ctx.showGroup) ? `<button class="a-libdel" title="从曲库删除（若这首歌在曲库中）"><svg class="ic sm"><use href="#i-trash"/></svg></button>` : '';
   const _bk = trackKeyOf(it), _on = batchSel.has(_bk);
   const chkEl = `<input type="checkbox" class="bchk" ${_on ? 'checked' : ''}>`;
   return `<tr data-i="${i}" ${ctx && ctx.ethGroup ? 'draggable="true"' : ''} class="${playing ? 'playing' : ''}${_on ? ' on' : ''}${isPinned ? ' is-pinned' : ''}" ${showGroup && it.group ? `data-ethgroup="${esc(it.group)}"` : ''}>
@@ -2029,6 +2073,7 @@ function songRow(it, i, ctx){
       <button class="a-dl" title="多音源下载"><svg class="ic sm"><use href="#i-download"/></svg></button>
       ${delBtn}
       ${rmBtn}
+      ${libDelBtn}
     </td></tr>`;
 }
 
@@ -2214,6 +2259,19 @@ function bindSongRows(tbody, items, ctx){
         syncAfterEdit(false);
       } catch (err) { toast('删除失败: ' + err.message, true); }
     };
+    const ldel = tr.querySelector('.a-libdel');
+    if (ldel) ldel.onclick = async e => {
+      e.stopPropagation();
+      if (!confirm(`从曲库删除《${it.song_name}》（${it.singers || '未知歌手'}）？\n若这首歌在曲库中，将按 歌名+歌手+音源 精确删除；若不在曲库中（外部搜索结果）则无需操作。`)) return;
+      const res = await removeFromAnyLibrary(it);
+      if (res.ok){
+        toast(`已从曲库删除《${it.song_name}》`);
+        if (currentPage === 'search' && state.search){ const s = state.search; s.rows = (s.rows || []).filter(x => x !== it); s.total = Math.max(0, (s.total || 0) - 1); renderSearchResults(); }
+        syncAfterEdit(false);
+      } else {
+        toast(`《${it.song_name}》不在曲库中（是外部搜索结果），无需删除`, true);
+      }
+    };
     const pn = tr.querySelector('.a-pin');
     if (pn && ctx.ethGroup) pn.onclick = async e => {
       e.stopPropagation();
@@ -2228,6 +2286,21 @@ function bindSongRows(tbody, items, ctx){
     tr.querySelector('.td-singer').onclick = e => { e.stopPropagation(); smartSingerClick(it.singers, it, ctx); };
     tr.querySelector('.td-album').onclick = e => { e.stopPropagation(); smartAlbumClick(it.album, it.singers, it.album_url); };
   });
+}
+/* 跨库删除: 前端逐一尝试各民族库(精确复合键), 命中即删, 不命中返回 ok:false(外部搜索结果则无需操作) */
+async function removeFromAnyLibrary(it){
+  const tname = (it.song_name || '').trim(), tsingers = (it.singers || '').trim(), tsource = (it.source || '').trim();
+  if (!tname) return { ok: false };
+  const keys = (((state.ethnos || {}).groups) || []).map(g => g.key).filter(Boolean);
+  if (!keys.length) return { ok: false };
+  for (const gk of keys){
+    try {
+      const r = await api('/api/ethnos/edit', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ group: gk, editor: ethEditor(), action: 'remove_track', tname, tsingers, tsource }) });
+      if (r && !r.error) return { ok: true, group: gk };
+    } catch (_) {}
+  }
+  return { ok: false };
 }
 /* 歌手/专辑智能跳转: 歌手有内部歌单进歌单, 没有则询问建歌手卡片; 专辑一律外链原平台 */
 async function smartSingerClick(singers, it, ctx){
@@ -3958,6 +4031,7 @@ async function syncAfterEdit(reloadDetail){
   try { if (reloadDetail && currentDetail) await openPlaylistDetail(currentDetail.id, currentDetail.name, currentDetail.platform); } catch(e){}
   if (currentPage === 'library') { try { renderIndex(); } catch(e){ /* 页面尚未就绪, 忽略 */ } }
   try { setBatchMode(false); } catch(e){}
+  try { refreshLibCount(); } catch(e){}   /* 删除/增歌后刷新首页曲库概览计数 */
 }
 async function batchDownload(songs){
   toast(`开始批量下载 ${songs.length} 首...`);

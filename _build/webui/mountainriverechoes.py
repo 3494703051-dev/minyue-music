@@ -1403,13 +1403,38 @@ def source_search_worker(job_id, source):
 
 
 # ---------------------------------------------------------------- 页面
+def _current_library_count():
+    """当前民族曲库的曲目总数（单族 app 仅 1 个民族）。
+    优先读运行时 ethnos_state；若尚未就绪则从 eXX 文件 count 字段兜底。"""
+    if not ETHNIC_GROUPS:
+        return 0
+    _key = ETHNIC_GROUPS[0]['key']
+    try:
+        with ethnos_lock:
+            _c = ethnos_state.get(_key, {}).get('count')
+        if _c:
+            return _c
+    except Exception:
+        pass
+    try:
+        _p = _cache_path(_key)
+        if _p and _p.exists():
+            import json as _json
+            _d = _json.loads(_p.read_text(encoding='utf-8'))
+            return _d.get('count', 0) or 0
+    except Exception:
+        pass
+    return 0
+
+
 @app.route('/')
 def index():
     _cur = ETHNIC_GROUPS[0]['name'] if ETHNIC_GROUPS else '畲族'
     _pal = ETHNIC_PALETTE.get(_cur, ETHNIC_PALETTE['畲族'])
     return render_template('mountainriverechoes.html',
                            ethnic=_cur, accent=_pal['accent'],
-                           accent2=_pal['accent2'], pattern=_pal['pattern'])
+                           accent2=_pal['accent2'], pattern=_pal['pattern'],
+                           count=_current_library_count())
 
 
 # ---------------------------------------------------------------- 民族元数据 (当前聚焦族 / 全部四族)
@@ -1432,7 +1457,7 @@ def api_ethnos_meta():
 @app.route('/api/ethnos/allmeta')
 def api_ethnos_allmeta():
     _cur = ETHNIC_GROUPS[0]['name'] if ETHNIC_GROUPS else '畲族'
-    _order = ['畲族', '塔吉克族', '怒族', '鄂温克族']
+    _order = [g['name'] for g in ETHNIC_GROUPS]
     _groups = []
     for _n in _order:
         _pal = ETHNIC_PALETTE.get(_n, ETHNIC_PALETTE['畲族'])
